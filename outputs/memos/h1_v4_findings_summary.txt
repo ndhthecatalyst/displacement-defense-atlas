@@ -1,0 +1,76 @@
+H1 v4 Findings Summary — Real Data Pipeline
+==============================================
+Generated: 2026-04-21 04:52
+
+DATA INPUTS
+-----------
+CIP Lines: 2012 Bond (425 projects), 2017 Bond (1,029), Active (162 unique), 2024 Bond (448)
+Expenditure measure: AmountPaid (actual paid) for 2012/2017/Active; BondAmount for 2024 (no disbursements yet)
+Total expenditure in model: $984,080,737
+Council Districts: 14 real polygon boundaries (Dallas Open Data)
+Vendor Payments: FY2025-2026 supplemental (145,551 transactions)
+Census Tracts: 323 tracts in model sample (Dallas city limits)
+
+DISTRICT ALLOCATION METHOD
+---------------------------
+- v4 uses real council district polygons (replaces lat/lon quadrant proxy)
+- Projects assigned to districts via CD01-CD14 boolean flags
+- Multi-district projects split evenly across touching districts
+- Within-district: population-weighted tract allocation
+- CIP type FEs: Streets, Drainage, Parks, EconDev, Other
+
+NORTH/SOUTH COMPARISON (D6/D7/D8 = South)
+-------------------------------------------
+South tracts (D6/7/8): 60
+North tracts:           263
+Median CIP/cap South:  $1,144
+Median CIP/cap North:  $584
+Mean % Black South:    33.7%
+Mean % Black North:    19.4%
+Mean % Hispanic South: 51.9%
+Mean % Hispanic North: 36.8%
+Median Income South:   $51,410
+Median Income North:   $70,932
+t-test p-value:        0.0000
+Below 80% AMI:         65.0% of model tracts
+
+REGRESSION RESULTS (HC3 robust SEs)
+-------------------------------------
+
+M1 Bivariate: n=323, adj-R²=-0.003
+  β(pct_nonwhite) = 0.1483, p=0.7670
+
+M2 Full controls: n=323, adj-R²=0.206
+  β(pct_nonwhite) = -1.2697, p=0.1617
+  β(south_of_i30) = 377.5972, p=0.0000
+
+M3 Split race: n=323, adj-R²=0.273
+  β(pct_black) = -5.5126, p=0.0000
+  β(south_of_i30) = 397.6598, p=0.0000
+
+M4 CIP type FE: n=323, adj-R²=0.690
+  β(pct_nonwhite) = -2.6324, p=0.0000
+  β(south_of_i30) = 309.7367, p=0.0000
+
+M5 Log-log: n=323, adj-R²=0.191
+  β(pct_nonwhite) = -0.0015, p=0.1778
+  β(south_of_i30) = 0.4432, p=0.0000
+
+M6 Inv. Gap: n=323, adj-R²=0.404
+  β(pct_nonwhite) = -0.4436, p=0.6443
+  β(south_of_i30) = 366.9355, p=0.0000
+
+M7 +HOLC-D: n=323, adj-R²=0.232
+  β(pct_nonwhite) = -0.8993, p=0.3178
+  β(south_of_i30) = 357.6862, p=0.0000
+
+M8 District FE: n=323, adj-R²=1.000
+  β(pct_nonwhite) = -0.0000, p=0.0000
+
+OPEN DATA GAPS (pending PIA FY2016-2018 request)
+-------------------------------------------------
+- Vendor Payments only cover FY2025-2026 (not full 2019-present as labeled)
+- FY2016-2024 expenditure data requested via Texas PIA (email drafted)
+- 2024 Bond AmountPaid = $0 (too early for disbursements; BondAmount used as proxy)
+- Full road-length proration requires GeoJSON version of CIP line layers
+  (Shape__Length present but per-tract geometry split requires spatial overlay)
