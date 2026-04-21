@@ -2,9 +2,9 @@
 ## Below the Line: Dallas I-30 Corridor Displacement Risk
 
 **Author:** Nicholas Donovan Hawkins  
-**Institution:** Texas Southern University — Freeman Honors College  
-**Degree:** B.S. Political Science / Economics  
-**Advisor:** [Committee TBD]  
+**Institution:** Texas Southern University  
+**Degree:** B.S. General Studies  
+**Advisor:** [TBD]  
 **Thesis Due:** December 15, 2027  
 
 ---
@@ -83,7 +83,7 @@ displacement-defense-atlas/
 
 ### Citation
 
-Hawkins, N.D. (2027). *Below the Line: How Dallas's Municipal Investment Architecture Reinforces Displacement Risk South of I-30.* Undergraduate Honors Thesis, Texas Southern University Freeman Honors College.
+Hawkins, N.D. (2027). *Below the Line: How Dallas's Municipal Investment Architecture Reinforces Displacement Risk South of I-30.* Undergraduate Thesis, Texas Southern University.
 
 ---
 
