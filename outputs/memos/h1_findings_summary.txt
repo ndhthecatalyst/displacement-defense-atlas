@@ -1,0 +1,15 @@
+
+H1 FINDINGS SUMMARY
+===================
+Model: log(CIP per capita + 1) ~ pct_nonwhite + log(income) + log(population) + south_of_i30
+N = 642 | Adj. R² = 0.0100 | HC3 robust standard errors
+
+Key result:
+  β(pct_nonwhite) = -0.7120 (p=0.0316, 95% CI: [-1.3611, -0.0628])
+  → % non-white is negatively associated with CIP per capita (statistically significant)
+
+North/South:
+  β(south_of_i30) = 0.3909 (p=0.0161)
+
+Breusch-Pagan: stat=9.471, p=0.0503
+VIF max: 3.06

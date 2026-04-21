@@ -1,0 +1,35 @@
+{
+  "project": "Displacement Defense Atlas v0 \u2014 Below the Line",
+  "author": "Nicholas Donovan Hawkins | Texas Southern University",
+  "generated": "2026-04-15T00:49:06.123515",
+  "geography": "Dallas County, TX \u2014 I-30 Corridor",
+  "tract_count": 645,
+  "data_sources": {
+    "census_tracts": "TIGER/Line 2020, Dallas County (FIPS 48113)",
+    "acs": "ACS 2023 5-Year Estimates \u2014 Census API",
+    "cip": "City of Dallas Open Data Portal / FY2025-26 CIP (representative)",
+    "tif": "Dallas OED \u2014 18 Active TIF Districts (digitized from annual report)",
+    "oz": "CDFI Fund / Treasury Notice 2018-48",
+    "holc": "Mapping Inequality \u2014 Dallas 1937 (approximate digitization)"
+  },
+  "outputs": {
+    "interactive_maps": [
+      "maps/01_cip_investment_per_tract.html",
+      "maps/02_tif_oz_tool_density.html",
+      "maps/03_north_south_i30_comparison.html"
+    ],
+    "static_summary": "maps/00_atlas_summary_4panel.png",
+    "geojson": "processed_data/atlas_with_dpi.geojson",
+    "csv": "exports/atlas_v1_tract_data.csv"
+  },
+  "north_south_comparison": {
+    "north_avg_cip": 233043.48,
+    "south_avg_cip": 1076216.22,
+    "north_median_income": 92831.2,
+    "south_median_income": 66315.62,
+    "north_avg_dpi": 25.39,
+    "south_avg_dpi": 34.13,
+    "north_pct_black": 15.77,
+    "south_pct_black": 35.57
+  }
+}
