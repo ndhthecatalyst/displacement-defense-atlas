@@ -1,0 +1,52 @@
+# ============================================================
+# Displacement Defense Atlas — Python Dependencies
+# Below the Line: Dallas I-30 Corridor Displacement Risk
+# Author: Nicholas Donovan Hawkins | Texas Southern University
+# Last updated: April 2026
+# ============================================================
+
+# --- Core data manipulation ---
+numpy==1.26.4
+pandas==2.2.2
+
+# --- Geospatial analysis ---
+geopandas==0.14.4
+shapely==2.0.4
+pyproj==3.6.1
+fiona==1.9.6
+rtree==1.2.0
+
+# --- Spatial statistics (PySAL ecosystem) ---
+pysal==23.7
+libpysal==4.10.0
+esda==2.6.0          # Spatial autocorrelation (Moran's I)
+splot==1.1.5
+
+# --- Regression and statistics ---
+statsmodels==0.14.2
+scipy==1.13.0
+scikit-learn==1.5.0
+
+# --- Visualization ---
+matplotlib==3.8.4
+seaborn==0.13.2
+contextily==1.6.0    # Basemap tiles
+folium==0.16.0       # Interactive HTML maps
+mapclassify==2.8.0   # Choropleth classification schemes
+
+# --- Data acquisition ---
+requests==2.32.2
+census==0.8.22       # Census Bureau API wrapper
+pygris==0.1.7        # Census TIGER/Line boundaries
+
+# --- Notebook and reporting ---
+jupyter==1.0.0
+jupyterlab==4.1.6
+ipykernel==6.29.4
+
+# --- Utilities ---
+python-dotenv==1.0.1
+tqdm==4.66.4
+openpyxl==3.1.2      # Excel I/O for CIP data
+xlrd==2.0.1
+zipfile36==0.1.3

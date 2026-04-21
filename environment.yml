@@ -1,0 +1,72 @@
+# ============================================================
+# Displacement Defense Atlas — Conda Environment
+# Below the Line: Dallas I-30 Corridor Displacement Risk
+# Author: Nicholas Donovan Hawkins | Texas Southern University
+#
+# Setup:
+#   conda env create -f environment.yml
+#   conda activate atlas-v0
+#
+# Last updated: April 2026
+# ============================================================
+
+name: atlas-v0
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  # Python version
+  - python=3.11
+
+  # --- Core data manipulation ---
+  - numpy=1.26.4
+  - pandas=2.2.2
+
+  # --- Geospatial (conda-forge recommended for binary deps) ---
+  - geopandas=0.14.4
+  - shapely=2.0.4
+  - pyproj=3.6.1
+  - fiona=1.9.6
+  - rtree=1.2.0
+  - gdal=3.8.4
+
+  # --- Spatial statistics (PySAL) ---
+  - pysal=23.7
+  - libpysal=4.10.0
+  - esda=2.6.0
+  - splot=1.1.5
+
+  # --- Regression and statistics ---
+  - statsmodels=0.14.2
+  - scipy=1.13.0
+  - scikit-learn=1.5.0
+
+  # --- Visualization ---
+  - matplotlib=3.8.4
+  - seaborn=0.13.2
+  - contextily=1.6.0
+  - folium=0.16.0
+  - mapclassify=2.8.0
+
+  # --- Data acquisition ---
+  - requests=2.32.2
+
+  # --- Notebook and reporting ---
+  - jupyter=1.0.0
+  - jupyterlab=4.1.6
+  - ipykernel=6.29.4
+
+  # --- Utilities ---
+  - python-dotenv=1.0.1
+  - tqdm=4.66.4
+  - openpyxl=3.1.2
+  - xlrd=2.0.1
+
+  # --- pip-only packages (no conda-forge equivalent) ---
+  - pip
+  - pip:
+    - census==0.8.22
+    - pygris==0.1.7
+    - zipfile36==0.1.3
