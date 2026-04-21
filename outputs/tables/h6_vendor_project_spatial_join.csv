@@ -1,0 +1,501 @@
+ProjectNum,Name,Category,District,layer,BondAmount,AmountPaid,proj_lat,proj_lon,lat_south,nearest_vendor,nearest_vendor_dist_km,nearest_vendor_total_paid,nearest_vendor_south,weighted_avg_dist_km
+1007128,Central Signal Computer/ Software Upgrade,Traffic Signal Upgrades - CBD,"14,02",Active Bond Program,1092726.0,1750360.37,32.7760801516594,-96.7967564269771,0,Kay Bailey Hutchison Convention Center,0.84,53138383.01,0,211.46
+1007627,Dallas Centr. Performing Arts-Phase I-Utility Adj.,Cultural Arts Facilities,,Active Bond Program,9003982.0,2189090.59,32.789989081045,-96.7980647577999,0,"Perkins + Will, Inc.",0.59,46477520.769999996,0,211.39
+1007808,Central Library - 7th Floor Renovation,Library Facilities,TBD,Active Bond Program,0.0,4664744.7,32.7783422485667,-96.7971430974628,0,Kay Bailey Hutchison Convention Center,0.77,53138383.01,0,211.43
+1007891,Ash Creek - S Fork - Bridges @ Lakeland,Flood Management,TBD,Active Bond Program,4309482.0,3171890.09,32.8129154174674,-96.7024511360794,0,Good Earth Corporation,5.38,20074981.35,0,215.28
+1007931,West Dallas - Eagle Ford Sump Basin,Storm Drainage,,Active Bond Program,2398945.0,334071.86,32.7804929309491,-96.9237396213664,0,OMEGA CONTRACTING LLC,4.9,25376409.41,0,213.38
+1007961,Latino Cultural Center - Phase II - Priority 1 - Black Box Theater,Cultural Arts Facilities,14,Active Bond Program,2807860.0,3394786.24,32.7880480794981,-96.78952876983,0,"Perkins + Will, Inc.",1.41,46477520.769999996,0,211.6
+1007962,Latino Cultural Center - Phase II Design,Cultural Arts Facilities,TBD,Active Bond Program,957225.0,524092.08,32.7875927368148,-96.7897592700621,0,"Perkins + Will, Inc.",1.4,46477520.769999996,0,211.59
+1007964,Dallas Museum of Natural History @ Fair Park - Replace HVAC,Major Maintenance,TBD,Active Bond Program,450000.0,313356.99,32.7782027160434,-96.7631555751104,0,"GTS Technology Solutions, Inc",1.81,19431158.73,0,212.42
+1007991,Cadillac Heights Land Acquisition,City Facilities,TBD,Active Bond Program,22551771.0,2699035.4,32.7412275090948,-96.785561174381,1,DALLAS ZOO MANAGEMENT INC,2.07,22341228.84,0,212.47
+1007995,"Fire Station #06 Replacement - Harwood, 2808 S",Fire Department Facilities,TBD,Active Bond Program,7646537.0,6371600.17,32.7651877110918,-96.7766498850176,0,"GTS Technology Solutions, Inc",0.25,19431158.73,0,212.09
+1011000,Sharrock - Niblo Park (formerly Grady Niblo Park),Historic Restoration,03,Active Bond Program,400000.0,606922.68,32.6838290706163,-96.9396931248626,1,OMEGA CONTRACTING LLC,12.73,25376409.41,0,216.5
+1011490,Abrams Road Bridge - hike & bike trail,Erosion Control,TBD,Active Bond Program,48000.0,95021.77,32.8724693510579,-96.7412930164351,0,Trinity Alliance Ventures LLC,8.4,34272683.17,0,215.39
+1011491,Anderson Bonner Park Site 1 - hike & bike trail (WRC 164),Erosion Control,TBD,Active Bond Program,231400.0,236056.69,32.9168772688446,-96.7769493727987,0,Trinity Alliance Ventures LLC,2.47,34272683.17,0,216.28
+1011492,Audelia 11601 (Audelia Branch - E. Bank downstream of Audelia Bridge),Erosion Control,TBD,Active Bond Program,617700.0,68651.01,32.9072209180093,-96.718237987988,0,Talley Riggins Construction Group LLC,4.49,17234844.34,0,217.69
+1011493,Bainbridge 2733,Erosion Control,TBD,Active Bond Program,91400.0,79365.64,32.6639187787888,-96.8647096623025,1,DALLAS ZOO MANAGEMENT INC,10.6,22341228.84,0,215.72
+1011494,Beechmont Dr. 2507,Erosion Control,TBD,Active Bond Program,54800.0,126143.47,32.8234738335572,-96.6861723331412,0,Good Earth Corporation,6.26,20074981.35,0,216.26
+1011496,Blackstone 2729,Erosion Control,TBD,Active Bond Program,91400.0,215967.38,32.6647740347914,-96.8638428059223,1,DALLAS ZOO MANAGEMENT INC,10.48,22341228.84,0,215.66
+1011497,Blackstone 2745,Erosion Control,TBD,Active Bond Program,220500.0,261630.1,32.6644994591554,-96.8644410702192,1,DALLAS ZOO MANAGEMENT INC,10.54,22341228.84,0,215.68
+1011498,Blue Ridge 3721,Erosion Control,TBD,Active Bond Program,123500.0,126141.1,32.7004911267348,-96.882547046724,1,DALLAS ZOO MANAGEMENT INC,8.69,22341228.84,0,214.41
+1011500,Cavender 445,Erosion Control,TBD,Active Bond Program,73100.0,100283.0,32.7490303262485,-96.8651561877897,0,OMEGA CONTRACTING LLC,3.81,25376409.41,0,212.47
+1011501,Caracas 5810 and 5816 (Formerly Caracas 5410 and 5416),Erosion Control,TBD,Active Bond Program,171400.0,318702.11,32.6762726276419,-96.8450947425538,1,DALLAS ZOO MANAGEMENT INC,8.53,22341228.84,0,214.9
+1011502,Cedar Springs 5910,Erosion Control,TBD,Active Bond Program,185100.0,241065.95,32.8288537775918,-96.8318132364065,0,"Flatiron Dragados Constructors, Inc.",0.77,15832846.24,0,212.07
+1011504,Clarendon 3435,Erosion Control,TBD,Active Bond Program,111200.0,100978.94,32.7351803939414,-96.8775083362945,1,OMEGA CONTRACTING LLC,5.34,25376409.41,0,213.09
+1011506,Country Brook Pond between Park Grove Ln and Quail Hollow Rd,Erosion Control,12,Active Bond Program,40000.0,38425.38,33.0000054653696,-96.8353063398089,0,"JE Dunn-Russell, a joint venture",5.73,94630687.8,0,220.97
+1011507,Colorado (W) 705,Erosion Control,TBD,Active Bond Program,77700.0,162714.82,32.7590935769364,-96.8340452189775,0,DALLAS ZOO MANAGEMENT INC,2.92,22341228.84,0,211.79
+1011508,"Deep Hill Circle 2671, 2675, 2679, 2683",Erosion Control,TBD,Active Bond Program,553500.0,772093.15,32.6939841146954,-96.8625393636585,1,DALLAS ZOO MANAGEMENT INC,7.77,22341228.84,0,214.33
+1011510,Fair Oaks Crossing 8201,Erosion Control,TBD,Active Bond Program,114300.0,529213.0,32.8925067358972,-96.7306922195203,0,Talley Riggins Construction Group LLC,6.41,17234844.34,0,216.58
+1011511,Fair Oaks Crossing 8849,Erosion Control,TBD,Active Bond Program,285600.0,280784.18,32.8992064271197,-96.7284440675207,0,Talley Riggins Construction Group LLC,5.64,17234844.34,0,216.95
+1011512,Five Mile Pkwy W. 922,Erosion Control,TBD,Active Bond Program,222400.0,358596.5,32.6949810785976,-96.837658589212,1,DALLAS ZOO MANAGEMENT INC,6.36,22341228.84,0,214.01
+1011514,Glendale Park Site 1 - Pavilion,Erosion Control,TBD,Active Bond Program,68600.0,132587.95,32.6821475497782,-96.8006155621098,1,DALLAS ZOO MANAGEMENT INC,7.13,22341228.84,0,214.48
+1011518,Greenville Avenue 9320/Vista View 8915,Erosion Control,TBD,Active Bond Program,197700.0,378882.79,32.9031562320119,-96.7486315699682,0,Trinity Alliance Ventures LLC,5.24,34272683.17,0,216.43
+1011519,Hampton Road (S) 3817,Erosion Control,TBD,Active Bond Program,228500.0,338564.6,32.6963546278035,-96.857186482842,1,DALLAS ZOO MANAGEMENT INC,7.25,22341228.84,0,214.16
+1011520,Harry Moss Park Site 1 - S. of pedestrian bridge,Erosion Control,TBD,Active Bond Program,68600.0,172195.48,32.8925778235593,-96.7526695941004,0,Trinity Alliance Ventures LLC,5.94,34272683.17,0,215.83
+1011523,Kiesthill Drive 3431,Erosion Control,TBD,Active Bond Program,222400.0,246241.55,32.7023071948631,-96.8800666946294,1,DALLAS ZOO MANAGEMENT INC,8.39,22341228.84,0,214.29
+1011525,Kiltartan 1511,Erosion Control,TBD,Active Bond Program,177900.0,1159829.9,32.8243094931637,-96.6877327490179,0,Good Earth Corporation,6.36,20074981.35,0,216.2
+1011526,Kiowa Parkway Hike and Bike Trail,Erosion Control,TBD,Active Bond Program,82300.0,140086.46,32.9564673382544,-96.7972790290279,0,"JE Dunn-Russell, a joint venture",2.14,94630687.8,0,218.08
+1011527,Lanett Circle N. 10741,Erosion Control,TBD,Active Bond Program,142800.0,334380.87,32.8688783776244,-96.6991319070674,0,Talley Riggins Construction Group LLC,8.62,17234844.34,0,216.94
+1011528,Langdale Circle 8668 and 8656,Erosion Control,TBD,Active Bond Program,285600.0,934496.16,32.8672594517888,-96.6991709125167,0,Talley Riggins Construction Group LLC,8.8,17234844.34,0,216.88
+1011529,Lyre Lane 6909 and Chantilly Court 6916,Erosion Control,TBD,Active Bond Program,68600.0,10850.26,32.8364000890116,-96.7405028339959,0,Universal Protection Service LP,5.52,24351490.83,0,214.2
+1011530,Martin Weiss Park Site 1 - Pavilion,Erosion Control,TBD,Active Bond Program,68600.0,135845.78,32.7333235489185,-96.8776716381364,1,OMEGA CONTRACTING LLC,5.54,25376409.41,0,213.15
+1011532,"Mercedes 6607, 6615, 6621",Erosion Control,TBD,Active Bond Program,114300.0,213621.55,32.8288059194825,-96.7462517636683,0,Universal Protection Service LP,4.57,24351490.83,0,213.78
+1011533,"Rocky Branch @ Middle Downs Sites 1, 2, 3, 4",Erosion Control,TBD,Active Bond Program,666300.0,598026.44,32.8991019755641,-96.7335519469235,0,Talley Riggins Construction Group LLC,5.84,17234844.34,0,216.76
+1011535,Rosemont Rd. 7322,Erosion Control,TBD,Active Bond Program,114300.0,277773.0,32.7257669843737,-96.6957778019088,1,Good Earth Corporation,4.75,20074981.35,0,215.62
+1011536,Royal Lane 7832 and 7920,Erosion Control,TBD,Active Bond Program,493600.0,644747.38,32.8975450268467,-96.7708352831208,0,Trinity Alliance Ventures LLC,4.69,34272683.17,0,215.53
+1011537,Royal Lane 9750 (Jackson Branch - E. Bank downstream of Royal Bridge),Erosion Control,TBD,Active Bond Program,259400.0,305061.75,32.8938198678531,-96.7307080986262,0,Talley Riggins Construction Group LLC,6.27,17234844.34,0,216.63
+1011538,Skillman 7920 (Jackson Branch - E. Bank downstream of Skillman Br),Erosion Control,TBD,Active Bond Program,518900.0,207878.93,32.8885734049834,-96.7318751278206,0,Talley Riggins Construction Group LLC,6.85,17234844.34,0,216.37
+1011540,Skillman 8109,Erosion Control,TBD,Active Bond Program,163400.0,501243.06,32.8910435502455,-96.7307050958364,0,Talley Riggins Construction Group LLC,6.56,17234844.34,0,216.51
+1011541,Spring Grove 13316,Erosion Control,11,Active Bond Program,74000.0,188012.31,32.9293270317004,-96.778271615693,0,Trinity Alliance Ventures LLC,1.22,34272683.17,0,216.87
+1011542,Spring Valley 8444,Erosion Control,TBD,Active Bond Program,297100.0,426402.35,32.9392848265096,-96.7566217680253,0,Trinity Alliance Ventures LLC,2.86,34272683.17,0,218.02
+1011543,"Springwater 9204, 9210, 9216",Erosion Control,TBD,Active Bond Program,297100.0,521234.69,32.8177433596135,-96.6969825985407,0,Good Earth Corporation,5.76,20074981.35,0,215.63
+1011546,"Summer Creek Circle 6121, 6123, 6125,6127,6139,6141",Erosion Control,TBD,Active Bond Program,434200.0,398748.62,32.8629771720549,-96.7561937303991,0,Universal Protection Service LP,7.11,24351490.83,0,214.54
+1011547,"Tamarack 1745, 1739, 1751",Erosion Control,TBD,Active Bond Program,308500.0,98128.35,32.8232847404261,-96.6844862683812,0,Good Earth Corporation,6.24,20074981.35,0,216.34
+1011548,Tranquilla Dr. 1251,Erosion Control,TBD,Active Bond Program,109700.0,17656.69,32.8340765024831,-96.6983442055466,0,Good Earth Corporation,7.56,20074981.35,0,215.92
+1011549,Turtle Creek Greenbelt Site 1 - bike trail,Erosion Control,TBD,Active Bond Program,222800.0,305927.15,32.8108967560412,-96.8010814354243,0,Universal Protection Service LP,1.69,24351490.83,0,211.77
+1011550,Twin Creek 9726,Erosion Control,TBD,Active Bond Program,123500.0,900499.06,32.8238388216396,-96.6891780396662,0,Good Earth Corporation,6.32,20074981.35,0,216.12
+1011551,Twin Falls Park Trail,Erosion Control,TBD,Active Bond Program,257100.0,853948.71,32.6722077499811,-96.8391605849693,1,DALLAS ZOO MANAGEMENT INC,8.74,22341228.84,0,215.03
+1011552,Whitehurst 9727 (Jackson Branch - E. Bank upstream of Whitehurst Br),Erosion Control,TBD,Active Bond Program,345900.0,46215.25,32.9015003020473,-96.7279202185161,0,Talley Riggins Construction Group LLC,5.38,17234844.34,0,217.07
+1011553,Whitehurst 9730 (Audelia Branch - W. Bank downstream of Whitehurst),Erosion Control,TBD,Active Bond Program,444800.0,377385.41,32.9007675707733,-96.7274299295308,0,Talley Riggins Construction Group LLC,5.44,17234844.34,0,217.05
+1011554,Wild Oak 2488,Erosion Control,TBD,Active Bond Program,148300.0,172653.24,32.799318084974,-96.7098653153642,0,Good Earth Corporation,4.33,20074981.35,0,214.74
+1011558,Levee Drainage System - Sump A (Able Pump Station),Flood Management,TBD,Active Bond Program,91700000.0,71416276.4,32.7687527324043,-96.8091660316484,0,Kay Bailey Hutchison Convention Center,1.1,53138383.01,0,211.46
+1011646,NE Patrol Station,Police Facilities,10,Active Bond Program,1075000.0,396446.52,32.8635054196547,-96.7158361081273,0,Talley Riggins Construction Group LLC,9.24,17234844.34,0,216.03
+1011660,Southwest Transfer Station (24410),City Facilities,03,Active Bond Program,205000.0,3610.03,32.6879465199656,-96.8813421132485,1,DALLAS ZOO MANAGEMENT INC,9.49,22341228.84,0,214.9
+1011806,Prairie Creek Bridge over UPRR Tracks,Intergovernmental Partnership Projects,07,Active Bond Program,9200000.0,1865195.37,32.7765027420688,-96.6652774884327,0,Good Earth Corporation,2.0,20074981.35,0,216.74
+1012649,Ferguson Rd and Lakeland Dr Intersection Improvements,Streetscape / Urban Design,07,Active Bond Program,750000.0,700602.2,32.8119136905519,-96.7013307734345,0,Good Earth Corporation,5.24,20074981.35,0,215.32
+1012699,Dallas Zoo (Match),Dallas Zoo,04,Active Bond Program,3500000.0,3217469.33,32.7363098491676,-96.816219145252,1,DALLAS ZOO MANAGEMENT INC,1.38,22341228.84,0,212.36
+1012702,Bachman Lake Skatepark,Major Park Facilities,06,Active Bond Program,4000000.0,4347565.83,32.8538837306003,-96.8661746865703,0,"Flatiron Dragados Constructors, Inc.",4.09,15832846.24,0,212.98
+1012706,Crawford Memorial Park - Phase 1,Hike and Bike Trails,05,Active Bond Program,7700000.0,217585.0,32.7132593621763,-96.669617313063,1,Good Earth Corporation,6.14,20074981.35,0,217.01
+1012744,Glendale Park- Parking Spaces & Lighting,Community Parks,03,Active Bond Program,400000.0,469486.49,32.6827531442209,-96.7972179472227,1,DALLAS ZOO MANAGEMENT INC,7.09,22341228.84,0,214.46
+1012769,"Frances Rizo Park - Playground replacement, ADA drinking fou",Neighborhood Park Facilities,06,Active Bond Program,250000.0,13925.0,32.771043221637,-96.9063669928102,0,OMEGA CONTRACTING LLC,3.52,25376409.41,0,212.99
+1012770,Stafford Park - Playground and park furnishings,Playground Improvement,06,Active Bond Program,220000.0,14500.0,32.7707563401116,-96.8395621861832,0,OMEGA CONTRACTING LLC,3.27,25376409.41,0,211.63
+1012771,Hattie R. Moore Park - Master Plan and Phase 1 Implementatio,,06,Active Bond Program,350000.0,36166.8,32.7802974295357,-96.8387924832269,0,OMEGA CONTRACTING LLC,3.06,25376409.41,0,211.51
+1012836,Anderson Bonner - Playground - New,,11,Active Bond Program,220000.0,167988.86,32.9178441731704,-96.7778866712332,0,Trinity Alliance Ventures LLC,2.34,34272683.17,0,216.3
+1012885,Food and Fiber Building,Fair Park,99,Active Bond Program,1500000.0,340663.57,32.7816132587163,-96.7596979802213,0,"GTS Technology Solutions, Inc",2.31,19431158.73,0,212.55
+1012891,Science Place 1 (Phase 1),Fair Park,99,Active Bond Program,5110000.0,1756288.0,32.7771419281585,-96.7623386374671,0,"GTS Technology Solutions, Inc",1.8,19431158.73,0,212.45
+1012892,Magnolia Lounge,Fair Park,07,Active Bond Program,900000.0,506221.57,32.77935290704,-96.7637761822441,0,"GTS Technology Solutions, Inc",1.86,19431158.73,0,212.4
+1013017,"El Cerrito Storm Drainage, 2470",Storm Drainage,07,Active Bond Program,200000.0,416987.4,32.8002555855054,-96.7059813787771,0,Good Earth Corporation,4.23,20074981.35,0,214.93
+1013062,Meandering Way 16209,Storm Drainage,12,Active Bond Program,74000.0,144955.34,32.9734732637467,-96.7784935355449,0,Trinity Alliance Ventures LLC,4.09,34272683.17,0,219.64
+1013071,Gifford-Roanoke Area Relief System - Phase II/Brookhollow Br,Storm Drainage,02,Active Bond Program,1640000.0,62359.86,32.8345529929422,-96.860400483466,0,"Flatiron Dragados Constructors, Inc.",2.27,15832846.24,0,212.37
+1013077,Kings Branch Culvert @ Denley,Storm Drainage,04,Active Bond Program,480000.0,70419.46,32.7329872681459,-96.8055033374759,1,DALLAS ZOO MANAGEMENT INC,1.45,22341228.84,0,212.5
+1013078,Kings Branch @ Genoa,Storm Drainage,04,Active Bond Program,260000.0,904281.81,32.7314029370102,-96.8073652479512,1,DALLAS ZOO MANAGEMENT INC,1.62,22341228.84,0,212.55
+1013083,"Munger, 1300, 1301",Storm Drainage,"02,14",Active Bond Program,80000.0,77358.18,32.8060100660825,-96.7694117829633,0,Universal Protection Service LP,1.49,24351490.83,0,212.44
+1013084,Teakwood Elmridge Drainage Relief,Storm Drainage,11,Active Bond Program,650000.0,876186.25,32.9349275524515,-96.7845227989672,0,Trinity Alliance Ventures LLC,0.37,34272683.17,0,217.02
+1013087,"Royal Lane, 3162 (RL Area 7)",Storm Drainage,13,Active Bond Program,220000.0,27700.46,32.8947053861831,-96.8723962184121,0,"Satterfield & Pontikes Construction, Inc",3.87,24518222.33,0,214.55
+1013089,"Alderson, 3700",Storm Drainage,14,Active Bond Program,1188000.0,190000.0,32.831519622543,-96.7550396372943,0,Universal Protection Service LP,4.17,24351490.83,0,213.54
+1013090,Prairie Oak Drive 9321 (RL Area 33),Storm Drainage,05,Active Bond Program,425000.0,961515.81,32.7157999511861,-96.6604656366522,1,Good Earth Corporation,6.11,20074981.35,0,217.41
+1013091,Kings Branch Culvert @ Woodin,Storm Drainage,04,Active Bond Program,212000.0,32606.93,32.7227366244732,-96.8088403553988,1,DALLAS ZOO MANAGEMENT INC,2.59,22341228.84,0,212.85
+1013093,Kings Branch Culvert @ Stella,Storm Drainage,04,Active Bond Program,190000.0,863271.7,32.7277420802196,-96.8091063906211,1,DALLAS ZOO MANAGEMENT INC,2.04,22341228.84,0,212.67
+1013096,"Highland Road, 2447",Erosion Control,05,Active Bond Program,195000.0,476232.38,32.7990366439928,-96.7097682228509,0,Good Earth Corporation,4.3,20074981.35,0,214.74
+1013097,Kings Branch Culvert @ Louisiana,Storm Drainage,04,Active Bond Program,370000.0,38702.44,32.7239227255458,-96.8090210288174,1,DALLAS ZOO MANAGEMENT INC,2.46,22341228.84,0,212.8
+1013099,Loganwood 3602,Storm Drainage,05,Active Bond Program,256000.0,1366501.88,32.7691724176527,-96.6918966582085,0,Good Earth Corporation,0.81,20074981.35,0,215.39
+1013101,Hatfield Branch @ Seagoville Channel improvements,Storm Drainage,05,Active Bond Program,487000.0,400298.16,32.7094952808741,-96.660116307541,1,"MUNIZ CONSTRUCTION, INC. ^",6.64,22479352.36,1,217.54
+1013102,Lake June @ St. Augustine,Storm Drainage,05,Active Bond Program,721000.0,262324.38,32.7361919510919,-96.6569537626423,1,Good Earth Corporation,4.25,20074981.35,0,217.32
+1013103,Abshire Lane,Storm Drainage,07,Active Bond Program,945000.0,607312.47,32.809974203565,-96.6821261670605,0,Good Earth Corporation,4.76,20074981.35,0,216.21
+1013105,Nandina - Pine Trail Area,Storm Drainage,08,Active Bond Program,910000.0,173560.76,32.660684032209,-96.7724029931745,1,Estrada Concrete Company LLC,6.56,160453200.6,1,215.58
+1013106,"Hollow Ridge, 4804",Storm Drainage,07,Active Bond Program,350000.0,452512.14,32.7814313155541,-96.7103627458226,0,Good Earth Corporation,2.96,20074981.35,0,214.57
+1013122,Red Bird Mall Redevelopment-Mayor,Economic Development,08,Active Bond Program,0.0,2500000.0,32.6594218357601,-96.8773488363756,1,DALLAS ZOO MANAGEMENT INC,11.66,22341228.84,0,216.13
+1013124,Red Bird Mall Redevelopment-CD03,Economic Development,03,Active Bond Program,0.0,3000000.0,32.6594218357601,-96.8773488363756,1,DALLAS ZOO MANAGEMENT INC,11.66,22341228.84,0,216.13
+1013125,Red Bird Mall Redevelopment-CD08,Economic Development,08,Active Bond Program,0.0,4131414.0,32.6594218357601,-96.8773488363756,1,DALLAS ZOO MANAGEMENT INC,11.66,22341228.84,0,216.13
+1013148,Critical Bridges- Marsh Lane over Furneaux Creek Bridge Repair,Bridge Repair and Modification,12,Active Bond Program,0.0,11988.85,33.0060969995836,-96.8572810002215,0,"JE Dunn-Russell, a joint venture",7.16,94630687.8,0,221.45
+1013149,Critical Bridges- Camp Wisdom Road over Ricketts Creek Bridge Repair,Bridge Repair and Modification,"03,08",Active Bond Program,0.0,51881.5,32.662392000109,-96.8141809998368,1,BAR CONSTRUCTORS INC ^,8.79,34543152.7,1,215.36
+1016596,Park at Heritage Village,Neighborhood Park Facilities,02,Active Bond Program,0.0,683385.59,32.7731637489438,-96.7886006222657,0,"GTS Technology Solutions, Inc",1.22,19431158.73,0,211.68
+1016597,Cadillac Heights Park,Community Parks,04,Active Bond Program,0.0,1169208.1,32.742066440951,-96.7876855021047,1,DALLAS ZOO MANAGEMENT INC,1.86,22341228.84,0,212.41
+1017516,Hensley Field Project-CD3,,03,Active Bond Program,0.0,705112.91,32.7439254592874,-96.9626056076178,1,OMEGA CONTRACTING LLC,9.57,25376409.41,0,215.3
+1017518,Redev of Shopping Ctr at 3035 N.Buckner Blvd-CD07,,07,Active Bond Program,0.0,650000.0,32.8079452317747,-96.6843090042666,0,Good Earth Corporation,4.53,20074981.35,0,216.07
+1018386,Lakeland Hills Dog Park,,07,Active Bond Program,0.0,38700.72,32.8038608222678,-96.6966478155283,0,Good Earth Corporation,4.26,20074981.35,0,215.41
+1018398,Forest Audelia Park and Site Development,,10,Active Bond Program,0.0,328026.86,32.9101983893497,-96.7199233657164,0,Talley Riggins Construction Group LLC,4.21,17234844.34,0,217.77
+1019907,Kleberg-Rylie Library,Library Facilities,08,Active Bond Program,262000.0,63564.91,32.6864729513547,-96.6010057478791,1,"MUNIZ CONSTRUCTION, INC. ^",0.56,22479352.36,1,221.14
+1019908,Lakewood Library,Design and Construction,14,Active Bond Program,262000.0,64768.24,32.810389697576,-96.753343721441,0,Universal Protection Service LP,3.06,24351490.83,0,213.09
+1019909,Martin Luther King Jr. Library Building C,Library Facilities,07,Active Bond Program,262000.0,117323.19,32.770542283411,-96.7660525380658,0,"GTS Technology Solutions, Inc",1.14,19431158.73,0,212.36
+1019910,Mountain Creek Library,Library Facilities,03,Active Bond Program,262000.0,88007.82,32.6505411170726,-96.9660704396755,1,TRINITY RIVER AUTHORITY OF TX,16.32,18513257.54,1,218.79
+1019912,Oak Lawn Library,Library Facilities,14,Active Bond Program,262000.0,117059.79,32.8123806910044,-96.812396999975,0,"Perkins + Will, Inc.",2.56,46477520.769999996,0,211.7
+1019915,Renner Frankford Library,Library Facilities,12,Active Bond Program,262000.0,103414.89,32.9977517035618,-96.7946732394053,0,"JE Dunn-Russell, a joint venture",5.74,94630687.8,0,221.14
+1019949,Dallas Police Training Academy Facility,Police Facilities,99,Active Bond Program,50000000.0,369979.5,32.661683714616,-96.7927345162612,1,BAR CONSTRUCTORS INC ^,8.04,34543152.7,1,215.41
+1019973,Oak Cliff Cultural Center,Cultural Arts Facilities,01,Active Bond Program,450000.0,67282.67,32.743357678632,-96.8257896562708,1,DALLAS ZOO MANAGEMENT INC,1.78,22341228.84,0,212.15
+1020003,11th E 1615,Erosion Control,04,Active Bond Program,442750.0,6764.0,32.7471121587637,-96.7988345054045,0,DALLAS ZOO MANAGEMENT INC,0.77,22341228.84,0,212.1
+1020005,"Claremont 8017, 8023, and 8030",Erosion Control,07,Active Bond Program,543375.0,402.31,32.7994423564437,-96.7096671114071,0,Good Earth Corporation,4.33,20074981.35,0,214.75
+1020006,Coombs Creek Dr 637,Erosion Control,01,Active Bond Program,261625.0,55007.85,32.7391839309934,-96.8772056598079,1,OMEGA CONTRACTING LLC,4.89,25376409.41,0,212.97
+1020008,El Cerrito 2490 & Hunnicut 8181,Erosion Control,07,Active Bond Program,805000.0,459.79,32.7997230542274,-96.7050270429145,0,Good Earth Corporation,4.13,20074981.35,0,214.96
+1020009,Forston Ave 18503,Erosion Control,12,Active Bond Program,181125.0,38622.9,33.0028040577379,-96.7943882728286,0,"JE Dunn-Russell, a joint venture",6.27,94630687.8,0,221.53
+1020010,Glencairn 460,Erosion Control,08,Active Bond Program,281750.0,31392.5,32.6553487970967,-96.8288678197761,1,BAR CONSTRUCTORS INC ^,8.84,34543152.7,1,215.76
+1020011,Hampton N 635,Erosion Control,01,Active Bond Program,241500.0,21101.0,32.7507992577835,-96.8570899487755,0,OMEGA CONTRACTING LLC,3.81,25376409.41,0,212.28
+1020013,Jefferson W 2909,Erosion Control,01,Active Bond Program,281750.0,51712.0,32.7452386657172,-96.8685072598632,0,OMEGA CONTRACTING LLC,4.2,25376409.41,0,212.63
+1020014,Kiest Valley Parkway @ Kiest Knoll Outfall Protection,Erosion Control,03,Active Bond Program,264500.0,13292.0,32.7083158717744,-96.8817012113821,1,DALLAS ZOO MANAGEMENT INC,8.15,22341228.84,0,214.09
+1020015,Nutwood Cir. 6402,Erosion Control,12,Active Bond Program,201250.0,39962.9,32.9903766484526,-96.7958074738128,0,"JE Dunn-Russell, a joint venture",4.95,94630687.8,0,220.56
+1020016,Outfall at Compton 1203/1205,Erosion Control,04,Active Bond Program,483000.0,15027.0,32.7426702257838,-96.8068585791815,1,DALLAS ZOO MANAGEMENT INC,0.37,22341228.84,0,212.17
+1020017,Ravinia S. 3338,Erosion Control,03,Active Bond Program,503125.0,2318.0,32.7020643053475,-96.869752430765,1,DALLAS ZOO MANAGEMENT INC,7.64,22341228.84,0,214.11
+1020018,Sheldon Ave 3303 (Fire Station 26),Erosion Control,01,Active Bond Program,805000.0,78244.24,32.7448318891464,-96.8748327281616,1,OMEGA CONTRACTING LLC,4.25,25376409.41,0,212.76
+1020354,Thurgood Marshall Park - Site Development,CDSF,03,Active Bond Program,1000000.0,113701.68,32.6839975829849,-96.8536081861411,1,DALLAS ZOO MANAGEMENT INC,8.16,22341228.84,0,214.64
+1020652,Arcadia Recreation Ctr- Inter Upgrades- Safety and Security,Recreation Center,03,Active Bond Program,768670.0,26060.25,32.7430730401279,-96.9140620144198,1,OMEGA CONTRACTING LLC,5.96,25376409.41,0,213.76
+1020657,Eloise Lundy Rec Cntr â¿¿ Inter Upgrds  Safety and Security,Recreation Center,04,Active Bond Program,1360431.0,43973.25,32.7560442680623,-96.806295708767,0,DALLAS ZOO MANAGEMENT INC,1.12,22341228.84,0,211.79
+1020658,"Exall Park Rec Cntr - Demo (New); Splash Pad, Sr Ctr",Recreation Center,14,Active Bond Program,17660000.0,387131.4,32.7932433305361,-96.7850789855651,0,Universal Protection Service LP,1.17,24351490.83,0,211.76
+1020660,John C. Phelps Rec Ctr- Inter Upgrades- Safety and Security,Recreation Center,04,Active Bond Program,1154555.0,118845.73,32.7226125478892,-96.7726162568906,1,DALLAS ZOO MANAGEMENT INC,4.14,22341228.84,0,213.26
+1020662,Kiest Rec Ctr- Inter Upgrades- Safety and Security,Recreation Center,04,Active Bond Program,1873306.0,189800.57,32.7100244026504,-96.8528151851954,1,DALLAS ZOO MANAGEMENT INC,5.86,22341228.84,0,213.55
+1020666,Tommie M. Allen Rec Ctr- Inter Upgrades- Safety and Security,Recreation Center,08,Active Bond Program,862084.0,72173.5,32.659471553952,-96.7530678621875,1,Estrada Concrete Company LLC,4.85,160453200.6,1,215.85
+1020682,Westmorelan Park â€“ Skatepark (New) (Pivt Match),Specialty Parks,01,Active Bond Program,1000000.0,11000.0,32.7213909510765,-96.8795545408433,1,OMEGA CONTRACTING LLC,6.88,25376409.41,0,213.57
+1011596,J. Erik Jonsson Central Library,Library Facilities,02,2017 Bond Program,99000.0,1598989.6,32.7783422485667,-96.7971430974628,0,Kay Bailey Hutchison Convention Center,0.77,53138383.01,0,211.43
+1011597,Forest Green Branch Library,Library Facilities,10,2017 Bond Program,7700000.0,6998780.88,32.9067042755735,-96.7486809901948,0,Trinity Alliance Ventures LLC,4.96,34272683.17,0,216.59
+1011598,Vickery Park Branch Library,Library Facilities,13,2017 Bond Program,7790000.0,7533643.56,32.8715688173751,-96.7615338943243,0,Trinity Alliance Ventures LLC,7.7,34272683.17,0,214.7
+1011599,Dallas Heritage Village,Cultural Arts Facilities,02,2017 Bond Program,250000.0,233457.55,32.7727007406633,-96.788310649136,0,"GTS Technology Solutions, Inc",1.17,19431158.73,0,211.69
+1011600,Bath House Cultural Center Rehabilitation,Cultural Arts Facilities,09,2017 Bond Program,1500000.0,1383809.3,32.8408280542387,-96.7153709819076,0,Universal Protection Service LP,7.71,24351490.83,0,215.34
+1011601,Dallas Museum of Art Rehabilitation,Cultural Arts Facilities,14,2017 Bond Program,6000000.0,1504004.25,32.7874160810943,-96.8005832999873,0,"Perkins + Will, Inc.",0.49,46477520.769999996,0,211.33
+1011602,Kalita Humphreys Theater Rehabilitation,Cultural Arts Facilities,14,2017 Bond Program,525000.0,482146.75,32.8110385886779,-96.8006142623499,0,Universal Protection Service LP,1.66,24351490.83,0,211.78
+1011603,Meyerson,Cultural Arts Facilities,14,2017 Bond Program,3800000.0,3467705.4,32.7899213289132,-96.7985012411214,0,"Perkins + Will, Inc.",0.55,46477520.769999996,0,211.38
+1011605,Sammons Center,Cultural Arts Facilities,02,2017 Bond Program,900000.0,819130.99,32.8001504934636,-96.8166014409609,0,"Perkins + Will, Inc.",1.57,46477520.769999996,0,211.42
+1011606,Dallas Black Dance Theatre,Cultural Arts Facilities,14,2017 Bond Program,900000.0,851332.48,32.790409781474,-96.7954287976443,0,"Perkins + Will, Inc.",0.84,46477520.769999996,0,211.46
+1011608,Fire Station # 46,Fire Department Facilities,03,2017 Bond Program,7525000.0,6463416.41,32.6626130878587,-96.8183517787818,1,BAR CONSTRUCTORS INC ^,8.99,34543152.7,1,215.36
+1011609,Fire-Rescue Training Center,Fire Department Facilities,02,2017 Bond Program,150000.0,73275.38,32.7857768222392,-96.734689605667,0,"GTS Technology Solutions, Inc",4.51,19431158.73,0,213.54
+1011613,Fire Station #09,Fire Department Facilities,08,2017 Bond Program,63000.0,57582.98,32.6788431341418,-96.6101084927143,1,"MUNIZ CONSTRUCTION, INC. ^",1.38,22479352.36,1,220.82
+1011616,Fire Station #13,Fire Department Facilities,12,2017 Bond Program,85000.0,78107.63,32.9972910041262,-96.7841656337439,0,"JE Dunn-Russell, a joint venture",6.15,94630687.8,0,221.27
+1011617,Fire Station #18,Fire Department Facilities,14,2017 Bond Program,113000.0,54217.47,32.7836295720715,-96.8037546279845,0,Kay Bailey Hutchison Convention Center,0.63,53138383.01,0,211.28
+1011618,Fire Station #25,Fire Department Facilities,08,2017 Bond Program,17000.0,15406.16,32.684029936503,-96.787493836866,1,DALLAS ZOO MANAGEMENT INC,7.13,22341228.84,0,214.47
+1011620,Fire Station #36 Rehabilitation,Fire Department Facilities,06,2017 Bond Program,6990000.0,542767.65,32.7819053008608,-96.8569277873277,0,OMEGA CONTRACTING LLC,1.36,25376409.41,0,211.76
+1011621,Fire Station #43,Fire Department Facilities,06,2017 Bond Program,43000.0,39543.0,32.8660402357421,-96.877717123964,0,"A & Associates, Inc.",5.7,19291214.12,0,213.5
+1011622,Fire Station #51,Fire Department Facilities,05,2017 Bond Program,43000.0,202326.47,32.7105104173781,-96.6567304087318,1,"MUNIZ CONSTRUCTION, INC. ^",6.41,22479352.36,1,217.69
+1011624,Fire Station #7,Fire Department Facilities,12,2017 Bond Program,85000.0,74342.66,32.9758448602906,-96.8038986748457,0,"JE Dunn-Russell, a joint venture",3.17,94630687.8,0,219.36
+1011628,Fire Station #31,Fire Department Facilities,09,2017 Bond Program,85000.0,36116.0,32.8326432216218,-96.7042965302109,0,Good Earth Corporation,7.53,20074981.35,0,215.62
+1011629,Fire Station #2,Fire Department Facilities,13,2017 Bond Program,85000.0,49759.0,32.9026453432296,-96.837775085784,0,"JE Dunn-Russell, a joint venture",5.58,94630687.8,0,214.8
+1011631,Fire Station #53,Fire Department Facilities,07,2017 Bond Program,74000.0,66978.23,32.8074740063814,-96.693569221975,0,Good Earth Corporation,4.57,20074981.35,0,215.61
+1011632,Fire Station #13-EB17VG26,Fire Department Facilities,12,2017 Bond Program,44000.0,27409.44,32.9972910041262,-96.7841656337439,0,"JE Dunn-Russell, a joint venture",6.15,94630687.8,0,221.27
+1011634,Fire Station #14,Fire Department Facilities,02,2017 Bond Program,85000.0,72866.59,32.7416131509378,-96.8397269322828,1,DALLAS ZOO MANAGEMENT INC,3.1,22341228.84,0,212.31
+1011635,Fire Station #19,Fire Department Facilities,02,2017 Bond Program,85000.0,65161.0,32.7939253191027,-96.7467263391283,0,Universal Protection Service LP,3.75,24351490.83,0,213.11
+1011636,Fire Station #47,Fire Department Facilities,06,2017 Bond Program,85000.0,78000.0,32.8149186477254,-96.8704692219715,0,"A & Associates, Inc.",0.04,19291214.12,0,212.11
+1011637,Fire Station #57,Fire Department Facilities,07,2017 Bond Program,85000.0,80686.89,32.8966500702125,-96.7182716801213,0,Talley Riggins Construction Group LLC,5.63,17234844.34,0,217.22
+1011640,Future Fire Station Jim Miller & Loop 12 new Construction,Fire Department Facilities,08,2017 Bond Program,6900000.0,3430267.52,32.714619492941,-96.7006133482188,1,Good Earth Corporation,6.06,20074981.35,0,215.63
+1011641,Central Patrol Station-EB17VG34,Police Facilities,02,2017 Bond Program,593000.0,505953.2,32.7824827899029,-96.7767198837827,0,"GTS Technology Solutions, Inc",1.69,19431158.73,0,211.96
+1011642,Jack Evans Headquarters,Police Facilities,02,2017 Bond Program,1250000.0,1148396.21,32.7677417099346,-96.7950048899191,0,Kay Bailey Hutchison Convention Center,1.51,53138383.01,0,211.64
+1011643,NC Patrol Station,Police Facilities,12,2017 Bond Program,750000.0,501573.79,32.9886302831328,-96.7830483577489,0,"JE Dunn-Russell, a joint venture",5.42,94630687.8,0,220.64
+1011644,SC Patrol Station,Police Facilities,08,2017 Bond Program,775000.0,516209.19,32.6637660276145,-96.7882397037055,1,Estrada Concrete Company LLC,8.07,160453200.6,1,215.33
+1011645,NW Patrol Station - Security Enhancements,Police Facilities,06,2017 Bond Program,775000.0,584413.58,32.8552205706218,-96.8795527798985,0,"A & Associates, Inc.",4.53,19291214.12,0,213.17
+1011646,NE Patrol Station,Police Facilities,10,2017 Bond Program,1075000.0,396446.52,32.8635054196547,-96.7158361081273,0,Talley Riggins Construction Group LLC,9.24,17234844.34,0,216.03
+1011647,SE Patrol Station,Police Facilities,05,2017 Bond Program,775000.0,614195.5,32.7231151449782,-96.7002027816476,1,Good Earth Corporation,5.14,20074981.35,0,215.48
+1011649,SW Patrol Station-EB17VG41,Police Facilities,03,2017 Bond Program,775000.0,570497.06,32.7199900780942,-96.8885925150389,1,OMEGA CONTRACTING LLC,7.18,25376409.41,0,213.81
+1011651,City Marshal's Office,City Facilities,02,2017 Bond Program,165000.0,1600.0,32.7810622724289,-96.776706176471,0,"GTS Technology Solutions, Inc",1.53,19431158.73,0,211.96
+1011653,City Hall,City Facilities,02,2017 Bond Program,7000000.0,4120992.87,32.7763194730569,-96.7967560251188,0,Kay Bailey Hutchison Convention Center,0.83,53138383.01,0,211.46
+1011655,ECO Park,City Facilities,08,2017 Bond Program,108000.0,78220.59,32.6894517867677,-96.7306385480266,1,Estrada Concrete Company LLC,5.97,160453200.6,1,215.24
+1011658,"Martin Luther King, Jr. Center - Plumbing",City Facilities,07,2017 Bond Program,125000.0,79821.0,32.7698665881675,-96.7656412029137,0,"GTS Technology Solutions, Inc",1.15,19431158.73,0,212.38
+1011660,Southwest Transfer Station (24410),City Facilities,03,2017 Bond Program,205000.0,3610.03,32.6879465199656,-96.8813421132485,1,DALLAS ZOO MANAGEMENT INC,9.49,22341228.84,0,214.9
+1011806,Prairie Creek Bridge over UPRR Tracks,Intergovernmental Partnership Projects,07,2017 Bond Program,9200000.0,1865195.37,32.7765027420688,-96.6652774884327,0,Good Earth Corporation,2.0,20074981.35,0,216.74
+1012649,Ferguson Rd and Lakeland Dr Intersection Improvements,Streetscape / Urban Design,07,2017 Bond Program,750000.0,700602.2,32.8119136905519,-96.7013307734345,0,Good Earth Corporation,5.24,20074981.35,0,215.32
+1012686,Richmond Ave at Skillman St Intersection Improvements (Remove Channelized/Free Right Turns; Include NnewTraffic Signal),Traffic Intersection Capacity & Safety Improvement,TBD,2017 Bond Program,350000.0,72033.0,32.8161365775372,-96.7615438708988,0,Universal Protection Service LP,2.59,24351490.83,0,212.92
+1012687,Collete At Tremont And Junius (Pilot Project To Construct Mini-Roundabouts),Traffic Intersection Capacity & Safety Improvement,"02,14",2017 Bond Program,85750.0,43079.25,32.8006488872247,-96.7666365587332,0,Universal Protection Service LP,1.76,24351490.83,0,212.45
+1012692,Aquatics Master Plan Implementation - Phase 1 (2),Aquatics,"05,01,10,02,11,14",2017 Bond Program,11000000.0,10660885.0,32.7538796022471,-96.8345175695858,0,DALLAS ZOO MANAGEMENT INC,2.72,22341228.84,0,211.92
+1012693,Aquatics Master Plan Implementation - Phase 2A -Exline & B,Aquatics,"07,03",2017 Bond Program,13200000.0,11992623.67,32.6839989039222,-96.8536628674598,1,DALLAS ZOO MANAGEMENT INC,8.16,22341228.84,0,214.64
+1012694,"Downtown Parks - Carpenter, Harwood & West End (Match)",Downtown Parks,"14,02",2017 Bond Program,35000000.0,20200253.1,32.782359638818,-96.8074516320295,0,Kay Bailey Hutchison Convention Center,0.51,53138383.01,0,211.26
+1012698,White Rock Lake Stone Tables (Match),Citywide Parks,09,2017 Bond Program,280000.0,211376.48,32.8383420889928,-96.7090447004924,0,Universal Protection Service LP,8.08,24351490.83,0,215.55
+1012699,Dallas Zoo (Match),Dallas Zoo,04,2017 Bond Program,3500000.0,3217469.33,32.7363098491676,-96.816219145252,1,DALLAS ZOO MANAGEMENT INC,1.38,22341228.84,0,212.36
+1012700,Dallas Arboretum (Match),Major Maintenance,09,2017 Bond Program,1000000.0,699378.11,32.8229949896926,-96.7168783994016,0,Universal Protection Service LP,6.72,24351490.83,0,214.83
+1012702,Bachman Lake Skatepark,Major Park Facilities,06,2017 Bond Program,4000000.0,4347565.83,32.8538837306003,-96.8661746865703,0,"Flatiron Dragados Constructors, Inc.",4.09,15832846.24,0,212.98
+1012706,Crawford Memorial Park - Phase 1,Hike and Bike Trails,05,2017 Bond Program,7700000.0,217585.0,32.7132593621763,-96.669617313063,1,Good Earth Corporation,6.14,20074981.35,0,217.01
+1012711,Flag Pole Hill - Phase 1 Master Plan Implementation,Hike and Bike Trails,10,2017 Bond Program,400000.0,358071.87,32.8623848074053,-96.7231243645031,0,Universal Protection Service LP,8.72,24351490.83,0,215.7
+1012712,Flag Pole Hill - Playground (Match),Playground Improvement,10,2017 Bond Program,165000.0,84136.28,32.8623848074053,-96.7231243645031,0,Universal Protection Service LP,8.72,24351490.83,0,215.7
+1012713,Singing Hills Recreation Center - Gym Addition,,08,2017 Bond Program,8000000.0,7749623.2,32.6703253512016,-96.7932532346133,1,DALLAS ZOO MANAGEMENT INC,8.51,22341228.84,0,215.02
+1012714,Bachman Recreation Center Renovation,Major Maintenance,06,2017 Bond Program,3900000.0,3198563.69,32.8538837306003,-96.8661746865703,0,"Flatiron Dragados Constructors, Inc.",4.09,15832846.24,0,212.98
+1012715,Willie B. Johnson Recreation Center-Sr Add (Hamilton Pk),Recreation Center,10,2017 Bond Program,3800000.0,3427782.28,32.9175537273341,-96.7638811425516,0,Trinity Alliance Ventures LLC,3.1,34272683.17,0,216.66
+1012716,Willie B. Johnson  Gym. Add'n. (Hamilton Park),Recreation Center,10,2017 Bond Program,7800000.0,6071018.52,32.9175537273341,-96.7638811425516,0,Trinity Alliance Ventures LLC,3.1,34272683.17,0,216.66
+1012717,Thurgood Marshall Rec. Ctr. Ren.,Major Maintenance,03,2017 Bond Program,1400000.0,1090431.67,32.6839989039222,-96.8536628674598,1,DALLAS ZOO MANAGEMENT INC,8.16,22341228.84,0,214.64
+1012722,Dallas Water Gardens (Match) (Amendment - 8/9/17),,02,2017 Bond Program,7500000.0,7801.6,32.7657814647215,-96.7992639304936,0,Kay Bailey Hutchison Convention Center,1.49,53138383.01,0,211.62
+1012725,Kidd Springs - Japanese Garden Restoration - Phase 1,Historic Preservation,01,2017 Bond Program,600000.0,1199150.24,32.7538796022471,-96.8345175695858,0,DALLAS ZOO MANAGEMENT INC,2.72,22341228.84,0,211.92
+1012726,Kidd Springs - Natural Spring daylighting and Lake bank eros,Land Acquisition,01,2017 Bond Program,1000000.0,389567.78,32.7538796022471,-96.8345175695858,0,DALLAS ZOO MANAGEMENT INC,2.72,22341228.84,0,211.92
+1012728,Martin Weiss Park - Loop trail extension to greenbelt,Hike and Bike Trails,01,2017 Bond Program,1300000.0,727132.87,32.7333092953218,-96.877279674164,1,OMEGA CONTRACTING LLC,5.54,25376409.41,0,213.14
+1012730,Westmount Park - Site Development,Playgrounds,01,2017 Bond Program,200000.0,160164.98,32.7614706957048,-96.8667430248544,0,OMEGA CONTRACTING LLC,2.42,25376409.41,0,212.21
+1012731,Monarch Park - Playground replacement and Parking/ADA,,02,2017 Bond Program,250000.0,15868.0,32.8076631665329,-96.7784136244648,0,Universal Protection Service LP,0.76,24351490.83,0,212.19
+1012733,Grauwyler Park - Sprayground,Aquatics,02,2017 Bond Program,2000000.0,1467976.7,32.8321795364428,-96.8583160431578,0,"Flatiron Dragados Constructors, Inc.",1.98,15832846.24,0,212.29
+1012734,"K. B. Polk Park - Sprayground-sm., walking trail, playground",Aquatics,02,2017 Bond Program,2000000.0,1613339.48,32.8414422677058,-96.8304560746363,0,"Flatiron Dragados Constructors, Inc.",1.97,15832846.24,0,212.45
+1012735,Samuell Grand Park - Shade structure at existing playground,,02,2017 Bond Program,150000.0,65322.49,32.7951835755768,-96.7408588451337,0,Universal Protection Service LP,4.24,24351490.83,0,213.35
+1012739,Bachman Regional Family Aquatic Center - Phase 1 (with CD 6),Aquatics,02,2017 Bond Program,2500000.0,3293165.07,32.8538837306003,-96.8661746865703,0,"Flatiron Dragados Constructors, Inc.",4.09,15832846.24,0,212.98
+1012740,Twin Falls Parking Lot,,03,2017 Bond Program,200000.0,1354.5,32.6718649206536,-96.8392071680655,1,DALLAS ZOO MANAGEMENT INC,8.78,22341228.84,0,215.05
+1012741,Emerald Lake Park - Dam safety & Erosion Control,,03,2017 Bond Program,2075000.0,1708322.65,32.6537433951284,-96.9661906694634,1,TRINITY RIVER AUTHORITY OF TX,16.11,18513257.54,1,218.65
+1012742,Thurgood Marshall Recreation Center - Renovation (Supplement,Major Maintenance,03,2017 Bond Program,200000.0,25870.0,32.6839989039222,-96.8536628674598,1,DALLAS ZOO MANAGEMENT INC,8.16,22341228.84,0,214.64
+1012743,Sharrock Niblo Park - Historic Restoration of Barn,Historic Restoration,03,2017 Bond Program,725000.0,619487.59,32.6809376147817,-96.9370720296804,1,OMEGA CONTRACTING LLC,12.89,25376409.41,0,216.55
+1012744,Glendale Park- Parking Spaces & Lighting,Community Parks,03,2017 Bond Program,400000.0,469486.49,32.6827531442209,-96.7972179472227,1,DALLAS ZOO MANAGEMENT INC,7.09,22341228.84,0,214.46
+1012745,Add Discretionary Funds (Singing Hills Rec. Ctr.) Amendment,,03,2017 Bond Program,1000000.0,275.0,32.6703253512016,-96.7932532346133,1,DALLAS ZOO MANAGEMENT INC,8.51,22341228.84,0,215.02
+1012749,"Cummings Park - Parking lot (rear), renovate and expand",,04,2017 Bond Program,350000.0,13929.0,32.6987956383498,-96.7708425500661,1,DALLAS ZOO MANAGEMENT INC,6.24,22341228.84,0,214.09
+1012756,Devon Anderson Park - Replace playground equipment,,05,2017 Bond Program,100000.0,189525.4,32.7408320381512,-96.7073948817931,1,Good Earth Corporation,3.68,20074981.35,0,214.91
+1012757,Guard Dr. - Phase 2 Site Development,Community Parks,05,2017 Bond Program,600000.0,569157.05,32.7369935553332,-96.7111637445125,1,Good Earth Corporation,4.23,20074981.35,0,214.81
+1012759,"Bisbee Park - Parking lot, clearing/grubbing, and signage",,05,2017 Bond Program,150000.0,28848.0,32.7682593189932,-96.7123572589638,0,Good Earth Corporation,2.69,20074981.35,0,214.47
+1012761,"Holcomb Park - 6' wide walking loop trail, park furnishings,",Trails,05,2017 Bond Program,400000.0,179058.46,32.7311364516312,-96.6723260776824,1,Good Earth Corporation,4.15,20074981.35,0,216.61
+1012764,Brownwood - Erosion Control,,06,2017 Bond Program,400000.0,327917.94,32.8800410187586,-96.863060262735,0,"Satterfield & Pontikes Construction, Inc",5.72,24518222.33,0,213.88
+1012765,Brownwood - Soccer Field,,06,2017 Bond Program,200000.0,24244.25,32.8800410187586,-96.863060262735,0,"Satterfield & Pontikes Construction, Inc",5.72,24518222.33,0,213.88
+1012767,Jaycee Zaragoza Park - Sprayground,Aquatics,06,2017 Bond Program,1885000.0,1792726.1,32.7802605436455,-96.9074721772794,0,OMEGA CONTRACTING LLC,3.38,25376409.41,0,212.91
+1012768,Nash Davis Park - Spraygound,Aquatics,06,2017 Bond Program,2000000.0,1603553.22,32.7879120346041,-96.8548705819092,0,OMEGA CONTRACTING LLC,1.64,25376409.41,0,211.7
+1012769,"Frances Rizo Park - Playground replacement, ADA drinking fou",Neighborhood Park Facilities,06,2017 Bond Program,250000.0,13925.0,32.771043221637,-96.9063669928102,0,OMEGA CONTRACTING LLC,3.52,25376409.41,0,212.99
+1012770,Stafford Park - Playground and park furnishings,Playground Improvement,06,2017 Bond Program,220000.0,14500.0,32.7707563401116,-96.8395621861832,0,OMEGA CONTRACTING LLC,3.27,25376409.41,0,211.63
+1012771,Hattie R. Moore Park - Master Plan and Phase 1 Implementatio,,06,2017 Bond Program,350000.0,36166.8,32.7802974295357,-96.8387924832269,0,OMEGA CONTRACTING LLC,3.06,25376409.41,0,211.51
+1012772,Nash Davis Park - Master Plan,Master Plan,06,2017 Bond Program,40000.0,33500.0,32.7879120346041,-96.8548705819092,0,OMEGA CONTRACTING LLC,1.64,25376409.41,0,211.7
+1012774,Bachman Lake Park - Regional Family Aquatic Center - Phase 1,Aquatics,06,2017 Bond Program,3500000.0,3833029.73,32.8538837306003,-96.8661746865703,0,"Flatiron Dragados Constructors, Inc.",4.09,15832846.24,0,212.98
+1012776,Tipton Park - Picnic pavilion and water fountain,,06,2017 Bond Program,300000.0,342262.0,32.7878310551773,-96.879213343216,0,OMEGA CONTRACTING LLC,0.91,25376409.41,0,212.15
+1012779,Everglade Park - Exercise stations at loop trail,Hike and Bike Trails,07,2017 Bond Program,150000.0,83919.04,32.7869969822583,-96.6989908390659,0,Good Earth Corporation,2.63,20074981.35,0,215.12
+1012781,Martin Luther King Jr. Park - Playground replacement,Playgrounds,07,2017 Bond Program,250000.0,204600.84,32.7690944778112,-96.7657184318952,0,"GTS Technology Solutions, Inc",1.13,19431158.73,0,212.38
+1012786,Hillview Park - Creek Erosion Control and Drainage Near Play,,07,2017 Bond Program,403345.0,27385.16,32.8102036093202,-96.6757283157387,0,Good Earth Corporation,4.84,20074981.35,0,216.54
+1012787,Hillview Park - Pavilion,,07,2017 Bond Program,175000.0,12914.84,32.8102036093202,-96.6757283157387,0,Good Earth Corporation,4.84,20074981.35,0,216.54
+1012796,Wheatly Park - Replace Sidewalk Segment,,07,2017 Bond Program,30000.0,25910.76,32.764904721772,-96.7591592125056,0,"GTS Technology Solutions, Inc",1.74,19431158.73,0,212.65
+1012798,Willie Mae Butler Park - ADA Drinking Fountain and Park Furnishings Package,,07,2017 Bond Program,60000.0,8000.0,32.7612441384034,-96.7364005845744,0,"GTS Technology Solutions, Inc",3.91,19431158.73,0,213.52
+1012800,Willoughby Park - Playground Replacement,,08,2017 Bond Program,200000.0,200426.4,32.6399102199416,-96.8278533205325,1,BAR CONSTRUCTORS INC ^,7.46,34543152.7,1,216.54
+1012801,Danieldale Park - Playground replacement (at end of life),Playgrounds,08,2017 Bond Program,220000.0,222265.05,32.6460283722806,-96.8307991098581,1,BAR CONSTRUCTORS INC ^,8.15,34543152.7,1,216.25
+1012802,Singing Hills (New) Site Development,,08,2017 Bond Program,200000.0,196552.0,32.6703253512016,-96.7932532346133,1,DALLAS ZOO MANAGEMENT INC,8.51,22341228.84,0,215.02
+1012803,Singing Hills Replacement Recreation Center - Addition,,08,2017 Bond Program,2000000.0,494127.73,32.6703253512016,-96.7932532346133,1,DALLAS ZOO MANAGEMENT INC,8.51,22341228.84,0,215.02
+1012804,Kleberg-Rylie Park - Sprayground,,08,2017 Bond Program,1480000.0,1382709.73,32.6856903325172,-96.6029057299695,1,"MUNIZ CONSTRUCTION, INC. ^",0.66,22479352.36,1,221.05
+1012806,White Rock Hills Park -Neighborhood Park Site Dev Phase 2,Recreation Facilities,09,2017 Bond Program,200000.0,100267.94,32.8029742007506,-96.7140117410907,0,Good Earth Corporation,4.89,20074981.35,0,214.6
+1012807,Casa Linda Park - Picnic Pavilion,,09,2017 Bond Program,425000.0,300969.47,32.8205188857902,-96.6985465026442,0,Good Earth Corporation,6.09,20074981.35,0,215.61
+1012808,Casa Linda Park - Basketball,,09,2017 Bond Program,35000.0,15852.32,32.8205188857902,-96.6985465026442,0,Good Earth Corporation,6.09,20074981.35,0,215.61
+1012812,Dixon Branch Greenbelt - Park Furnishings,,09,2017 Bond Program,65507.0,156189.91,32.8480333944171,-96.7030243194328,0,Universal Protection Service LP,9.11,24351490.83,0,216.09
+1012814,Lakewood Park - Pedestrian Bridge and ADA Parking,,09,2017 Bond Program,250000.0,109180.0,32.8315751475177,-96.7357109208045,0,Universal Protection Service LP,5.55,24351490.83,0,214.25
+1012817,Lochwood Park - Field grading and irrigation,,09,2017 Bond Program,120000.0,4728.0,32.8562747212986,-96.6916246492301,0,Good Earth Corporation,9.93,20074981.35,0,216.86
+1012818,"Lochwood Park - Park furnishings package, including ADA drin",,09,2017 Bond Program,45000.0,46462.44,32.8562747212986,-96.6916246492301,0,Good Earth Corporation,9.93,20074981.35,0,216.86
+1012819,Harry Stone Park - Neighborhood Family Aquatic Center,Aquatics,02,2017 Bond Program,6200000.0,5463861.93,32.8270161167658,-96.6737837608478,0,Good Earth Corporation,6.71,20074981.35,0,216.96
+1012820,"Friendship Park - Security lights, loop trail, exer stations",Recreation Facilities,10,2017 Bond Program,467000.0,519969.2,32.9191337387698,-96.7072455018596,0,Talley Riggins Construction Group LLC,3.01,17234844.34,0,218.68
+1012821,Flag Pole Hill Pavilion - Historic Restoration,,10,2017 Bond Program,200000.0,199658.7,32.8623848074053,-96.7231243645031,0,Universal Protection Service LP,8.72,24351490.83,0,215.7
+1012822,Hamilton Park - Parking lot expansion at Recreation Center,,10,2017 Bond Program,223000.0,193340.98,32.9175537273341,-96.7638811425516,0,Trinity Alliance Ventures LLC,3.1,34272683.17,0,216.66
+1012826,Flag Pole Hill Park - Phase 1 Master Plan Implementation (Supplemental funding),Hike and Bike Trails,10,2017 Bond Program,1100000.0,954602.44,32.8623848074053,-96.7231243645031,0,Universal Protection Service LP,8.72,24351490.83,0,215.7
+1012828,Lake Highland North Park - Site Developments / Recreation Center Improvements,Site Development,10,2017 Bond Program,400000.0,38960.32,32.8851029157202,-96.7278621945032,0,Talley Riggins Construction Group LLC,7.1,17234844.34,0,216.37
+1012829,B. B. Owen Park - Site Development,,10,2017 Bond Program,250000.0,172606.75,32.8803222347843,-96.6986884988686,0,Talley Riggins Construction Group LLC,7.36,17234844.34,0,217.38
+1012835,Anderson Bonner - Creek bank stabilization,Erosion Control,11,2017 Bond Program,500000.0,981652.0,32.9178441731704,-96.7778866712332,0,Trinity Alliance Ventures LLC,2.34,34272683.17,0,216.3
+1012836,Anderson Bonner - Playground - New,,11,2017 Bond Program,220000.0,167988.86,32.9178441731704,-96.7778866712332,0,Trinity Alliance Ventures LLC,2.34,34272683.17,0,216.3
+1012838,"Churchill Recreation Center - Major Maintenance, HVAC",,11,2017 Bond Program,250000.0,116094.0,32.9177112510444,-96.7834620655641,0,Trinity Alliance Ventures LLC,2.22,34272683.17,0,216.17
+1012839,Fretz Park - Expand Parking Lot for Aquatic Center,Site Development,11,2017 Bond Program,400000.0,44804.79,32.9489855292236,-96.7817512071969,0,Trinity Alliance Ventures LLC,1.38,34272683.17,0,217.92
+1012841,Fretz Park - Playground,Playgrounds,11,2017 Bond Program,250000.0,25195.21,32.9489855292236,-96.7817512071969,0,Trinity Alliance Ventures LLC,1.38,34272683.17,0,217.92
+1012842,Fretz Park Recreation Center - Acoustical Treatment - Multi-,Recreation Center,11,2017 Bond Program,95000.0,62991.0,32.9489855292236,-96.7817512071969,0,Trinity Alliance Ventures LLC,1.38,34272683.17,0,217.92
+1012843,Kiowa Parkway - Pedestrian Bridge,,11,2017 Bond Program,350000.0,516678.48,32.9535559323262,-96.7978590866419,0,"JE Dunn-Russell, a joint venture",2.01,94630687.8,0,217.88
+1012847,Wagging Tail Dog Park - Add new parking area - South,,11,2017 Bond Program,400000.0,315744.06,32.9705352743388,-96.8081178766519,0,"JE Dunn-Russell, a joint venture",2.47,94630687.8,0,218.91
+1012849,"Moss Glen Park - Phase 2 Site, Including Playground",,12,2017 Bond Program,800000.0,477055.53,33.0117283786374,-96.8024804160282,0,"JE Dunn-Russell, a joint venture",7.0,94630687.8,0,222.12
+1012850,Shadybank Park Shadybank & Coolglen Dr.-Trl Conn- Kiowas Brc,,11,2017 Bond Program,700000.0,363464.29,32.9709049331847,-96.7919321790445,0,"JE Dunn-Russell, a joint venture",3.41,94630687.8,0,219.19
+1012852,Campbell Green Park - Site Improvements,,12,2017 Bond Program,900000.0,660232.58,32.9775168447114,-96.7871643842111,0,"JE Dunn-Russell, a joint venture",4.24,94630687.8,0,219.75
+1012856,Timberglen Park - sprayground,Aquatics,12,2017 Bond Program,2000000.0,1599320.59,33.0035562883027,-96.8470909485044,0,"JE Dunn-Russell, a joint venture",6.48,94630687.8,0,221.23
+1012859,Twin Lakes Park - park furnishings package,,12,2017 Bond Program,50000.0,38869.81,32.6718649206536,-96.8392071680655,1,DALLAS ZOO MANAGEMENT INC,8.78,22341228.84,0,215.05
+1012862,"Preston Green Park - park furnishings, ADA drinking fountain",,12,2017 Bond Program,100000.0,58082.78,32.9858509833086,-96.7870594066964,0,"JE Dunn-Russell, a joint venture",4.95,94630687.8,0,220.36
+1012863,"Rose Haggar Park - walking loop trail, park furnishings",,12,2017 Bond Program,400000.0,119227.35,32.9966915532641,-96.8047795622217,0,"JE Dunn-Russell, a joint venture",5.33,94630687.8,0,220.92
+1012864,Glen Meadow - Playground replacement,,13,2017 Bond Program,220000.0,210726.2,32.9112838873397,-96.8456978916879,0,"Satterfield & Pontikes Construction, Inc",4.72,24518222.33,0,215.2
+1012865,Marcus Park - Playground replacement,,13,2017 Bond Program,200000.0,198403.78,32.9060212013335,-96.8787647627878,0,"Satterfield & Pontikes Construction, Inc",2.49,24518222.33,0,215.11
+1012869,"Bluffview Park - Playground Expansion, Shade Structure Site",,13,2017 Bond Program,350000.0,303315.24,32.8558344960352,-96.8302365550529,0,"Flatiron Dragados Constructors, Inc.",3.5,15832846.24,0,212.94
+1012870,Vickery Meadows Park / Playground at Library Site,,13,2017 Bond Program,240000.0,211904.71,32.8716846374356,-96.7621297858799,0,Trinity Alliance Ventures LLC,7.67,34272683.17,0,214.69
+1012871,Lindsley Park -Sidewalk Ext. Shadyside Ln. -Lindsley Dr.,,14,2017 Bond Program,195000.0,179961.28,32.8088689630739,-96.7383079417002,0,Universal Protection Service LP,4.41,24351490.83,0,213.65
+1012872,Lindsley Park - Playground Replacement,,14,2017 Bond Program,220000.0,190435.23,32.8088689630739,-96.7383079417002,0,Universal Protection Service LP,4.41,24351490.83,0,213.65
+1012873,Turtle Creek Park (formerly Oak Lawn Park/ Robert E. Lee Park (Arlington Hall)) - Renovate historic WPA rest rooms,Neighborhood Park Facilities,14,2017 Bond Program,200000.0,180339.83,32.8086452932199,-96.8039991895651,0,Universal Protection Service LP,1.85,24351490.83,0,211.68
+1012875,Tietze Park - Add Shade Structure at Playground,,14,2017 Bond Program,100000.0,38645.21,32.8234431465166,-96.7608174812941,0,Universal Protection Service LP,3.15,24351490.83,0,213.13
+1012876,Munger Park - Add shade structure at playground VK86,,14,2017 Bond Program,100000.0,60391.11,32.8028058926024,-96.7637976920877,0,Universal Protection Service LP,1.99,24351490.83,0,212.58
+1012877,VK87_Craddock Park - playground expansion,Playground Improvement,14,2017 Bond Program,200000.0,111396.0,32.8193213438116,-96.8160671441984,0,"Flatiron Dragados Constructors, Inc.",2.22,15832846.24,0,211.86
+1012880,Central Square - playground replacement,Site Development,14,2017 Bond Program,220000.0,84317.93,32.7890681335777,-96.7843204063835,0,Universal Protection Service LP,1.64,24351490.83,0,211.75
+1012881,FP Hall of State,Fair Park,99,2017 Bond Program,14410000.0,13962555.71,32.7807703597525,-96.7611472813211,0,"GTS Technology Solutions, Inc",2.15,19431158.73,0,212.49
+1012882,FP MUSIC HALL,Fair Park,99,2017 Bond Program,4300000.0,3835196.55,32.7803902169776,-96.7658557895311,0,"GTS Technology Solutions, Inc",1.82,19431158.73,0,212.33
+1012883,African American Museum,Fair Park,99,2017 Bond Program,2000000.0,2626361.56,32.7790696177685,-96.7644461777074,0,"GTS Technology Solutions, Inc",1.8,19431158.73,0,212.38
+1012884,Texas Discovery Gardens,Fair Park,99,2017 Bond Program,300000.0,243237.0,32.7757642500167,-96.7601606572165,0,"GTS Technology Solutions, Inc",1.88,19431158.73,0,212.54
+1012885,Food and Fiber Building,Fair Park,99,2017 Bond Program,1500000.0,340663.57,32.7816132587163,-96.7596979802213,0,"GTS Technology Solutions, Inc",2.31,19431158.73,0,212.55
+1012886,Coliseum,Fair Park,99,2017 Bond Program,9500000.0,7559325.49,32.7791987369291,-96.7572570541684,0,"GTS Technology Solutions, Inc",2.32,19431158.73,0,212.64
+1012887,Tower Building,Fair Park,99,2017 Bond Program,3500000.0,3559838.46,32.7794577356829,-96.7612494174456,0,"GTS Technology Solutions, Inc",2.04,19431158.73,0,212.49
+1012888,Centennial Building,Fair Park,99,2017 Bond Program,4400000.0,6396506.61,32.7822461189108,-96.7634039734076,0,"GTS Technology Solutions, Inc",2.13,19431158.73,0,212.41
+1012890,Aquarium Annex,Fair Park,99,2017 Bond Program,600000.0,535737.75,32.7769830109532,-96.7602621552466,0,"GTS Technology Solutions, Inc",1.95,19431158.73,0,212.53
+1012891,Science Place 1 (Phase 1),Fair Park,99,2017 Bond Program,5110000.0,1756288.0,32.7771419281585,-96.7623386374671,0,"GTS Technology Solutions, Inc",1.8,19431158.73,0,212.45
+1012892,Magnolia Lounge,Fair Park,07,2017 Bond Program,900000.0,506221.57,32.77935290704,-96.7637761822441,0,"GTS Technology Solutions, Inc",1.86,19431158.73,0,212.4
+1012895,"Putting Green 6521,6629,6637,6729",Erosion Control,03,2017 Bond Program,800000.0,108908.1,32.667608781881,-96.8428947170234,1,DALLAS ZOO MANAGEMENT INC,9.34,22341228.84,0,215.28
+1012897,Kiesthill Drive 3335,Erosion Control,03,2017 Bond Program,300000.0,40213.08,32.7034847395147,-96.8795593596644,1,DALLAS ZOO MANAGEMENT INC,8.27,22341228.84,0,214.23
+1012898,Pentagon Parkway W.1122,Erosion Control,04,2017 Bond Program,480000.0,46053.17,32.6950314566309,-96.8409210238081,1,DALLAS ZOO MANAGEMENT INC,6.5,22341228.84,0,214.04
+1012899,Urban 3100  Private Erosion Control,Flood Management,05,2017 Bond Program,250000.0,164331.5,32.7642319013663,-96.6954986311476,0,Good Earth Corporation,1.16,20074981.35,0,215.23
+1012901,Oak Creek Circle 3504 & 3508 RL Voluntary Purchase,Flood Management,05,2017 Bond Program,170000.0,177684.54,32.7680377644552,-96.6937182614276,0,Good Earth Corporation,0.95,20074981.35,0,215.3
+1012945,Rexford Drive @ Shorecrest Drive,Storm Drainage,13,2017 Bond Program,168000.0,363361.85,32.8589486056142,-96.8487612996722,0,"Flatiron Dragados Constructors, Inc.",3.87,15832846.24,0,213.04
+1013015,Talbot Parkway 6760,Erosion Control,03,2017 Bond Program,365000.0,45820.15,32.6649235776656,-96.8532652743197,1,DALLAS ZOO MANAGEMENT INC,10.0,22341228.84,0,215.52
+1013017,"El Cerrito Storm Drainage, 2470",Storm Drainage,07,2017 Bond Program,200000.0,416987.4,32.8002555855054,-96.7059813787771,0,Good Earth Corporation,4.23,20074981.35,0,214.93
+1013038,Hughes Lane @ Kalani Place,Storm Drainage,11,2017 Bond Program,800000.0,1216403.1,32.9365597992629,-96.7980559180048,0,Trinity Alliance Ventures LLC,1.02,34272683.17,0,216.85
+1013042,Country Brook Pond Improvements is Hall Branch,Storm Drainage,12,2017 Bond Program,110000.0,18300.5,33.0001147300894,-96.8354164882344,0,"JE Dunn-Russell, a joint venture",5.75,94630687.8,0,220.98
+1013052,Oates Drive 1407,Erosion Control,09,2017 Bond Program,190000.0,348481.35,32.8205944496346,-96.6915846496198,0,Good Earth Corporation,5.98,20074981.35,0,215.94
+1013053,"Riverhill Drive, 17418",Erosion Control,12,2017 Bond Program,188000.0,225152.9,32.9899892559023,-96.8249991084943,0,"JE Dunn-Russell, a joint venture",4.45,94630687.8,0,220.23
+1013054,"Betty Jane, 10225",Erosion Control,13,2017 Bond Program,197000.0,400450.35,32.8856718732655,-96.8546411249497,0,"Satterfield & Pontikes Construction, Inc",5.66,24518222.33,0,214.07
+1013055,"Brushy Creek Trail, 5719",Erosion Control,12,2017 Bond Program,315000.0,385421.6,33.0084315990087,-96.8108207497577,0,"JE Dunn-Russell, a joint venture",6.51,94630687.8,0,221.77
+1013056,"Claren Court 7106, 7110, 7114",Erosion Control,12,2017 Bond Program,173000.0,234599.92,32.9916282360642,-96.7797883075958,0,"JE Dunn-Russell, a joint venture",5.87,94630687.8,0,220.93
+1013057,"Brittania Way, 8470-8506, Erosion Control Pilot",Erosion Control,10,2017 Bond Program,270000.0,836242.0,32.8959063333639,-96.7251093558619,0,Talley Riggins Construction Group LLC,5.88,17234844.34,0,216.93
+1013058,Stedman Cir 17309 & 17315,Erosion Control,12,2017 Bond Program,300000.0,38032.35,32.9879010822144,-96.7961793783469,0,"JE Dunn-Russell, a joint venture",4.69,94630687.8,0,220.37
+1013059,"Nedra Way, 15821, 15827",Erosion Control,12,2017 Bond Program,145000.0,185989.7,32.9655022318351,-96.7940829032804,0,"JE Dunn-Russell, a joint venture",2.87,94630687.8,0,218.77
+1013060,"Baymar Lane, 6201",Erosion Control,12,2017 Bond Program,200000.0,179111.98,32.9902918488463,-96.7976902762753,0,"JE Dunn-Russell, a joint venture",4.87,94630687.8,0,220.53
+1013062,Meandering Way 16209,Storm Drainage,12,2017 Bond Program,74000.0,144955.34,32.9734732637467,-96.7784935355449,0,Trinity Alliance Ventures LLC,4.09,34272683.17,0,219.64
+1013065,Joe's Creek - TXU ROW and 3900 Block Vinecrest,Erosion Control,13,2017 Bond Program,350000.0,249328.2,32.8999283536859,-96.8488891108663,0,"Satterfield & Pontikes Construction, Inc",5.0,24518222.33,0,214.67
+1013066,Lake Cliff at Colorado - H&H Study,Storm Drainage,01,2017 Bond Program,59000.0,39785.0,32.7587278724259,-96.8177558461835,0,DALLAS ZOO MANAGEMENT INC,1.74,22341228.84,0,211.7
+1013067,Kidd Springs - H&H Study,Storm Drainage,01,2017 Bond Program,89000.0,82529.75,32.7541325367801,-96.8341767184081,0,DALLAS ZOO MANAGEMENT INC,2.7,22341228.84,0,211.91
+1013068,Wynnewood Village Drainage Improvements,Storm Drainage,01,2017 Bond Program,1727000.0,988723.45,32.7214120897078,-96.8330787740455,1,DALLAS ZOO MANAGEMENT INC,3.66,22341228.84,0,212.94
+1013069,Chalkhill Branch - I30/Loop 12 iInterchange,Storm Drainage,06,2017 Bond Program,780000.0,53062.58,32.7647427590646,-96.9107000974331,0,OMEGA CONTRACTING LLC,4.19,25376409.41,0,213.21
+1013071,Gifford-Roanoke Area Relief System - Phase II/Brookhollow Br,Storm Drainage,02,2017 Bond Program,1640000.0,62359.86,32.8345529929422,-96.860400483466,0,"Flatiron Dragados Constructors, Inc.",2.27,15832846.24,0,212.37
+1013073,Kings Branch Culvert @ Georgia,Storm Drainage,04,2017 Bond Program,200000.0,423341.11,32.7250125185539,-96.809272366584,1,DALLAS ZOO MANAGEMENT INC,2.34,22341228.84,0,212.76
+1013074,Kings Branch Culvert @ Edgemont,Storm Drainage,04,2017 Bond Program,173000.0,520010.48,32.7295330943923,-96.8088464202287,1,DALLAS ZOO MANAGEMENT INC,1.84,22341228.84,0,212.61
+1013076,"Lively Lane, 3808",Storm Drainage,06,2017 Bond Program,80000.0,12321.1,32.8745763399467,-96.8513620519334,0,"Flatiron Dragados Constructors, Inc.",5.61,15832846.24,0,213.62
+1013077,Kings Branch Culvert @ Denley,Storm Drainage,04,2017 Bond Program,480000.0,70419.46,32.7329872681459,-96.8055033374759,1,DALLAS ZOO MANAGEMENT INC,1.45,22341228.84,0,212.5
+1013078,Kings Branch @ Genoa,Storm Drainage,04,2017 Bond Program,260000.0,904281.81,32.7314029370102,-96.8073652479512,1,DALLAS ZOO MANAGEMENT INC,1.62,22341228.84,0,212.55
+1013080,Hearne @ Commerce,Storm Drainage,06,2017 Bond Program,246000.0,589412.81,32.7726790873303,-96.8502883981847,0,OMEGA CONTRACTING LLC,2.28,25376409.41,0,211.75
+1013082,Fort Worth Avenue @ Vilbig,Storm Drainage,06,2017 Bond Program,200000.0,152025.0,32.7653570099889,-96.8479524128889,0,OMEGA CONTRACTING LLC,2.93,25376409.41,0,211.83
+1013083,"Munger, 1300, 1301",Storm Drainage,"02,14",2017 Bond Program,80000.0,77358.18,32.8060100660825,-96.7694117829633,0,Universal Protection Service LP,1.49,24351490.83,0,212.44
+1013084,Teakwood Elmridge Drainage Relief,Storm Drainage,11,2017 Bond Program,650000.0,876186.25,32.9349275524515,-96.7845227989672,0,Trinity Alliance Ventures LLC,0.37,34272683.17,0,217.02
+1013085,"Royal Lane, 7012",Storm Drainage,11,2017 Bond Program,1050000.0,1614976.45,32.8947420988159,-96.7849863605896,0,Trinity Alliance Ventures LLC,4.75,34272683.17,0,215.08
+1013087,"Royal Lane, 3162 (RL Area 7)",Storm Drainage,13,2017 Bond Program,220000.0,27700.46,32.8947053861831,-96.8723962184121,0,"Satterfield & Pontikes Construction, Inc",3.87,24518222.33,0,214.55
+1013088,Sorcey Road @ White Ash,Storm Drainage,03,2017 Bond Program,65000.0,258843.78,32.6327660411981,-96.9491856406238,1,BAR CONSTRUCTORS INC ^,17.15,34543152.7,1,219.14
+1013089,"Alderson, 3700",Storm Drainage,14,2017 Bond Program,1188000.0,190000.0,32.831519622543,-96.7550396372943,0,Universal Protection Service LP,4.17,24351490.83,0,213.54
+1013090,Prairie Oak Drive 9321 (RL Area 33),Storm Drainage,05,2017 Bond Program,425000.0,961515.81,32.7157999511861,-96.6604656366522,1,Good Earth Corporation,6.11,20074981.35,0,217.41
+1013091,Kings Branch Culvert @ Woodin,Storm Drainage,04,2017 Bond Program,212000.0,32606.93,32.7227366244732,-96.8088403553988,1,DALLAS ZOO MANAGEMENT INC,2.59,22341228.84,0,212.85
+1013092,"Homer Street, 3215",Storm Drainage,14,2017 Bond Program,141000.0,1164029.15,32.8270202478836,-96.7823399683178,0,Universal Protection Service LP,2.59,24351490.83,0,212.6
+1013093,Kings Branch Culvert @ Stella,Storm Drainage,04,2017 Bond Program,190000.0,863271.7,32.7277420802196,-96.8091063906211,1,DALLAS ZOO MANAGEMENT INC,2.04,22341228.84,0,212.67
+1013096,"Highland Road, 2447",Erosion Control,05,2017 Bond Program,195000.0,476232.38,32.7990366439928,-96.7097682228509,0,Good Earth Corporation,4.3,20074981.35,0,214.74
+1013097,Kings Branch Culvert @ Louisiana,Storm Drainage,04,2017 Bond Program,370000.0,38702.44,32.7239227255458,-96.8090210288174,1,DALLAS ZOO MANAGEMENT INC,2.46,22341228.84,0,212.8
+1013099,Loganwood 3602,Storm Drainage,05,2017 Bond Program,256000.0,1366501.88,32.7691724176527,-96.6918966582085,0,Good Earth Corporation,0.81,20074981.35,0,215.39
+1013100,Prairie Creek Channel & Bridge Improvement @ 175,Storm Drainage,05,2017 Bond Program,1217000.0,72130.74,32.7056030455359,-96.6695741363374,1,Good Earth Corporation,6.97,20074981.35,0,217.16
+1013101,Hatfield Branch @ Seagoville Channel improvements,Storm Drainage,05,2017 Bond Program,487000.0,400298.16,32.7094952808741,-96.660116307541,1,"MUNIZ CONSTRUCTION, INC. ^",6.64,22479352.36,1,217.54
+1013102,Lake June @ St. Augustine,Storm Drainage,05,2017 Bond Program,721000.0,262324.38,32.7361919510919,-96.6569537626423,1,Good Earth Corporation,4.25,20074981.35,0,217.32
+1013103,Abshire Lane,Storm Drainage,07,2017 Bond Program,945000.0,607312.47,32.809974203565,-96.6821261670605,0,Good Earth Corporation,4.76,20074981.35,0,216.21
+1013104,Milverton @ Palisade,Storm Drainage,05,2017 Bond Program,870000.0,1586692.62,32.7465654801617,-96.671565937996,0,Good Earth Corporation,2.56,20074981.35,0,216.48
+1013105,Nandina - Pine Trail Area,Storm Drainage,08,2017 Bond Program,910000.0,173560.76,32.660684032209,-96.7724029931745,1,Estrada Concrete Company LLC,6.56,160453200.6,1,215.58
+1013106,"Hollow Ridge, 4804",Storm Drainage,07,2017 Bond Program,350000.0,452512.14,32.7814313155541,-96.7103627458226,0,Good Earth Corporation,2.96,20074981.35,0,214.57
+1013107,Cypress Branch @ Jennie Lee,Storm Drainage,07,2017 Bond Program,183000.0,936519.51,32.7564002849076,-96.6636499005078,0,Good Earth Corporation,2.22,20074981.35,0,216.83
+1013108,Pruitt Branch Tributary Culvert Imprv @ Kingsfield,Storm Drainage,08,2017 Bond Program,420000.0,312129.37,32.7046561080816,-96.6767319302808,1,Good Earth Corporation,6.98,20074981.35,0,216.85
+1013109,Greenspan - Kirnwood Area,Storm Drainage,08,2017 Bond Program,525000.0,2075742.55,32.6536004679317,-96.8310790648331,1,BAR CONSTRUCTORS INC ^,8.81,34543152.7,1,215.86
+1013110,Morning Dew Circle 3844 (RL Area 39),Storm Drainage,04,2017 Bond Program,135000.0,206153.63,32.6965385772842,-96.8331766137535,1,DALLAS ZOO MANAGEMENT INC,6.02,22341228.84,0,213.91
+1013112,Creek Bend Road 7028,Storm Drainage,12,2017 Bond Program,82000.0,8345.72,32.9964241668781,-96.7917160849107,0,"JE Dunn-Russell, a joint venture",5.73,94630687.8,0,221.08
+1013115,Flag Pole Hill Park - Playground Replacement (Supplemental funding),Playground Improvement,10,2017 Bond Program,135000.0,139380.0,32.8623848074053,-96.7231243645031,0,Universal Protection Service LP,8.72,24351490.83,0,215.7
+1013117,West Dallas Mutli-Purpose Center,City Facilities,06,2017 Bond Program,0.0,1924543.46,32.7774793806147,-96.8602747886673,0,OMEGA CONTRACTING LLC,1.2,25376409.41,0,211.85
+1013121,Martin Luther King Jr. Center â€“ Medical,City Facilities,07,2017 Bond Program,0.0,299067.0,32.7698665881675,-96.7656412029137,0,"GTS Technology Solutions, Inc",1.15,19431158.73,0,212.38
+1013122,Red Bird Mall Redevelopment-Mayor,Economic Development,08,2017 Bond Program,0.0,2500000.0,32.6594218357601,-96.8773488363756,1,DALLAS ZOO MANAGEMENT INC,11.66,22341228.84,0,216.13
+1013124,Red Bird Mall Redevelopment-CD03,Economic Development,03,2017 Bond Program,0.0,3000000.0,32.6594218357601,-96.8773488363756,1,DALLAS ZOO MANAGEMENT INC,11.66,22341228.84,0,216.13
+1013125,Red Bird Mall Redevelopment-CD08,Economic Development,08,2017 Bond Program,0.0,4131414.0,32.6594218357601,-96.8773488363756,1,DALLAS ZOO MANAGEMENT INC,11.66,22341228.84,0,216.13
+1013127,Hillcrest Village Shopping Center Redevelopment-CD12,Economic Development,12,2017 Bond Program,0.0,300000.0,32.9628936530295,-96.7872152970547,0,Trinity Alliance Ventures LLC,2.83,34272683.17,0,218.72
+1013134,Clearbrook Lane 10500 Blk,Erosion Control,09,2017 Bond Program,150000.0,19863.81,32.8538654976093,-96.6999975881165,0,Universal Protection Service LP,9.71,24351490.83,0,216.4
+1013137,Wynnewood Village Drainage Improvements-CD01,Economic Development,01,2017 Bond Program,0.0,1304463.0,32.7214120897078,-96.8330787740455,1,DALLAS ZOO MANAGEMENT INC,3.66,22341228.84,0,212.94
+1013142,"Hillside Drive, 3604",Erosion Control,09,2017 Bond Program,150000.0,20649.25,32.8309425776229,-96.7497271656222,0,Universal Protection Service LP,4.48,24351490.83,0,213.71
+1013143,"Meadowcliff 10720, 10726",Erosion Control,10,2017 Bond Program,853000.0,117746.25,32.870310268523,-96.6975683013019,0,Talley Riggins Construction Group LLC,8.47,17234844.34,0,217.06
+1013144,Bonnie View over Five Mile Creek,Erosion Control,08,2017 Bond Program,645000.0,411403.5,32.6829441221834,-96.7676791742268,1,Estrada Concrete Company LLC,7.45,160453200.6,1,214.72
+1013145,El Cerrito 2420 2460 2522,Erosion Control,07,2017 Bond Program,528000.0,80195.0,32.7997651781565,-96.7063831931907,0,Good Earth Corporation,4.2,20074981.35,0,214.9
+1013146,Critical Bridges- Maple Avenue Bridge over Turtle Creek Bridge Repair,Bridge Repair and Modification,"14,02",2017 Bond Program,0.0,65836.38,32.8010809998632,-96.8108249997364,0,"Perkins + Will, Inc.",1.33,46477520.769999996,0,211.44
+1013147,Critical Bridges- Second Avenue over White Rock Creek Bridge Repair,Bridge Repair and Modification,05,2017 Bond Program,0.0,469859.7,32.7509139148198,-96.7327991066547,0,"GTS Technology Solutions, Inc",4.57,19431158.73,0,213.77
+1013148,Critical Bridges- Marsh Lane over Furneaux Creek Bridge Repair,Bridge Repair and Modification,12,2017 Bond Program,0.0,11988.85,33.0060969995836,-96.8572810002215,0,"JE Dunn-Russell, a joint venture",7.16,94630687.8,0,221.45
+1013149,Critical Bridges- Camp Wisdom Road over Ricketts Creek Bridge Repair,Bridge Repair and Modification,"03,08",2017 Bond Program,0.0,51881.5,32.662392000109,-96.8141809998368,1,BAR CONSTRUCTORS INC ^,8.79,34543152.7,1,215.36
+1013150,Critical Bridges- Marsalis Avenue Bridge Repair over Cedar Creek/Dallas Zoo Bridge Repair,Bridge Repair and Modification,04,2017 Bond Program,0.0,17117.97,32.7402959532423,-96.8139819285791,1,DALLAS ZOO MANAGEMENT INC,0.91,22341228.84,0,212.23
+1013151,Critical Bridges- Marsalis Avenue Bridge over Five Mile Creek,Intergovernmental Partnership Projects,"03,08",2017 Bond Program,0.0,201937.56,32.6871686168638,-96.8144609197275,1,DALLAS ZOO MANAGEMENT INC,6.58,22341228.84,0,214.25
+1013194,Fire Station #8 ,Fire Department Facilities,02,2017 Bond Program,104000.0,94922.65,32.8102383229687,-96.7765094049784,0,Universal Protection Service LP,1.08,24351490.83,0,212.31
+1013197,Fire Station #12.,,03,2017 Bond Program,83000.0,63989.95,32.6423357135122,-96.9530947183751,1,OMEGA CONTRACTING LLC,17.4,25376409.41,0,218.78
+1013200,Wheatland Park- Football Field,,08,2017 Bond Program,0.0,2379622.27,32.6460283722806,-96.8307991098581,1,BAR CONSTRUCTORS INC ^,8.15,34543152.7,1,216.25
+1015990,Hensley Field Reuse and Redevelopment Master Plan,,TBD,2017 Bond Program,0.0,598236.42,32.7439254592874,-96.9626056076178,1,OMEGA CONTRACTING LLC,9.57,25376409.41,0,215.3
+1016233,The St. Jude Center-Park Central Project,,11,2017 Bond Program,0.0,3300000.0,32.9223483200819,-96.7679677115862,0,Trinity Alliance Ventures LLC,2.45,34272683.17,0,216.78
+1016596,Park at Heritage Village,Neighborhood Park Facilities,02,2017 Bond Program,0.0,683385.59,32.7731637489438,-96.7886006222657,0,"GTS Technology Solutions, Inc",1.22,19431158.73,0,211.68
+1016597,Cadillac Heights Park,Community Parks,04,2017 Bond Program,0.0,1169208.1,32.742066440951,-96.7876855021047,1,DALLAS ZOO MANAGEMENT INC,1.86,22341228.84,0,212.41
+1016855,4150 Independence Drive,,08,2017 Bond Program,0.0,1887672.4,32.6600231193864,-96.8882315376957,1,DALLAS ZOO MANAGEMENT INC,12.21,22341228.84,0,216.3
+1017088,2949 S. Hampton Rd,,03,2017 Bond Program,0.0,11500.0,32.7142889956384,-96.8571925271607,1,DALLAS ZOO MANAGEMENT INC,5.87,22341228.84,0,213.45
+1017418,Willis Winters-Soccer Field,,14,2017 Bond Program,0.0,147800.0,32.8038645891849,-96.7513403948432,0,Universal Protection Service LP,3.16,24351490.83,0,213.05
+1017508,HAWK Signal-300 Singleton-CD 6,,06,2017 Bond Program,0.0,939.79,32.7785981944828,-96.8277594250455,0,Kay Bailey Hutchison Convention Center,2.09,53138383.01,0,211.4
+1017512,Renovation UL Bldg. 4315 S Lancaster Rd CD-4,,04,2017 Bond Program,0.0,750000.0,32.6961197183787,-96.7945079889221,1,DALLAS ZOO MANAGEMENT INC,5.67,22341228.84,0,213.93
+1017514,AT LAST! Project - 405 E Overton,,04,2017 Bond Program,0.0,400000.0,32.7014642177962,-96.8185934982106,1,DALLAS ZOO MANAGEMENT INC,5.07,22341228.84,0,213.66
+1017516,Hensley Field Project-CD3,,03,2017 Bond Program,0.0,705112.91,32.7439254592874,-96.9626056076178,1,OMEGA CONTRACTING LLC,9.57,25376409.41,0,215.3
+1017518,Redev of Shopping Ctr at 3035 N.Buckner Blvd-CD07,,07,2017 Bond Program,0.0,650000.0,32.8079452317747,-96.6843090042666,0,Good Earth Corporation,4.53,20074981.35,0,216.07
+1017562,Cherry Wood Park,Playgrounds,02,2017 Bond Program,0.0,263123.15,32.8230658054296,-96.8283751385701,0,"Flatiron Dragados Constructors, Inc.",1.0,15832846.24,0,211.91
+1018007,The Bottom Phase II,Streetscape / Urban Design,,2017 Bond Program,0.0,888311.97,32.7515346133747,-96.8031543329934,0,DALLAS ZOO MANAGEMENT INC,0.71,22341228.84,0,211.93
+1018288,Mill City Infill Development Project,,,2017 Bond Program,0.0,2000000.0,32.7714360602088,-96.7460666812502,0,"GTS Technology Solutions, Inc",2.98,19431158.73,0,213.08
+1018383,Dallas Arboretum - Degolyer House,,09,2017 Bond Program,0.0,304935.0,32.8229949931616,-96.716878389718,0,Universal Protection Service LP,6.72,24351490.83,0,214.83
+1018385,Willie May Butler Playground,,07,2017 Bond Program,0.0,137118.72,32.7612441607488,-96.7364005702534,0,"GTS Technology Solutions, Inc",3.91,19431158.73,0,213.52
+1018386,Lakeland Hills Dog Park,,07,2017 Bond Program,0.0,38700.72,32.8038608222678,-96.6966478155283,0,Good Earth Corporation,4.26,20074981.35,0,215.41
+1018398,Forest Audelia Park and Site Development,,10,2017 Bond Program,0.0,328026.86,32.9101983893497,-96.7199233657164,0,Talley Riggins Construction Group LLC,4.21,17234844.34,0,217.77
+1008772,Trinity Trail Phase II-B,Trails,TBD,2012 Bond Program,0.0,17467.5,32.701001863888,-96.6998337835516,1,Estrada Concrete Company LLC,6.86,160453200.6,1,215.95
+1008979,Harry Hines from Oak Lawn to Wycliff DART Station,Sidewalk Improvements,TBD,2012 Bond Program,122500.0,118926.94,32.8063240656297,-96.82145883594,0,"Perkins + Will, Inc.",2.38,46477520.769999996,0,211.54
+1009179,Red Bird Area Street Improvements,Thoroughfares,TBD,2012 Bond Program,1987800.0,1987800.0,32.6622354642287,-96.8784452624158,1,DALLAS ZOO MANAGEMENT INC,11.46,22341228.84,0,216.02
+1011490,Abrams Road Bridge - hike & bike trail,Erosion Control,TBD,2012 Bond Program,48000.0,95021.77,32.8724693510579,-96.7412930164351,0,Trinity Alliance Ventures LLC,8.4,34272683.17,0,215.39
+1011491,Anderson Bonner Park Site 1 - hike & bike trail (WRC 164),Erosion Control,TBD,2012 Bond Program,231400.0,236056.69,32.9168772688446,-96.7769493727987,0,Trinity Alliance Ventures LLC,2.47,34272683.17,0,216.28
+1011492,Audelia 11601 (Audelia Branch - E. Bank downstream of Audelia Bridge),Erosion Control,TBD,2012 Bond Program,617700.0,68651.01,32.9072209180093,-96.718237987988,0,Talley Riggins Construction Group LLC,4.49,17234844.34,0,217.69
+1011493,Bainbridge 2733,Erosion Control,TBD,2012 Bond Program,91400.0,79365.64,32.6639187787888,-96.8647096623025,1,DALLAS ZOO MANAGEMENT INC,10.6,22341228.84,0,215.72
+1011494,Beechmont Dr. 2507,Erosion Control,TBD,2012 Bond Program,54800.0,126143.47,32.8234738335572,-96.6861723331412,0,Good Earth Corporation,6.26,20074981.35,0,216.26
+1011495,Blackstone 2709,Erosion Control,TBD,2012 Bond Program,114300.0,229451.54,32.6652051447143,-96.8629195886291,1,DALLAS ZOO MANAGEMENT INC,10.4,22341228.84,0,215.63
+1011496,Blackstone 2729,Erosion Control,TBD,2012 Bond Program,91400.0,215967.38,32.6647740347914,-96.8638428059223,1,DALLAS ZOO MANAGEMENT INC,10.48,22341228.84,0,215.66
+1011497,Blackstone 2745,Erosion Control,TBD,2012 Bond Program,220500.0,261630.1,32.6644994591554,-96.8644410702192,1,DALLAS ZOO MANAGEMENT INC,10.54,22341228.84,0,215.68
+1011498,Blue Ridge 3721,Erosion Control,TBD,2012 Bond Program,123500.0,126141.1,32.7004911267348,-96.882547046724,1,DALLAS ZOO MANAGEMENT INC,8.69,22341228.84,0,214.41
+1011499,Burninglog 13156,Erosion Control,TBD,2012 Bond Program,68600.0,12331.19,32.9184205792133,-96.7309801874212,0,Talley Riggins Construction Group LLC,3.88,17234844.34,0,217.75
+1011500,Cavender 445,Erosion Control,TBD,2012 Bond Program,73100.0,100283.0,32.7490303262485,-96.8651561877897,0,OMEGA CONTRACTING LLC,3.81,25376409.41,0,212.47
+1011501,Caracas 5810 and 5816 (Formerly Caracas 5410 and 5416),Erosion Control,TBD,2012 Bond Program,171400.0,318702.11,32.6762726276419,-96.8450947425538,1,DALLAS ZOO MANAGEMENT INC,8.53,22341228.84,0,214.9
+1011502,Cedar Springs 5910,Erosion Control,TBD,2012 Bond Program,185100.0,241065.95,32.8288537775918,-96.8318132364065,0,"Flatiron Dragados Constructors, Inc.",0.77,15832846.24,0,212.07
+1011503,Church Road 9233,Erosion Control,TBD,2012 Bond Program,160000.0,344114.76,32.8866439735658,-96.7321931621461,0,Talley Riggins Construction Group LLC,7.07,17234844.34,0,216.28
+1011504,Clarendon 3435,Erosion Control,TBD,2012 Bond Program,111200.0,100978.94,32.7351803939414,-96.8775083362945,1,OMEGA CONTRACTING LLC,5.34,25376409.41,0,213.09
+1011505,Clubhouse Circle 6523 and 6527,Erosion Control,11,2012 Bond Program,114300.0,282379.81,32.9287699652513,-96.7959070142913,0,Trinity Alliance Ventures LLC,1.26,34272683.17,0,216.47
+1011506,Country Brook Pond between Park Grove Ln and Quail Hollow Rd,Erosion Control,12,2012 Bond Program,40000.0,38425.38,33.0000054653696,-96.8353063398089,0,"JE Dunn-Russell, a joint venture",5.73,94630687.8,0,220.97
+1011507,Colorado (W) 705,Erosion Control,TBD,2012 Bond Program,77700.0,162714.82,32.7590935769364,-96.8340452189775,0,DALLAS ZOO MANAGEMENT INC,2.92,22341228.84,0,211.79
+1011508,"Deep Hill Circle 2671, 2675, 2679, 2683",Erosion Control,TBD,2012 Bond Program,553500.0,772093.15,32.6939841146954,-96.8625393636585,1,DALLAS ZOO MANAGEMENT INC,7.77,22341228.84,0,214.33
+1011509,Dixon Branch at Easton Road,Erosion Control,TBD,2012 Bond Program,182800.0,7837.6,32.8525449748511,-96.701260227946,0,Universal Protection Service LP,9.53,24351490.83,0,216.31
+1011510,Fair Oaks Crossing 8201,Erosion Control,TBD,2012 Bond Program,114300.0,529213.0,32.8925067358972,-96.7306922195203,0,Talley Riggins Construction Group LLC,6.41,17234844.34,0,216.58
+1011511,Fair Oaks Crossing 8849,Erosion Control,TBD,2012 Bond Program,285600.0,280784.18,32.8992064271197,-96.7284440675207,0,Talley Riggins Construction Group LLC,5.64,17234844.34,0,216.95
+1011512,Five Mile Pkwy W. 922,Erosion Control,TBD,2012 Bond Program,222400.0,358596.5,32.6949810785976,-96.837658589212,1,DALLAS ZOO MANAGEMENT INC,6.36,22341228.84,0,214.01
+1011513,Glen Oaks 816,Erosion Control,,2012 Bond Program,137100.0,5481.37,32.6757106987177,-96.8354143477817,1,DALLAS ZOO MANAGEMENT INC,8.26,22341228.84,0,214.84
+1011514,Glendale Park Site 1 - Pavilion,Erosion Control,TBD,2012 Bond Program,68600.0,132587.95,32.6821475497782,-96.8006155621098,1,DALLAS ZOO MANAGEMENT INC,7.13,22341228.84,0,214.48
+1011516,Glendale Park Site 4 - N. of footbridge,Erosion Control,TBD,2012 Bond Program,34300.0,4900.0,32.681166452977,-96.7962052168683,1,DALLAS ZOO MANAGEMENT INC,7.28,22341228.84,0,214.54
+1011518,Greenville Avenue 9320/Vista View 8915,Erosion Control,TBD,2012 Bond Program,197700.0,378882.79,32.9031562320119,-96.7486315699682,0,Trinity Alliance Ventures LLC,5.24,34272683.17,0,216.43
+1011519,Hampton Road (S) 3817,Erosion Control,TBD,2012 Bond Program,228500.0,338564.6,32.6963546278035,-96.857186482842,1,DALLAS ZOO MANAGEMENT INC,7.25,22341228.84,0,214.16
+1011520,Harry Moss Park Site 1 - S. of pedestrian bridge,Erosion Control,TBD,2012 Bond Program,68600.0,172195.48,32.8925778235593,-96.7526695941004,0,Trinity Alliance Ventures LLC,5.94,34272683.17,0,215.83
+1011521,Healey 2116 and Kingsman 9869,Erosion Control,TBD,2012 Bond Program,137100.0,20641.51,32.8244938082365,-96.6796993302511,0,Good Earth Corporation,6.38,20074981.35,0,216.6
+1011523,Kiesthill Drive 3431,Erosion Control,TBD,2012 Bond Program,222400.0,246241.55,32.7023071948631,-96.8800666946294,1,DALLAS ZOO MANAGEMENT INC,8.39,22341228.84,0,214.29
+1011524,Kildare 4927,Erosion Control,TBD,2012 Bond Program,85700.0,114499.38,32.6869013485661,-96.7941707750819,1,DALLAS ZOO MANAGEMENT INC,6.68,22341228.84,0,214.31
+1011525,Kiltartan 1511,Erosion Control,TBD,2012 Bond Program,177900.0,1159829.9,32.8243094931637,-96.6877327490179,0,Good Earth Corporation,6.36,20074981.35,0,216.2
+1011526,Kiowa Parkway Hike and Bike Trail,Erosion Control,TBD,2012 Bond Program,82300.0,140086.46,32.9564673382544,-96.7972790290279,0,"JE Dunn-Russell, a joint venture",2.14,94630687.8,0,218.08
+1011527,Lanett Circle N. 10741,Erosion Control,TBD,2012 Bond Program,142800.0,334380.87,32.8688783776244,-96.6991319070674,0,Talley Riggins Construction Group LLC,8.62,17234844.34,0,216.94
+1011528,Langdale Circle 8668 and 8656,Erosion Control,TBD,2012 Bond Program,285600.0,934496.16,32.8672594517888,-96.6991709125167,0,Talley Riggins Construction Group LLC,8.8,17234844.34,0,216.88
+1011529,Lyre Lane 6909 and Chantilly Court 6916,Erosion Control,TBD,2012 Bond Program,68600.0,10850.26,32.8364000890116,-96.7405028339959,0,Universal Protection Service LP,5.52,24351490.83,0,214.2
+1011530,Martin Weiss Park Site 1 - Pavilion,Erosion Control,TBD,2012 Bond Program,68600.0,135845.78,32.7333235489185,-96.8776716381364,1,OMEGA CONTRACTING LLC,5.54,25376409.41,0,213.15
+1011531,Martin Weiss Park Site 3 - Pedestrian Bridge,Erosion Control,TBD,2012 Bond Program,34900.0,4785.98,32.7338654195173,-96.8779223975021,1,OMEGA CONTRACTING LLC,5.49,25376409.41,0,213.14
+1011532,"Mercedes 6607, 6615, 6621",Erosion Control,TBD,2012 Bond Program,114300.0,213621.55,32.8288059194825,-96.7462517636683,0,Universal Protection Service LP,4.57,24351490.83,0,213.78
+1011533,"Rocky Branch @ Middle Downs Sites 1, 2, 3, 4",Erosion Control,TBD,2012 Bond Program,666300.0,598026.44,32.8991019755641,-96.7335519469235,0,Talley Riggins Construction Group LLC,5.84,17234844.34,0,216.76
+1011534,Pagewood 10553,Erosion Control,TBD,2012 Bond Program,29700.0,9000.0,32.890533681762,-96.7833270377703,0,Trinity Alliance Ventures LLC,5.22,34272683.17,0,214.93
+1011535,Rosemont Rd. 7322,Erosion Control,TBD,2012 Bond Program,114300.0,277773.0,32.7257669843737,-96.6957778019088,1,Good Earth Corporation,4.75,20074981.35,0,215.62
+1011536,Royal Lane 7832 and 7920,Erosion Control,TBD,2012 Bond Program,493600.0,644747.38,32.8975450268467,-96.7708352831208,0,Trinity Alliance Ventures LLC,4.69,34272683.17,0,215.53
+1011537,Royal Lane 9750 (Jackson Branch - E. Bank downstream of Royal Bridge),Erosion Control,TBD,2012 Bond Program,259400.0,305061.75,32.8938198678531,-96.7307080986262,0,Talley Riggins Construction Group LLC,6.27,17234844.34,0,216.63
+1011538,Skillman 7920 (Jackson Branch - E. Bank downstream of Skillman Br),Erosion Control,TBD,2012 Bond Program,518900.0,207878.93,32.8885734049834,-96.7318751278206,0,Talley Riggins Construction Group LLC,6.85,17234844.34,0,216.37
+1011539,Sperry St. 3220,Erosion Control,TBD,2012 Bond Program,84000.0,3521.86,32.8266805787062,-96.7398566115354,0,Universal Protection Service LP,4.93,24351490.83,0,213.97
+1011540,Skillman 8109,Erosion Control,TBD,2012 Bond Program,163400.0,501243.06,32.8910435502455,-96.7307050958364,0,Talley Riggins Construction Group LLC,6.56,17234844.34,0,216.51
+1011541,Spring Grove 13316,Erosion Control,11,2012 Bond Program,74000.0,188012.31,32.9293270317004,-96.778271615693,0,Trinity Alliance Ventures LLC,1.22,34272683.17,0,216.87
+1011542,Spring Valley 8444,Erosion Control,TBD,2012 Bond Program,297100.0,426402.35,32.9392848265096,-96.7566217680253,0,Trinity Alliance Ventures LLC,2.86,34272683.17,0,218.02
+1011543,"Springwater 9204, 9210, 9216",Erosion Control,TBD,2012 Bond Program,297100.0,521234.69,32.8177433596135,-96.6969825985407,0,Good Earth Corporation,5.76,20074981.35,0,215.63
+1011544,Squaw Valley 17628,Erosion Control,12,2012 Bond Program,91400.0,43461.78,32.993065784568,-96.7953986917775,0,"JE Dunn-Russell, a joint venture",5.24,94630687.8,0,220.77
+1011545,Sunland Street 11825,Erosion Control,TBD,2012 Bond Program,45700.0,6213.67,32.8573115790752,-96.6876015928051,0,Good Earth Corporation,10.03,20074981.35,0,217.08
+1011546,"Summer Creek Circle 6121, 6123, 6125,6127,6139,6141",Erosion Control,TBD,2012 Bond Program,434200.0,398748.62,32.8629771720549,-96.7561937303991,0,Universal Protection Service LP,7.11,24351490.83,0,214.54
+1011547,"Tamarack 1745, 1739, 1751",Erosion Control,TBD,2012 Bond Program,308500.0,98128.35,32.8232847404261,-96.6844862683812,0,Good Earth Corporation,6.24,20074981.35,0,216.34
+1011548,Tranquilla Dr. 1251,Erosion Control,TBD,2012 Bond Program,109700.0,17656.69,32.8340765024831,-96.6983442055466,0,Good Earth Corporation,7.56,20074981.35,0,215.92
+1011549,Turtle Creek Greenbelt Site 1 - bike trail,Erosion Control,TBD,2012 Bond Program,222800.0,305927.15,32.8108967560412,-96.8010814354243,0,Universal Protection Service LP,1.69,24351490.83,0,211.77
+1011550,Twin Creek 9726,Erosion Control,TBD,2012 Bond Program,123500.0,900499.06,32.8238388216396,-96.6891780396662,0,Good Earth Corporation,6.32,20074981.35,0,216.12
+1011551,Twin Falls Park Trail,Erosion Control,TBD,2012 Bond Program,257100.0,853948.71,32.6722077499811,-96.8391605849693,1,DALLAS ZOO MANAGEMENT INC,8.74,22341228.84,0,215.03
+1011552,Whitehurst 9727 (Jackson Branch - E. Bank upstream of Whitehurst Br),Erosion Control,TBD,2012 Bond Program,345900.0,46215.25,32.9015003020473,-96.7279202185161,0,Talley Riggins Construction Group LLC,5.38,17234844.34,0,217.07
+1011553,Whitehurst 9730 (Audelia Branch - W. Bank downstream of Whitehurst),Erosion Control,TBD,2012 Bond Program,444800.0,377385.41,32.9007675707733,-96.7274299295308,0,Talley Riggins Construction Group LLC,5.44,17234844.34,0,217.05
+1011554,Wild Oak 2488,Erosion Control,TBD,2012 Bond Program,148300.0,172653.24,32.799318084974,-96.7098653153642,0,Good Earth Corporation,4.33,20074981.35,0,214.74
+1011558,Levee Drainage System - Sump A (Able Pump Station),Flood Management,TBD,2012 Bond Program,91700000.0,71416276.4,32.7687527324043,-96.8091660316484,0,Kay Bailey Hutchison Convention Center,1.1,53138383.01,0,211.46
+1012950,Oak Lawn Heights Sidewalk Projects,Sidewalk Improvements,02,2012 Bond Program,0.0,267193.4,32.8188757403454,-96.8283565379183,0,"Flatiron Dragados Constructors, Inc.",1.2,15832846.24,0,211.81
+1019907,Kleberg-Rylie Library,Library Facilities,08,2024 Bond Program,262000.0,63564.91,32.6864729513547,-96.6010057478791,1,"MUNIZ CONSTRUCTION, INC. ^",0.56,22479352.36,1,221.14
+1019908,Lakewood Library,Design and Construction,14,2024 Bond Program,262000.0,64768.24,32.810389697576,-96.753343721441,0,Universal Protection Service LP,3.06,24351490.83,0,213.09
+1019909,Martin Luther King Jr. Library Building C,Library Facilities,07,2024 Bond Program,262000.0,117323.19,32.770542283411,-96.7660525380658,0,"GTS Technology Solutions, Inc",1.14,19431158.73,0,212.36
+1019910,Mountain Creek Library,Library Facilities,03,2024 Bond Program,262000.0,88007.82,32.6505411170726,-96.9660704396755,1,TRINITY RIVER AUTHORITY OF TX,16.32,18513257.54,1,218.79
+1019912,Oak Lawn Library,Library Facilities,14,2024 Bond Program,262000.0,117059.79,32.8123806910044,-96.812396999975,0,"Perkins + Will, Inc.",2.56,46477520.769999996,0,211.7
+1019915,Renner Frankford Library,Library Facilities,12,2024 Bond Program,262000.0,103414.89,32.9977517035618,-96.7946732394053,0,"JE Dunn-Russell, a joint venture",5.74,94630687.8,0,221.14
+1019916,Skillman Southwestern Library,Library Facilities,09,2024 Bond Program,262000.0,38008.12,32.8577369849178,-96.7564949279797,0,Universal Protection Service LP,6.57,24351490.83,0,214.34
+1019949,Dallas Police Training Academy Facility,Police Facilities,99,2024 Bond Program,50000000.0,369979.5,32.661683714616,-96.7927345162612,1,BAR CONSTRUCTORS INC ^,8.04,34543152.7,1,215.41
+1019973,Oak Cliff Cultural Center,Cultural Arts Facilities,01,2024 Bond Program,450000.0,67282.67,32.743357678632,-96.8257896562708,1,DALLAS ZOO MANAGEMENT INC,1.78,22341228.84,0,212.15
+1019976,Winspear Opera House,Cultural Arts Facilities,14,2024 Bond Program,6614190.0,838276.5,32.7909876019185,-96.7976279808268,0,"Perkins + Will, Inc.",0.64,46477520.769999996,0,211.41
+1020003,11th E 1615,Erosion Control,04,2024 Bond Program,442750.0,6764.0,32.7471121587637,-96.7988345054045,0,DALLAS ZOO MANAGEMENT INC,0.77,22341228.84,0,212.1
+1020004,Audelia Rd 11655 (Building 8 to 10),Erosion Control,10,2024 Bond Program,1489250.0,6525.0,32.9080131627549,-96.7195209945852,0,Talley Riggins Construction Group LLC,4.44,17234844.34,0,217.68
+1020005,"Claremont 8017, 8023, and 8030",Erosion Control,07,2024 Bond Program,543375.0,402.31,32.7994423564437,-96.7096671114071,0,Good Earth Corporation,4.33,20074981.35,0,214.75
+1020006,Coombs Creek Dr 637,Erosion Control,01,2024 Bond Program,261625.0,55007.85,32.7391839309934,-96.8772056598079,1,OMEGA CONTRACTING LLC,4.89,25376409.41,0,212.97
+1020008,El Cerrito 2490 & Hunnicut 8181,Erosion Control,07,2024 Bond Program,805000.0,459.79,32.7997230542274,-96.7050270429145,0,Good Earth Corporation,4.13,20074981.35,0,214.96
+1020009,Forston Ave 18503,Erosion Control,12,2024 Bond Program,181125.0,38622.9,33.0028040577379,-96.7943882728286,0,"JE Dunn-Russell, a joint venture",6.27,94630687.8,0,221.53
+1020010,Glencairn 460,Erosion Control,08,2024 Bond Program,281750.0,31392.5,32.6553487970967,-96.8288678197761,1,BAR CONSTRUCTORS INC ^,8.84,34543152.7,1,215.76
+1020011,Hampton N 635,Erosion Control,01,2024 Bond Program,241500.0,21101.0,32.7507992577835,-96.8570899487755,0,OMEGA CONTRACTING LLC,3.81,25376409.41,0,212.28
+1020013,Jefferson W 2909,Erosion Control,01,2024 Bond Program,281750.0,51712.0,32.7452386657172,-96.8685072598632,0,OMEGA CONTRACTING LLC,4.2,25376409.41,0,212.63
+1020014,Kiest Valley Parkway @ Kiest Knoll Outfall Protection,Erosion Control,03,2024 Bond Program,264500.0,13292.0,32.7083158717744,-96.8817012113821,1,DALLAS ZOO MANAGEMENT INC,8.15,22341228.84,0,214.09
+1020015,Nutwood Cir. 6402,Erosion Control,12,2024 Bond Program,201250.0,39962.9,32.9903766484526,-96.7958074738128,0,"JE Dunn-Russell, a joint venture",4.95,94630687.8,0,220.56
+1020016,Outfall at Compton 1203/1205,Erosion Control,04,2024 Bond Program,483000.0,15027.0,32.7426702257838,-96.8068585791815,1,DALLAS ZOO MANAGEMENT INC,0.37,22341228.84,0,212.17
+1020017,Ravinia S. 3338,Erosion Control,03,2024 Bond Program,503125.0,2318.0,32.7020643053475,-96.869752430765,1,DALLAS ZOO MANAGEMENT INC,7.64,22341228.84,0,214.11
+1020018,Sheldon Ave 3303 (Fire Station 26),Erosion Control,01,2024 Bond Program,805000.0,78244.24,32.7448318891464,-96.8748327281616,1,OMEGA CONTRACTING LLC,4.25,25376409.41,0,212.76
+1020035,Fire Station #11 Renovation - 3828 Cedar Springs Rd,Fire Department Facilities,14,2024 Bond Program,10218000.0,5000.0,32.8103523423443,-96.8092973818872,0,"Perkins + Will, Inc.",2.27,46477520.769999996,0,211.67
+1020065,Fire Station #43 Replacement - 2844 Lombardy Ln,Fire Department Facilities,06,2024 Bond Program,16768000.0,10268.45,32.8660402357421,-96.877717123964,0,"A & Associates, Inc.",5.7,19291214.12,0,213.5
+1020354,Thurgood Marshall Park - Site Development,CDSF,03,2024 Bond Program,1000000.0,113701.68,32.6839975829849,-96.8536081861411,1,DALLAS ZOO MANAGEMENT INC,8.16,22341228.84,0,214.64
+1020370,"Fair Park - AAM; MH, Tx DG; C Aq; Public Safety, Prkng Impr",Partnership Matches (Large Matches),07,2024 Bond Program,5000000.0,823996.5,32.7782993137154,-96.7592969782726,0,"GTS Technology Solutions, Inc",2.1,19431158.73,0,212.56
+1020371,Five Mile Creek Greenbelt Master Plan Impl Kessler Plan,Partnership Matches (Large Matches),"04,03",2024 Bond Program,7000000.0,38624.34,32.6931076558735,-96.832464099594,1,DALLAS ZOO MANAGEMENT INC,6.35,22341228.84,0,214.05
+1020484,Benito Jaurez Parque De Heroes - Park Furnishings Pkg,Playgrounds,06,2024 Bond Program,25000.0,22233.0,32.7828465735544,-96.8385591412832,0,OMEGA CONTRACTING LLC,3.07,25376409.41,0,211.49
+1020652,Arcadia Recreation Ctr- Inter Upgrades- Safety and Security,Recreation Center,03,2024 Bond Program,768670.0,26060.25,32.7430730401279,-96.9140620144198,1,OMEGA CONTRACTING LLC,5.96,25376409.41,0,213.76
+1020657,Eloise Lundy Rec Cntr â¿¿ Inter Upgrds  Safety and Security,Recreation Center,04,2024 Bond Program,1360431.0,43973.25,32.7560442680623,-96.806295708767,0,DALLAS ZOO MANAGEMENT INC,1.12,22341228.84,0,211.79
+1020658,"Exall Park Rec Cntr - Demo (New); Splash Pad, Sr Ctr",Recreation Center,14,2024 Bond Program,17660000.0,387131.4,32.7932433305361,-96.7850789855651,0,Universal Protection Service LP,1.17,24351490.83,0,211.76
+1020660,John C. Phelps Rec Ctr- Inter Upgrades- Safety and Security,Recreation Center,04,2024 Bond Program,1154555.0,118845.73,32.7226125478892,-96.7726162568906,1,DALLAS ZOO MANAGEMENT INC,4.14,22341228.84,0,213.26
+1020662,Kiest Rec Ctr- Inter Upgrades- Safety and Security,Recreation Center,04,2024 Bond Program,1873306.0,189800.57,32.7100244026504,-96.8528151851954,1,DALLAS ZOO MANAGEMENT INC,5.86,22341228.84,0,213.55
+1020663,Marcus Park - Renovation (Major),Recreation Center,13,2024 Bond Program,4000000.0,96798.72,32.9059343953242,-96.878726810522,0,"Satterfield & Pontikes Construction, Inc",2.5,24518222.33,0,215.11
+1020664,Martin Weiss Rec Cntr - Gym/Multi-Purpose/Entry Add (New),Recreation Center,01,2024 Bond Program,9000000.0,33750.0,32.7332003659435,-96.8773053429785,1,OMEGA CONTRACTING LLC,5.55,25376409.41,0,213.14
+1020666,Tommie M. Allen Rec Ctr- Inter Upgrades- Safety and Security,Recreation Center,08,2024 Bond Program,862084.0,72173.5,32.659471553952,-96.7530678621875,1,Estrada Concrete Company LLC,4.85,160453200.6,1,215.85
+1020671,Dallas International District - Land Acquisition,Renewal and Transformational Projects,11,2024 Bond Program,20000000.0,19299.02,32.9284475461433,-96.8150164276722,0,"JE Dunn-Russell, a joint venture",2.46,94630687.8,0,216.19
+1020673,Glendale Park - Dvlopmnt Plan Phase I; Phase II,Renewal and Transformational Projects,03,2024 Bond Program,9000000.0,110625.19,32.6821999606766,-96.7969316522966,1,DALLAS ZOO MANAGEMENT INC,7.16,22341228.84,0,214.49
+1020682,Westmorelan Park â€“ Skatepark (New) (Pivt Match),Specialty Parks,01,2024 Bond Program,1000000.0,11000.0,32.7213909510765,-96.8795545408433,1,OMEGA CONTRACTING LLC,6.88,25376409.41,0,213.57
+1020870,Chrysalis-Wheatland,Traffic Signals - Warranted Signals,08,2024 Bond Program,655000.0,279184.05,32.6476073849394,-96.8587805300263,1,BAR CONSTRUCTORS INC ^,10.19,34543152.7,1,216.44
+1020871,Duncanville-Ledbetter,Traffic Signals - Warranted Signals,03,2024 Bond Program,655000.0,249042.68,32.6911744061259,-96.9086222318867,1,OMEGA CONTRACTING LLC,10.78,25376409.41,0,215.36
+1020882,Illinois-Pierce,Traffic Signals - Warranted Signals,"01,03",2024 Bond Program,655000.0,258568.72,32.7203223996935,-96.8657306933234,1,DALLAS ZOO MANAGEMENT INC,6.19,22341228.84,0,213.36
+1020891,Pastor Bailey-Red Bird,Traffic Signals - Warranted Signals,03,2024 Bond Program,655000.0,204688.95,32.6732507888092,-96.8743007698281,1,DALLAS ZOO MANAGEMENT INC,10.25,22341228.84,0,215.43

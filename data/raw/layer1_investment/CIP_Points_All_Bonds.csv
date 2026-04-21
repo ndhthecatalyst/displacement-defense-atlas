@@ -1,0 +1,1052 @@
+layer,ProjectNum,ProjectID,Name,BondAmount,AmountPaid,District,Category,Status,longitude,latitude
+Active Bond Program,1006927,EC12S802,UNT Transit Oriented Development,5000000,0,,Economic Development,Under Construction,-96.8042769815,32.6609771045409
+Active Bond Program,1007071,PB03R024,N.Beckley Ave.& W. Commerce St. Intersection Improvements,168000,0,,Intergovernmental Partnership Projects,Under Construction,-96.8229790105301,32.7589317184211
+Active Bond Program,1007128,PB03R090,Central Signal Computer/ Software Upgrade,1092726,1750360.37,"14,02",Traffic Signal Upgrades - CBD,Under Construction,-96.7967564269771,32.7760801516594
+Active Bond Program,1007627,PB03R741,Dallas Centr. Performing Arts-Phase I-Utility Adj.,9003982,2189090.59,,Cultural Arts Facilities,Under Construction,-96.7980647577999,32.789989081045
+Active Bond Program,1007718,PB03R916,Dallas Arts District - Artist Square,8775000,0,,Cultural Arts Facilities,Under Construction,-96.7985769541387,32.7907411253888
+Active Bond Program,1007720,PB03R918,Latino Cultural Center - Phase 2,876526,0,TBD,Cultural Arts Facilities,Under Construction,-96.7895396653752,32.7878046407759
+Active Bond Program,1007723,PB03R921,South Dallas Cultural Center Renovation,1688263,0,,Cultural Arts Facilities,Under Construction,-96.7574557020255,32.7713777052499
+Active Bond Program,1007787,PB06P451,City Hall Renovations - Municipal Building Renovations,0,0,,Municipal Courts Facilities,Under Construction,-96.793707207355,32.7814401199859
+Active Bond Program,1007793,PB06P675,Ripplewood 2828,0,0,,Erosion Control,Under Construction,-96.6909509006889,32.8128669607503
+Active Bond Program,1007808,PB06P795,Central Library - 7th Floor Renovation,0,4664744.7,TBD,Library Facilities,Under Construction,-96.7971430974628,32.7783422485667
+Active Bond Program,1007827,PB06P866,Marsh Lane at Gainesborough (Furneaux Creek tributary),0,0,,Bridge Repair and Modification,Under Design,-96.8572816174274,33.0060976561832
+Active Bond Program,1007891,PB06T497,Ash Creek - S Fork - Bridges @ Lakeland,4309482,3171890.09,TBD,Flood Management,Under Construction,-96.7024511360794,32.8129154174674
+Active Bond Program,1007931,PB06T541,West Dallas - Eagle Ford Sump Basin,2398945,334071.86,,Storm Drainage,Under Design,-96.9237396213664,32.7804929309491
+Active Bond Program,1007936,PB06T635,Forest Green Branch Library - Site Acquistion,3088646,0,TBD,Library Facilities,Under Design,-96.7486105227042,32.9066216176384
+Active Bond Program,1007940,PB06T639,North Oak Cliff - Site Acquisition,510520,0,,Library Facilities,Under Design,-96.8269661026001,32.7448071024353
+Active Bond Program,1007961,PB06T698,Latino Cultural Center - Phase II - Priority 1 - Black Box Theater,2807860,3394786.24,14,Cultural Arts Facilities,Under Construction,-96.78952876983,32.7880480794981
+Active Bond Program,1007962,PB06T697,Latino Cultural Center - Phase II Design,957225,524092.08,TBD,Cultural Arts Facilities,Under Construction,-96.7897592700621,32.7875927368148
+Active Bond Program,1007964,PB06T704,Dallas Museum of Natural History @ Fair Park - Replace HVAC,450000,313356.99,TBD,Major Maintenance,Under Construction,-96.7631555751104,32.7782027160434
+Active Bond Program,1007982,PB06T753,North Central Service Center - Improvements,750429,0,,Major Maintenance,Under Design,-96.7830698446104,32.9889358443901
+Active Bond Program,1007989,PB06T809,Marsalis - Ann Arbor Shopping Center Development Support,3700000,0,,Economic Development,Under Construction,-96.8147188069681,32.6913242270496
+Active Bond Program,1007990,PB06T815,Skillman Development,4677282,0,,Economic Development,Under Construction,-96.7349704549758,32.87863387988
+Active Bond Program,1007991,PB06T825,Cadillac Heights Land Acquisition,22551771,2699035.4,TBD,City Facilities,Under Acquisition,-96.785561174381,32.7412275090948
+Active Bond Program,1007995,PB06T836,"Fire Station #06 Replacement - Harwood, 2808 S",7646537,6371600.17,TBD,Fire Department Facilities,Under Construction,-96.7766498850176,32.7651877110918
+Active Bond Program,1008004,PB06T847,Central Police - Emergency Generator-HVAC Upgrade,746249,0,,Major Maintenance,Under Construction,-96.7782971080191,32.7820473464721
+Active Bond Program,1009223,PB95L137,Dolphin @ Haskell,58000,0,"07,02",Intergovernmental Partnership Projects,Under Construction,-96.737629101617,32.7830874257787
+Active Bond Program,1011000,PKGRADY,Sharrock - Niblo Park (formerly Grady Niblo Park),400000,606922.68,03,Historic Restoration,Under Design,-96.9396931248626,32.6838290706163
+Active Bond Program,1011077,PKR060001,Anita Martinez Rec Ctr - Replace HVAC,250000,0,,Major Maintenance,Under Construction,-96.8392098566022,32.7807371874866
+Active Bond Program,1011078,PKR060002,Anita Martinez Rec Ctr - Repair water damage/gym floor replacement,400000,0,,Major Maintenance,Under Construction,-96.8392474637269,32.7807053412617
+Active Bond Program,1011079,PKR060004,Arlington Park Rec Ctr - Electrical Upgrades,350000,0,,Major Maintenance,Under Design,-96.8580562089042,32.8171408999185
+Active Bond Program,1011080,PKR060005,Arlington Park Rec Ctr - Foundation,584721,0,,Major Maintenance,Under Design,-96.857791841141,32.8170778880251
+Active Bond Program,1011082,PKR060008,Bachman Lake Rec Ctr - Replace HVAC,600000,0,,Major Maintenance,Under Construction,-96.8716897639136,32.8531655862605
+Active Bond Program,1011083,PKR060009,Bachman Lake Rec Ctr - Roof Replacement,431089,0,,Roof Replacement,Under Design,-96.871414268455,32.8532937234388
+Active Bond Program,1011084,PKR060010,Bachman Lake Rec Ctr - ADA,100000,0,,Major Maintenance,Under Design,-96.871884412838,32.8532407488319
+Active Bond Program,1011085,PKR060011,Bachman Lake Rec Ctr - Foundation,466739,0,,Major Maintenance,Under Design,-96.8711009712258,32.853355493798
+Active Bond Program,1011087,PKR060018,Bachman Lake Rec Ctr - Repair windows,155580,0,,Major Maintenance,Under Design,-96.8718817954724,32.8533327758827
+Active Bond Program,1011091,PKR060022,Bachman Lake Rec Ctr - Roof drainage improvement,100000,0,,Major Maintenance,Under Design,-96.8714496504493,32.8534917989964
+Active Bond Program,1011092,PKR060026,Bachman Lake Rec Ctr - Upgrade lighting,15697,0,,Major Maintenance,Under Design,-96.87203300311,32.8535982379045
+Active Bond Program,1011101,PKR060044,Cummings Rec Ctr - Replace HVAC,500000,0,,Major Maintenance,Under Construction,-96.7707800775664,32.6989321100224
+Active Bond Program,1011116,PKR060078,Fireside Rec Ctr - Replace HVAC,300000,0,,Major Maintenance,Under Construction,-96.6717179600347,32.6987264708456
+Active Bond Program,1011127,PKR060111,J. C. Turner Rec Ctr - Replace HVAC,185000,0,,Major Maintenance,Under Design,-96.710031004221,32.7190876307774
+Active Bond Program,1011138,PKR060142,Marcus Rec Ctr - Structural/drainage work,300000,0,,Major Maintenance,Under Design,-96.8771101587317,32.9044518722715
+Active Bond Program,1011139,PKR060143,Marcus Rec Ctr - Replace HVAC,253259,0,,Major Maintenance,Under Design,-96.8774187660598,32.9046049922761
+Active Bond Program,1011142,PKR060156,Martin Weiss Rec Ctr - Replace HVAC,300000,0,,Major Maintenance,Under Construction,-96.8766293260262,32.7336920886448
+Active Bond Program,1011148,PKR060175,Anita Martinez Rec Ctr - ADA Compliance,250000,0,,Major Maintenance,Under Construction,-96.8394535184189,32.7806477099849
+Active Bond Program,1011152,PKR060200,Singing Hills Rec Ctr - Replace HVAC,300000,0,,Major Maintenance,Under Design,-96.7931690611855,32.668512679078
+Active Bond Program,1011153,PKR060204,Tommie M. Allen Rec Ctr - Roof Replacement,255000,0,,Roof Replacement,Under Construction,-96.7533279708198,32.6594526137461
+Active Bond Program,1011209,PRK00072,Lakeland Hills Park Pavilion,359500,0,,Recreation Facilities and Site Development,Under Design,-96.6974302570249,32.8040162029376
+Active Bond Program,1011210,PRK00075,Lakeland Hills Park-PRK00075,166331,0,,Recreation Facilities and Site Development,Under Design,-96.6972927303955,32.8043926234113
+Active Bond Program,1011235,PRK00855,Hillcrest Park-PRK00855,400000,0,,Recreation Facilities and Site Development,Under Construction,-96.7872643360567,32.934554192287
+Active Bond Program,1011251,PRK01569,Sargent Park-PRK01569,500000,0,,Recreation Facilities and Site Development,Under Design,-96.7710729299842,32.7243135774938
+Active Bond Program,1011256,PRK01760,Kidd Springs Trail,122826,0,,Recreation Facilities and Site Development,Under Construction,-96.834202677346,32.7528426753475
+Active Bond Program,1011261,PRK01876,Park In The Woods-PRK01876,100000,0,,Recreation Facilities and Site Development,Under Construction,-96.9545967070369,32.641794071615
+Active Bond Program,1011262,PRK01878,Park In The Woods-PRK01878,200000,0,,Recreation Facilities and Site Development,Under Construction,-96.9551273051739,32.6428931009941
+Active Bond Program,1011276,PRK02587,Timberglen Park-PRK02587,400000,0,,Recreation Facilities and Site Development,Under Construction,-96.8485128364704,33.0048455272998
+Active Bond Program,1011277,PRK02585,Timberglen Park Athletic Fields,614130,0,,Recreation Facilities and Site Development,Under Design,-96.8465583430297,33.0028899037684
+Active Bond Program,1011285,PRK03019,Kiest Park.,2000000,0,,Recreation Facilities and Site Development,Under Construction,-96.854421337097,32.7077108369485
+Active Bond Program,1011288,PRK03373,Timberglen Park.,672435,0,,Recreation Facilities and Site Development,Under Design,-96.850395588625,33.0045662198999
+Active Bond Program,1011290,PRK03410,Fair Park Livestock Building,5117748,0,,Fair Park,Under Design,-96.758227551223,32.7810972629034
+Active Bond Program,1011299,PRK04070,Valley View West Park Trail,60000,0,,Recreation Facilities and Site Development,Under Construction,-96.7864896095981,32.9279351222027
+Active Bond Program,1011301,PRK04072,Valley View West Park,289170,0,,Recreation Facilities and Site Development,Under Construction,-96.7864578960731,32.9273181259252
+Active Bond Program,1011305,PRK04225,Robert E. Lee Park-PRK04225,358768,0,,Recreation Facilities and Site Development,Under Design,-96.8020337555344,32.808199996074
+Active Bond Program,1011309,PRK04637,Cedar Run Park-PRK04637,80000,0,,Playgrounds,Under Design,-96.6640354846584,32.7735681745992
+Active Bond Program,1011311,PRK04689,Pleasant Oaks Park Recreation Center,1650000,0,,Recreation Facilities and Site Development,Under Construction,-96.672455661123,32.751837465898
+Active Bond Program,1011315,PRK04703,Cummings Park Recreation Center,1650000,0,,Recreation Facilities and Site Development,Under Construction,-96.7710104878648,32.6988853457881
+Active Bond Program,1011316,PRK04820,Anita Martinez,1000000,0,,Recreation Facilities and Site Development,Under Construction,-96.8393452476754,32.7807252223505
+Active Bond Program,1011338,PRK05575,White Rock Lake (Mockingbird Point),1000000,0,,Recreation Facilities and Site Development,Under Construction,-96.7249079945459,32.8519957758428
+Active Bond Program,1011386,PRK06351,West Dallas Gateway Park,1800000,0,,Major Recreational Facilities - Outdoor,Under Construction,-96.7061061915713,32.7613281349911
+Active Bond Program,1011393,PRK06460,Hamilton Park Pavilion,243100,0,,Recreation Facilities and Site Development,Under Design,-96.7652434404726,32.9145535085017
+Active Bond Program,1011413,PRK06552,Exposition Plaza-PRK06552,234000,0,,Recreation Facilities and Site Development,Under Design,-96.7736280736205,32.7837174771389
+Active Bond Program,1011415,PRK06627,Freedman's Memorial Cemetery-PRK06627,133705,0,,Recreation Facilities and Site Development,Under Design,-96.7938169558949,32.8029935437889
+Active Bond Program,1011423,PRK06641,Hillcrest Park Site Improvements,282366,0,,Recreation Facilities and Site Development,Under Construction,-96.78660654933,32.9368766974219
+Active Bond Program,1011430,PRK06649,Livestock Sales Arena,4000000,0,,Fair Park,Under Design,-96.7571627757164,32.7809434482102
+Active Bond Program,1011434,PRK06653,Grover Keeton Golf Course,1000000,0,,Major Recreational Facilities - Outdoor,Under Design,-96.709288545553,32.7544264367213
+Active Bond Program,1011441,PRK06662,Singing Hills Park Recreation Center,1059995,0,,Recreation Facilities and Site Development,Under Design,-96.793035344078,32.6687655208437
+Active Bond Program,1011442,PRK06663,Hamilton Park Recreation Center,250000,0,,Recreation Facilities and Site Development,Under Design,-96.7634474527588,32.9170265677648
+Active Bond Program,1011443,PRK06664,Hamilton Park Open-Air Gymnasium,400000,0,,Recreation Facilities and Site Development,Under Design,-96.7640848768293,32.9171253317773
+Active Bond Program,1011449,PRK06671,White Rock Lake Trail - East Lawther replacement,2000000,0,,Recreation Facilities and Site Development,Under Design,-96.7186675835029,32.8510424358635
+Active Bond Program,1011458,PRK06681,Continental Pedestrian Bridge-PRK06681,2000000,0,,Recreation Facilities and Site Development,Under Construction,-96.8173195543932,32.7836366417975
+Active Bond Program,1011459,PRK06683,South Central/Joppa Gateway,1200000,0,,Recreation Facilities and Site Development,Under Design,-96.7426607082405,32.7192194387933
+Active Bond Program,1011490,TW12S700,Abrams Road Bridge - hike & bike trail,48000,95021.77,TBD,Erosion Control,Under Construction,-96.7412930164351,32.8724693510579
+Active Bond Program,1011491,TW12S701,Anderson Bonner Park Site 1 - hike & bike trail (WRC 164),231400,236056.69,TBD,Erosion Control,Under Construction,-96.7769493727987,32.9168772688446
+Active Bond Program,1011492,TW12S702,Audelia 11601 (Audelia Branch - E. Bank downstream of Audelia Bridge),617700,68651.01,TBD,Erosion Control,Awarded for Construction,-96.718237987988,32.9072209180093
+Active Bond Program,1011493,TW12S703,Bainbridge 2733,91400,79365.64,TBD,Erosion Control,Under Construction,-96.8647096623025,32.6639187787888
+Active Bond Program,1011494,TW12S704,Beechmont Dr. 2507,54800,126143.47,TBD,Erosion Control,Under Construction,-96.6861723331412,32.8234738335572
+Active Bond Program,1011496,TW12S706,Blackstone 2729,91400,215967.38,TBD,Erosion Control,Under Construction,-96.8638428059223,32.6647740347914
+Active Bond Program,1011497,TW12S707,Blackstone 2745,220500,261630.1,TBD,Erosion Control,Under Construction,-96.8644410702192,32.6644994591554
+Active Bond Program,1011498,TW12S708,Blue Ridge 3721,123500,126141.1,TBD,Erosion Control,Under Construction,-96.882547046724,32.7004911267348
+Active Bond Program,1011500,TW12S711,Cavender 445,73100,100283,TBD,Erosion Control,Under Construction,-96.8651561877897,32.7490303262485
+Active Bond Program,1011501,TW12S710,Caracas 5810 and 5816 (Formerly Caracas 5410 and 5416),171400,318702.11,TBD,Erosion Control,Under Construction,-96.8450947425538,32.6762726276419
+Active Bond Program,1011502,TW12S712,Cedar Springs 5910,185100,241065.95,TBD,Erosion Control,Under Construction,-96.8318132364065,32.8288537775918
+Active Bond Program,1011504,TW12S714,Clarendon 3435,111200,100978.94,TBD,Erosion Control,Under Construction,-96.8775083362945,32.7351803939414
+Active Bond Program,1011506,TW12S717,Country Brook Pond between Park Grove Ln and Quail Hollow Rd,40000,38425.38,12,Erosion Control,Under Construction,-96.8353063398089,33.0000054653696
+Active Bond Program,1011507,TW12S716,Colorado (W) 705,77700,162714.82,TBD,Erosion Control,Under Construction,-96.8340452189775,32.7590935769364
+Active Bond Program,1011508,TW12S718,"Deep Hill Circle 2671, 2675, 2679, 2683",553500,772093.15,TBD,Erosion Control,Under Construction,-96.8625393636585,32.6939841146954
+Active Bond Program,1011510,TW12S720,Fair Oaks Crossing 8201,114300,529213,TBD,Erosion Control,Under Construction,-96.7306922195203,32.8925067358972
+Active Bond Program,1011511,TW12S721,Fair Oaks Crossing 8849,285600,280784.18,TBD,Erosion Control,Under Construction,-96.7284440675207,32.8992064271197
+Active Bond Program,1011512,TW12S722,Five Mile Pkwy W. 922,222400,358596.5,TBD,Erosion Control,Under Construction,-96.837658589212,32.6949810785976
+Active Bond Program,1011514,TW12S724,Glendale Park Site 1 - Pavilion,68600,132587.95,TBD,Erosion Control,Under Construction,-96.8006155621098,32.6821475497782
+Active Bond Program,1011518,TW12S728,Greenville Avenue 9320/Vista View 8915,197700,378882.79,TBD,Erosion Control,Under Construction,-96.7486315699682,32.9031562320119
+Active Bond Program,1011519,TW12S729,Hampton Road (S) 3817,228500,338564.6,TBD,Erosion Control,Under Construction,-96.857186482842,32.6963546278035
+Active Bond Program,1011520,TW12S730,Harry Moss Park Site 1 - S. of pedestrian bridge,68600,172195.48,TBD,Erosion Control,Under Construction,-96.7526695941004,32.8925778235593
+Active Bond Program,1011523,TW12S733,Kiesthill Drive 3431,222400,246241.55,TBD,Erosion Control,Under Construction,-96.8800666946294,32.7023071948631
+Active Bond Program,1011525,TW12S735,Kiltartan 1511,177900,1159829.9,TBD,Erosion Control,Under Construction,-96.6877327490179,32.8243094931637
+Active Bond Program,1011526,TW12S736,Kiowa Parkway Hike and Bike Trail,82300,140086.46,TBD,Erosion Control,Under Construction,-96.7972790290279,32.9564673382544
+Active Bond Program,1011527,TW12S737,Lanett Circle N. 10741,142800,334380.87,TBD,Erosion Control,Under Construction,-96.6991319070674,32.8688783776244
+Active Bond Program,1011528,TW12S738,Langdale Circle 8668 and 8656,285600,934496.16,TBD,Erosion Control,Under Construction,-96.6991709125167,32.8672594517888
+Active Bond Program,1011529,TW12S739,Lyre Lane 6909 and Chantilly Court 6916,68600,10850.26,TBD,Erosion Control,Under Construction,-96.7405028339959,32.8364000890116
+Active Bond Program,1011530,TW12S740,Martin Weiss Park Site 1 - Pavilion,68600,135845.78,TBD,Erosion Control,Under Construction,-96.8776716381364,32.7333235489185
+Active Bond Program,1011532,TW12S742,"Mercedes 6607, 6615, 6621",114300,213621.55,TBD,Erosion Control,Under Construction,-96.7462517636683,32.8288059194825
+Active Bond Program,1011533,TW12S744,"Rocky Branch @ Middle Downs Sites 1, 2, 3, 4",666300,598026.44,TBD,Erosion Control,Under Construction,-96.7335519469235,32.8991019755641
+Active Bond Program,1011535,TW12S745,Rosemont Rd. 7322,114300,277773,TBD,Erosion Control,Under Construction,-96.6957778019088,32.7257669843737
+Active Bond Program,1011536,TW12S746,Royal Lane 7832 and 7920,493600,644747.38,TBD,Erosion Control,Under Construction,-96.7708352831208,32.8975450268467
+Active Bond Program,1011537,TW12S747,Royal Lane 9750 (Jackson Branch - E. Bank downstream of Royal Bridge),259400,305061.75,TBD,Erosion Control,Under Construction,-96.7307080986262,32.8938198678531
+Active Bond Program,1011538,TW12S748,Skillman 7920 (Jackson Branch - E. Bank downstream of Skillman Br),518900,207878.93,TBD,Erosion Control,Under Construction,-96.7318751278206,32.8885734049834
+Active Bond Program,1011540,TW12S749,Skillman 8109,163400,501243.06,TBD,Erosion Control,Under Construction,-96.7307050958364,32.8910435502455
+Active Bond Program,1011541,TW12S751,Spring Grove 13316,74000,188012.31,11,Erosion Control,Awarded for Construction,-96.778271615693,32.9293270317004
+Active Bond Program,1011542,TW12S752,Spring Valley 8444,297100,426402.35,TBD,Erosion Control,Under Construction,-96.7566217680253,32.9392848265096
+Active Bond Program,1011543,TW12S753,"Springwater 9204, 9210, 9216",297100,521234.69,TBD,Erosion Control,Under Construction,-96.6969825985407,32.8177433596135
+Active Bond Program,1011546,TW12S755,"Summer Creek Circle 6121, 6123, 6125,6127,6139,6141",434200,398748.62,TBD,Erosion Control,Under Construction,-96.7561937303991,32.8629771720549
+Active Bond Program,1011547,TW12S757,"Tamarack 1745, 1739, 1751",308500,98128.35,TBD,Erosion Control,Under Design,-96.6844862683812,32.8232847404261
+Active Bond Program,1011548,TW12S758,Tranquilla Dr. 1251,109700,17656.69,TBD,Erosion Control,Under Construction,-96.6983442055466,32.8340765024831
+Active Bond Program,1011549,TW12S759,Turtle Creek Greenbelt Site 1 - bike trail,222800,305927.15,TBD,Erosion Control,Under Construction,-96.8010814354243,32.8108967560412
+Active Bond Program,1011550,TW12S760,Twin Creek 9726,123500,900499.06,TBD,Erosion Control,Under Construction,-96.6891780396662,32.8238388216396
+Active Bond Program,1011551,TW12S761,Twin Falls Park Trail,257100,853948.71,TBD,Erosion Control,Under Construction,-96.8391605849693,32.6722077499811
+Active Bond Program,1011552,TW12S762,Whitehurst 9727 (Jackson Branch - E. Bank upstream of Whitehurst Br),345900,46215.25,TBD,Erosion Control,Awarded for Construction,-96.7279202185161,32.9015003020473
+Active Bond Program,1011553,TW12S763,Whitehurst 9730 (Audelia Branch - W. Bank downstream of Whitehurst),444800,377385.41,TBD,Erosion Control,Under Construction,-96.7274299295308,32.9007675707733
+Active Bond Program,1011554,TW12S764,Wild Oak 2488,148300,172653.24,TBD,Erosion Control,Under Construction,-96.7098653153642,32.799318084974
+Active Bond Program,1011558,TW12S768,Levee Drainage System - Sump A (Able Pump Station),91700000,71416276.4,TBD,Flood Management,Under Construction,-96.8091660316484,32.7687527324043
+Active Bond Program,1011646,EB17VG37,NE Patrol Station,1075000,396446.52,10,Police Facilities,Under Design,-96.7158361081273,32.8635054196547
+Active Bond Program,1011660,EB17VH11,Southwest Transfer Station (24410),205000,3610.03,03,City Facilities,Under Construction,-96.8813421132485,32.6879465199656
+Active Bond Program,1011794,PB17V131,Critical Bridges,6300000,0,TBD,Bridge Repair and Modification,Under Construction,-96.8572810002215,33.0060969995836
+Active Bond Program,1011795,PB17V133,LBJ/Skillman Intersection Improvements,6500000,0,10,Intergovernmental Partnership Projects,Under Construction,-96.71770437462,32.9004430876092
+Active Bond Program,1011796,PB17V132,Garland/Gaston/East Grand Intersection Safety Improvements,1100000,0,"02,09,14",Intergovernmental Partnership Projects,Under Design,-96.7294755369373,32.8111169717181
+Active Bond Program,1011806,PB17V143,Prairie Creek Bridge over UPRR Tracks,9200000,1865195.37,07,Intergovernmental Partnership Projects,Under Design,-96.6652774884327,32.7765027420688
+Active Bond Program,1011837,PB17V174,Elmwood Area Street Lighting,500000,0,01,Street Lighting,Under Construction,-96.8478720041404,32.7242639090638
+Active Bond Program,1012649,PB17V986,Ferguson Rd and Lakeland Dr Intersection Improvements,750000,700602.2,07,Streetscape / Urban Design,Under Construction,-96.7013307734345,32.8119136905519
+Active Bond Program,1012699,PK17VB08,Dallas Zoo (Match),3500000,3217469.33,04,Dallas Zoo,Under Construction,-96.816219145252,32.7363098491676
+Active Bond Program,1012702,PK17VB11,Bachman Lake Skatepark,4000000,4347565.83,06,Major Park Facilities,Under Construction,-96.8661746865703,32.8538837306003
+Active Bond Program,1012706,PK17VB15,Crawford Memorial Park - Phase 1,7700000,217585,05,Hike and Bike Trails,Under Design,-96.669617313063,32.7132593621763
+Active Bond Program,1012744,PK17VB52,Glendale Park- Parking Spaces & Lighting,400000,469486.49,03,Community Parks,Under Construction,-96.7972179472227,32.6827531442209
+Active Bond Program,1012747,PK17VB56,Eloise Lundy - Playground expansion,150000,0,04,,Under Construction,-96.8064241757661,32.7562846290384
+Active Bond Program,1012769,PK17VB78,"Frances Rizo Park - Playground replacement, ADA drinking fou",250000,13925,06,Neighborhood Park Facilities,Under Design,-96.9063669928102,32.771043221637
+Active Bond Program,1012770,PK17VB79,Stafford Park - Playground and park furnishings,220000,14500,06,Playground Improvement,Under Design,-96.8395621861832,32.7707563401116
+Active Bond Program,1012771,PK17VB80,Hattie R. Moore Park - Master Plan and Phase 1 Implementatio,350000,36166.8,06,,Under Design,-96.8387924832269,32.7802974295357
+Active Bond Program,1012836,PK17VK46,Anderson Bonner - Playground - New,220000,167988.86,11,,Under Construction,-96.7778866712332,32.9178441731704
+Active Bond Program,1012885,PK17VC05,Food and Fiber Building,1500000,340663.57,99,Fair Park,Under Design,-96.7596979802213,32.7816132587163
+Active Bond Program,1012889,PK17VC09,Pan American Complex,3480000,0,99,Fair Park,Under Design,-96.7582323523219,32.7810424499531
+Active Bond Program,1012891,PK17VC10,Science Place 1 (Phase 1),5110000,1756288,99,Fair Park,Under Design,-96.7623386374671,32.7771419281585
+Active Bond Program,1012892,PK17VC12,Magnolia Lounge,900000,506221.57,07,Fair Park,Under Design,-96.7637761822441,32.77935290704
+Active Bond Program,1013017,TW17VD11,"El Cerrito Storm Drainage, 2470",200000,416987.4,07,Storm Drainage,Under Construction,-96.7059813787771,32.8002555855054
+Active Bond Program,1013040,TW17VD79,"Tree Shadow Trail, 5910",914000,0,12,Storm Drainage,Awarded for Construction,-96.8070162242234,33.0041365671255
+Active Bond Program,1013062,TW17VD81,Meandering Way 16209,74000,144955.34,12,Storm Drainage,Awarded for Construction,-96.7784935355449,32.9734732637467
+Active Bond Program,1013071,TW17VD38,Gifford-Roanoke Area Relief System - Phase II/Brookhollow Br,1640000,62359.86,02,Storm Drainage,Under Design,-96.860400483466,32.8345529929422
+Active Bond Program,1013077,TW17VD60,Kings Branch Culvert @ Denley,480000,70419.46,04,Storm Drainage,Awarded for Construction,-96.8055033374759,32.7329872681459
+Active Bond Program,1013078,TW17VD61,Kings Branch @ Genoa,260000,904281.81,04,Storm Drainage,Awarded for Construction,-96.8073652479512,32.7314029370102
+Active Bond Program,1013083,TW17VD40,"Munger, 1300, 1301",80000,77358.18,"02,14",Storm Drainage,Under Construction,-96.7694117829633,32.8060100660825
+Active Bond Program,1013084,TW17VD49,Teakwood Elmridge Drainage Relief,650000,876186.25,11,Storm Drainage,Under Construction,-96.7845227989672,32.9349275524515
+Active Bond Program,1013087,TW17VD52,"Royal Lane, 3162 (RL Area 7)",220000,27700.46,13,Storm Drainage,Awarded for Construction,-96.8723962184121,32.8947053861831
+Active Bond Program,1013089,TW17VD42,"Alderson, 3700",1188000,190000,14,Storm Drainage,Under Design,-96.7550396372943,32.831519622543
+Active Bond Program,1013090,TW17VD66,Prairie Oak Drive 9321 (RL Area 33),425000,961515.81,05,Storm Drainage,Awarded for Construction,-96.6604656366522,32.7157999511861
+Active Bond Program,1013091,TW17VD57,Kings Branch Culvert @ Woodin,212000,32606.93,04,Storm Drainage,Awarded for Construction,-96.8088403553988,32.7227366244732
+Active Bond Program,1013093,TW17VD58,Kings Branch Culvert @ Stella,190000,863271.7,04,Storm Drainage,Under Construction,-96.8091063906211,32.7277420802196
+Active Bond Program,1013096,TW17VD68,"Highland Road, 2447",195000,476232.38,05,Erosion Control,Awarded for Construction,-96.7097682228509,32.7990366439928
+Active Bond Program,1013097,TW17VD59,Kings Branch Culvert @ Louisiana,370000,38702.44,04,Storm Drainage,Awarded for Construction,-96.8090210288174,32.7239227255458
+Active Bond Program,1013099,TW17VD69,Loganwood 3602,256000,1366501.88,05,Storm Drainage,Awarded for Construction,-96.6918966582085,32.7691724176527
+Active Bond Program,1013101,TW17VD71,Hatfield Branch @ Seagoville Channel improvements,487000,400298.16,05,Storm Drainage,Awarded for Construction,-96.660116307541,32.7094952808741
+Active Bond Program,1013102,TW17VD72,Lake June @ St. Augustine,721000,262324.38,05,Storm Drainage,Design Completed,-96.6569537626423,32.7361919510919
+Active Bond Program,1013103,TW17VD62,Abshire Lane,945000,607312.47,07,Storm Drainage,Awarded for Construction,-96.6821261670605,32.809974203565
+Active Bond Program,1013105,TW17VD63,Nandina - Pine Trail Area,910000,173560.76,08,Storm Drainage,Under Design,-96.7724029931745,32.660684032209
+Active Bond Program,1013106,TW17VD74,"Hollow Ridge, 4804",350000,452512.14,07,Storm Drainage,Awarded for Construction,-96.7103627458226,32.7814313155541
+Active Bond Program,1013114,PK17VB32,Klyde Warren Park Improvements (Match) (Amendment - 8/9/17),10000000,0,14,,Under Design,-96.8015838931858,32.7893948589874
+Active Bond Program,1013122,EC17VI02,Red Bird Mall Redevelopment-Mayor,0,2500000,08,Economic Development,Under Construction,-96.8773488363756,32.6594218357601
+Active Bond Program,1013124,EC17VI03,Red Bird Mall Redevelopment-CD03,0,3000000,03,Economic Development,Under Design,-96.8773488363756,32.6594218357601
+Active Bond Program,1013125,EC17VI04,Red Bird Mall Redevelopment-CD08,0,4131414,08,Economic Development,Under Construction,-96.8773488363756,32.6594218357601
+Active Bond Program,1013148,PB17VA32,Critical Bridges- Marsh Lane over Furneaux Creek Bridge Repair,0,11988.85,12,Bridge Repair and Modification,Under Design,-96.8572810002215,33.0060969995836
+Active Bond Program,1013149,PB17VA33,Critical Bridges- Camp Wisdom Road over Ricketts Creek Bridge Repair,0,51881.5,"03,08",Bridge Repair and Modification,Under Construction,-96.8141809998368,32.662392000109
+Active Bond Program,1016596,PK17VK93,Park at Heritage Village,0,683385.59,02,Neighborhood Park Facilities,Under Design,-96.7886006222657,32.7731637489438
+Active Bond Program,1016597,PK17VK94,Cadillac Heights Park,0,1169208.1,04,Community Parks,Under Construction,-96.7876855021047,32.742066440951
+Active Bond Program,1016844,EC17VI32,5580 Peterson Lane Future Park Site Project,0,0,11,,Under Construction,-96.8122789999695,32.9298678137621
+Active Bond Program,1017516,EC17VI25,Hensley Field Project-CD3,0,705112.91,03,,Under Design,-96.9626056076178,32.7439254592874
+Active Bond Program,1017518,EC17VI30,Redev of Shopping Ctr at 3035 N.Buckner Blvd-CD07,0,650000,07,,Under Construction,-96.6843090042666,32.8079452317747
+Active Bond Program,1018178,HO17VI35,Fleetwood St. at Schull St. and S. Harris,0,0,,,Under Construction,-96.7512265166019,32.7810297387022
+Active Bond Program,1018386,PK17W935,Lakeland Hills Dog Park,0,38700.72,07,,Under Construction,-96.6966478155283,32.8038608222678
+Active Bond Program,1018398,PK17W938,Forest Audelia Park and Site Development,0,328026.86,10,,Under Design,-96.7199233657164,32.9101983893497
+Active Bond Program,1019907,MG24YD02,Kleberg-Rylie Library,262000,63564.91,08,Library Facilities,Under Construction,-96.6010057478791,32.6864729513547
+Active Bond Program,1019908,MG24YD03,Lakewood Library,262000,64768.24,14,Design and Construction,Under Construction,-96.753343721441,32.810389697576
+Active Bond Program,1019909,MG24YD04,Martin Luther King Jr. Library Building C,262000,117323.19,07,Library Facilities,Under Construction,-96.7660525380658,32.770542283411
+Active Bond Program,1019910,MG24YD05,Mountain Creek Library,262000,88007.82,03,Library Facilities,Awarded for Design,-96.9660704396755,32.6505411170726
+Active Bond Program,1019912,MG24YD07,Oak Lawn Library,262000,117059.79,14,Library Facilities,Under Construction,-96.812396999975,32.8123806910044
+Active Bond Program,1019915,MG24YD10,Renner Frankford Library,262000,103414.89,12,Library Facilities,Awarded for Design,-96.7946732394053,32.9977517035618
+Active Bond Program,1019925,OH24YI08,Electrical upgrades and generator addition at The Bridge,1800000,0,02,Homeless Assistance Facilities,Awarded for Design,-96.7921865934653,32.7757456428145
+Active Bond Program,1019949,MG24YF63,Dallas Police Training Academy Facility,50000000,369979.5,99,Police Facilities,Under Design,-96.7927345162612,32.661683714616
+Active Bond Program,1019967,MG24YE05,Dallas Museum of Art,20014619,0,14,Cultural Arts Facilities,Under Design,-96.800459273621,32.7874988637439
+Active Bond Program,1019971,MG24YE09,Meyerson Symphony Center,7318996,0,14,Cultural Arts Facilities,Under Design,-96.7986720090561,32.789897298148
+Active Bond Program,1019973,MG24YE11,Oak Cliff Cultural Center,450000,67282.67,01,Cultural Arts Facilities,Awarded for Design,-96.8257896562708,32.743357678632
+Active Bond Program,1020003,SD24YC01,11th E 1615,442750,6764,04,Erosion Control,Under Design,-96.7988345054045,32.7471121587637
+Active Bond Program,1020005,SD24YC03,"Claremont 8017, 8023, and 8030",543375,402.31,07,Erosion Control,Under Design,-96.7096671114071,32.7994423564437
+Active Bond Program,1020006,SD24YC04,Coombs Creek Dr 637,261625,55007.85,01,Erosion Control,Under Design,-96.8772056598079,32.7391839309934
+Active Bond Program,1020007,SD24YC05,Davenport Road 17911,483000,0,12,Erosion Control,Under Design,-96.7939380125806,32.9945203397314
+Active Bond Program,1020008,SD24YC06,El Cerrito 2490 & Hunnicut 8181,805000,459.79,07,Erosion Control,Under Design,-96.7050270429145,32.7997230542274
+Active Bond Program,1020009,SD24YC07,Forston Ave 18503,181125,38622.9,12,Erosion Control,Under Design,-96.7943882728286,33.0028040577379
+Active Bond Program,1020010,SD24YC08,Glencairn 460,281750,31392.5,08,Erosion Control,Under Design,-96.8288678197761,32.6553487970967
+Active Bond Program,1020011,SD24YC09,Hampton N 635,241500,21101,01,Erosion Control,Under Design,-96.8570899487755,32.7507992577835
+Active Bond Program,1020012,SD24YC10,Hillcrest Rd 13059,885500,0,11,Erosion Control,Under Design,-96.7862509615941,32.9267391077678
+Active Bond Program,1020013,SD24YC11,Jefferson W 2909,281750,51712,01,Erosion Control,Under Design,-96.8685072598632,32.7452386657172
+Active Bond Program,1020014,SD24YC12,Kiest Valley Parkway @ Kiest Knoll Outfall Protection,264500,13292,03,Erosion Control,Under Design,-96.8817012113821,32.7083158717744
+Active Bond Program,1020015,SD24YC13,Nutwood Cir. 6402,201250,39962.9,12,Erosion Control,Under Design,-96.7958074738128,32.9903766484526
+Active Bond Program,1020016,SD24YC14,Outfall at Compton 1203/1205,483000,15027,04,Erosion Control,Under Design,-96.8068585791815,32.7426702257838
+Active Bond Program,1020017,SD24YC15,Ravinia S. 3338,503125,2318,03,Erosion Control,Under Design,-96.869752430765,32.7020643053475
+Active Bond Program,1020018,SD24YC16,Sheldon Ave 3303 (Fire Station 26),805000,78244.24,01,Erosion Control,Under Design,-96.8748327281616,32.7448318891464
+Active Bond Program,1020020,SD24YC18,Wixom Lane 835,201250,0,08,Erosion Control,Under Design,-96.6627646883604,32.6990934202575
+Active Bond Program,1020335,PK24YB49,Old City Park - Blum House (CD2),500000,0,02,CDSF,Awarded for Design,-96.7883313563326,32.7733945037988
+Active Bond Program,1020349,PK24YB63,St. Augustine Park - Parking Lot,300000,0,05,CDSF,Under Construction,-96.6531605949754,32.7386720614223
+Active Bond Program,1020354,PK24YB68,Thurgood Marshall Park - Site Development,1000000,113701.68,03,CDSF,Under Construction,-96.8536081861411,32.6839975829849
+Active Bond Program,1020360,PK24YB74,White Rock Hills Rec Ctr Dev,500000,0,02,CDSF,Awarded for Design,-96.7142972131904,32.8031433983132
+Active Bond Program,1020369,PK24YB82,Dallas Zoo - Safari Trail Habitat and Security Enhancements,26500000,0,04,Partnership Matches (Large Matches),Under Design,-96.8152002820683,32.738038118189
+Active Bond Program,1020378,PK24YB91,Herndon Park - Site Improvements,750000,0,04,Pedestrian Bridge Replacements,Awarded for Design,-96.8187445691668,32.7242203769992
+Active Bond Program,1020412,PB24Y051,Irving Blvd (SH356) Over Elm Fork Trinity River,24750000,0,06,Bridge Repair and Modification,Under Design,-96.9063290383527,32.8090885420553
+Active Bond Program,1020413,PB24Y052,Malcolm X Over DART,12750000,0,07,Bridge Repair and Modification,Under Design,-96.7759561524764,32.775877312539
+Active Bond Program,1020485,PK24YK01,Bent Tree Meadow Park - Playground Replacement,300000,0,12,Playgrounds,Under Design,-96.8368351415963,32.9947647488552
+Active Bond Program,1020487,PK24YK03,Campbell Green Park  - Playground Replacement (Large),750000,0,12,Playgrounds,Design Completed,-96.787164367833,32.9775168616227
+Active Bond Program,1020488,PK24YK04,Casa View Park - Playground Replacement,200000,0,09,Playgrounds,Under Design,-96.6748341398483,32.8468259984477
+Active Bond Program,1020500,PK24YK16,Frankford Park - Playground Replacement,300000,0,12,Playgrounds,Under Design,-96.7848468865454,33.0005025522268
+Active Bond Program,1020540,PK24YB16,Abrams Triangle Park - Monuments,60000,0,14,CDSF,Under Construction,-96.7553330201277,32.8052574238844
+Active Bond Program,1020542,PK24YB18,Bickers Park - Park Furnishings Package,45000,0,06,CDSF,Under Construction,-96.8433352970639,32.7872949911899
+Active Bond Program,1020546,PK24YB22,Craddock Park - Shade Structure,20000,0,14,CDSF,Under Design,-96.8160739657522,32.8194353134066
+Active Bond Program,1020555,PK24YB31,Glendale Park (CD3)- Site Development,1000000,0,03,CDSF,Under Construction,-96.7969316522966,32.6821999606766
+Active Bond Program,1020652,PK24YK46,Arcadia Recreation Ctr- Inter Upgrades- Safety and Security,768670,26060.25,03,Recreation Center,Under Design,-96.9140620144198,32.7430730401279
+Active Bond Program,1020655,PK24YK49,Campbell Green Rec Ctr- Inter Upgrades- Safety and Security,1564018,0,12,Recreation Center,Design Completed,-96.787164367833,32.9775168616227
+Active Bond Program,1020656,PK24YK50,Campbell Green Recreation Ctr - Mjr Renovation/Replacement,7000000,0,12,Recreation Center,Design Completed,-96.787164367833,32.9775168616227
+Active Bond Program,1020657,PK24YK51,Eloise Lundy Rec Cntr â¿¿ Inter Upgrds  Safety and Security,1360431,43973.25,04,Recreation Center,Under Design,-96.806295708767,32.7560442680623
+Active Bond Program,1020658,PK24YK52,"Exall Park Rec Cntr - Demo (New); Splash Pad, Sr Ctr",17660000,387131.4,14,Recreation Center,Under Design,-96.7850789855651,32.7932433305361
+Active Bond Program,1020660,PK24YK54,John C. Phelps Rec Ctr- Inter Upgrades- Safety and Security,1154555,118845.73,04,Recreation Center,Design Completed,-96.7726162568906,32.7226125478892
+Active Bond Program,1020662,PK24YK56,Kiest Rec Ctr- Inter Upgrades- Safety and Security,1873306,189800.57,04,Recreation Center,Design Completed,-96.8528151851954,32.7100244026504
+Active Bond Program,1020665,PK24YK60,Reverchon Rec Ctr- Inter Upgrades- Safety and Security,1296086,0,02,Recreation Center,Under Design,-96.8128365772732,32.8003321012337
+Active Bond Program,1020666,PK24YK61,Tommie M. Allen Rec Ctr- Inter Upgrades- Safety and Security,862084,72173.5,08,Recreation Center,Design Completed,-96.7530678621875,32.659471553952
+Active Bond Program,1020682,PK24YK77,Westmorelan Park â€“ Skatepark (New) (Pivt Match),1000000,11000,01,Specialty Parks,Under Design,-96.8795545408433,32.7213909510765
+Active Bond Program,1021278,EC24YG07,Palladium Buckner Station Mixed Income & TOD Project,0,0,05,,Under Construction,-96.6846840240731,32.7185806509138
+2017 Bond Program,1011596,EB17VE02,J. Erik Jonsson Central Library,99000,1598989.6,02,Library Facilities,In Service,-96.7971430974628,32.7783422485667
+2017 Bond Program,1011597,EB17VE01,Forest Green Branch Library,7700000,6998780.88,10,Library Facilities,In Service,-96.7486809901948,32.9067042755735
+2017 Bond Program,1011598,EB17VE03,Vickery Park Branch Library,7790000,7533643.56,13,Library Facilities,Complete,-96.7615338943243,32.8715688173751
+2017 Bond Program,1011599,EB17VF02,Dallas Heritage Village,250000,233457.55,02,Cultural Arts Facilities,Complete,-96.788310649136,32.7727007406633
+2017 Bond Program,1011600,EB17VF01,Bath House Cultural Center Rehabilitation,1500000,1383809.3,09,Cultural Arts Facilities,Complete,-96.7153709819076,32.8408280542387
+2017 Bond Program,1011601,EB17VF03,Dallas Museum of Art Rehabilitation,6000000,1504004.25,14,Cultural Arts Facilities,In Service,-96.8005832999873,32.7874160810943
+2017 Bond Program,1011602,EB17VF04,Kalita Humphreys Theater Rehabilitation,525000,482146.75,14,Cultural Arts Facilities,Complete,-96.8006142623499,32.8110385886779
+2017 Bond Program,1011603,EB17VF05,Meyerson,3800000,3467705.4,14,Cultural Arts Facilities,In Service,-96.7985012411214,32.7899213289132
+2017 Bond Program,1011604,EB17VF06,Oak Cliff Cultural Center,110000,0,01,Cultural Arts Facilities,Complete,-96.8250614699382,32.7434285513515
+2017 Bond Program,1011605,EB17VF07,Sammons Center,900000,819130.99,02,Cultural Arts Facilities,Complete,-96.8166014409609,32.8001504934636
+2017 Bond Program,1011606,EB17VF08,Dallas Black Dance Theatre,900000,851332.48,14,Cultural Arts Facilities,Complete,-96.7954287976443,32.790409781474
+2017 Bond Program,1011607,EB17VF09,South Dallas Cultural Center,250000,0,07,Cultural Arts Facilities,Complete,-96.7573599657,32.7714288103003
+2017 Bond Program,1011608,EB17VG02,Fire Station # 46,7525000,6463416.41,03,Fire Department Facilities,Complete,-96.8183517787818,32.6626130878587
+2017 Bond Program,1011609,EB17VG01,Fire-Rescue Training Center,150000,73275.38,02,Fire Department Facilities,Complete,-96.734689605667,32.7857768222392
+2017 Bond Program,1011610,EB17VG03,Fire Station # 53,85000,0,07,Fire Department Facilities,Complete,-96.693569221975,32.8074740063814
+2017 Bond Program,1011612,EB17VG04,Fire Station #05,45000,0,05,Fire Department Facilities,Complete,-96.6572198159415,32.7483463253505
+2017 Bond Program,1011613,EB17VG06,Fire Station #09,63000,57582.98,08,Fire Department Facilities,Complete,-96.6101084927143,32.6788431341418
+2017 Bond Program,1011615,EB17VG07,Fire Station #11,85000,0,14,Fire Department Facilities,Complete,-96.8096932976033,32.8101369137545
+2017 Bond Program,1011616,EB17VG09,Fire Station #13,85000,78107.63,12,Fire Department Facilities,In Service,-96.7841656337439,32.9972910041262
+2017 Bond Program,1011617,EB17VG10,Fire Station #18,113000,54217.47,14,Fire Department Facilities,Complete,-96.8037546279845,32.7836295720715
+2017 Bond Program,1011618,EB17VG12,Fire Station #25,17000,15406.16,08,Fire Department Facilities,Complete,-96.787493836866,32.684029936503
+2017 Bond Program,1011619,EB17VG11,Fire Station #24,92000,0,07,Fire Department Facilities,Complete,-96.7572040293486,32.7521035302932
+2017 Bond Program,1011620,EB17VG13,Fire Station #36 Rehabilitation,6990000,542767.65,06,Fire Department Facilities,In Service,-96.8569277873277,32.7819053008608
+2017 Bond Program,1011621,EB17VG14,Fire Station #43,43000,39543,06,Fire Department Facilities,Complete,-96.877717123964,32.8660402357421
+2017 Bond Program,1011622,EB17VG15,Fire Station #51,43000,202326.47,05,Fire Department Facilities,Complete,-96.6567304087318,32.7105104173781
+2017 Bond Program,1011623,EB17VG16,Fire Station #1,85000,0,06,Fire Department Facilities,Complete,-96.8270218694872,32.793992369193
+2017 Bond Program,1011624,EB17VG17,Fire Station #7,85000,74342.66,12,Fire Department Facilities,Complete,-96.8038986748457,32.9758448602906
+2017 Bond Program,1011625,EB17VG18,Fire Station 11,101000,0,14,Fire Department Facilities,Remaining To Be Awarded,-96.8096932976033,32.8101369137545
+2017 Bond Program,1011626,EB17VG21,Fire Station #45,85000,0,06,Fire Department Facilities,Complete,-96.835076698342,32.772721624517
+2017 Bond Program,1011627,EB17VG19,Fire Station #21,85000,0,02,Fire Department Facilities,Canceled/Reprogrammed,-96.8592678434652,32.8508697145369
+2017 Bond Program,1011628,EB17VG20,Fire Station #31,85000,36116,09,Fire Department Facilities,Complete,-96.7042965302109,32.8326432216218
+2017 Bond Program,1011629,EB17VG24,Fire Station #2,85000,49759,13,Fire Department Facilities,Complete,-96.837775085784,32.9026453432296
+2017 Bond Program,1011630,EB17VG22,Fire Station #52,85000,0,03,Fire Department Facilities,Complete,-96.8910203281825,32.7180964143135
+2017 Bond Program,1011631,EB17VG23,Fire Station #53,74000,66978.23,07,Fire Department Facilities,Complete,-96.693569221975,32.8074740063814
+2017 Bond Program,1011632,EB17VG26,Fire Station #13-EB17VG26,44000,27409.44,12,Fire Department Facilities,Complete,-96.7841656337439,32.9972910041262
+2017 Bond Program,1011633,EB17VG25,Fire Station #5 Rehabilitation,85000,0,05,Fire Department Facilities,Remaining To Be Awarded,-96.6572198159415,32.7483463253505
+2017 Bond Program,1011634,EB17VG27,Fire Station #14,85000,72866.59,02,Fire Department Facilities,Complete,-96.8397269322828,32.7416131509378
+2017 Bond Program,1011635,EB17VG28,Fire Station #19,85000,65161,02,Fire Department Facilities,Complete,-96.7467263391283,32.7939253191027
+2017 Bond Program,1011636,EB17VG29,Fire Station #47,85000,78000,06,Fire Department Facilities,Complete,-96.8704692219715,32.8149186477254
+2017 Bond Program,1011637,EB17VG30,Fire Station #57,85000,80686.89,07,Fire Department Facilities,Complete,-96.7182716801213,32.8966500702125
+2017 Bond Program,1011639,EB17VG33,Central Patrol Station-EB17VG33,151000,0,02,Police Facilities,On Hold,-96.7767198837827,32.7824827899029
+2017 Bond Program,1011640,EB17VG31,Future Fire Station Jim Miller & Loop 12 new Construction,6900000,3430267.52,08,Fire Department Facilities,In Service,-96.7006133482188,32.714619492941
+2017 Bond Program,1011641,EB17VG34,Central Patrol Station-EB17VG34,593000,505953.2,02,Police Facilities,Complete,-96.7767198837827,32.7824827899029
+2017 Bond Program,1011642,EB17VG35,Jack Evans Headquarters,1250000,1148396.21,02,Police Facilities,Complete,-96.7950048899191,32.7677417099346
+2017 Bond Program,1011643,EB17VG36,NC Patrol Station,750000,501573.79,12,Police Facilities,Complete,-96.7830483577489,32.9886302831328
+2017 Bond Program,1011644,EB17VG39,SC Patrol Station,775000,516209.19,08,Police Facilities,Complete,-96.7882397037055,32.6637660276145
+2017 Bond Program,1011645,EB17VG38,NW Patrol Station - Security Enhancements,775000,584413.58,06,Police Facilities,Complete,-96.8795527798985,32.8552205706218
+2017 Bond Program,1011646,EB17VG37,NE Patrol Station,1075000,396446.52,10,Police Facilities,Under Design,-96.7158361081273,32.8635054196547
+2017 Bond Program,1011647,EB17VG40,SE Patrol Station,775000,614195.5,05,Police Facilities,Complete,-96.7002027816476,32.7231151449782
+2017 Bond Program,1011648,EB17VG42,SW Patrol Station-EB17VG42,1250000,0,03,Police Facilities,Remaining To Be Awarded,-96.8885925150389,32.7199900780942
+2017 Bond Program,1011649,EB17VG41,SW Patrol Station-EB17VG41,775000,570497.06,03,Police Facilities,In Service,-96.8885925150389,32.7199900780942
+2017 Bond Program,1011650,EB17VH01,Storage Facility New construction,325000,0,10,City Facilities,Complete,-96.7306837218431,32.8678614861617
+2017 Bond Program,1011651,EB17VH02,City Marshal's Office,165000,1600,02,City Facilities,Complete,-96.776706176471,32.7810622724289
+2017 Bond Program,1011652,EB17VH03,Central Service Center - Streets Operations Building,125000,0,02,City Facilities,Complete,-96.7767198837827,32.7824827899029
+2017 Bond Program,1011653,EB17VH05,City Hall,7000000,4120992.87,02,City Facilities,On Hold,-96.7967560251188,32.7763194730569
+2017 Bond Program,1011654,EB17VH04,Central Service Center- Sanitation Building,150000,0,02,City Facilities,Complete,-96.7767198837827,32.7824827899029
+2017 Bond Program,1011655,EB17VH06,ECO Park,108000,78220.59,08,City Facilities,Complete,-96.7306385480266,32.6894517867677
+2017 Bond Program,1011656,EB17VH08,Garage at Central Service Center,75000,0,02,City Facilities,Complete,-96.7767198837827,32.7824827899029
+2017 Bond Program,1011658,EB17VH09,"Martin Luther King, Jr. Center - Plumbing",125000,79821,07,City Facilities,Complete,-96.7656412029137,32.7698665881675
+2017 Bond Program,1011659,EB17VH10,Oak Cliff Municipal Center Rehabilitation,2000000,0,01,City Facilities,On Hold,-96.8192790415836,32.7448044997733
+2017 Bond Program,1011660,EB17VH11,Southwest Transfer Station (24410),205000,3610.03,03,City Facilities,Under Construction,-96.8813421132485,32.6879465199656
+2017 Bond Program,1011794,PB17V131,Critical Bridges,6300000,0,TBD,Bridge Repair and Modification,Under Construction,-96.8572810002215,33.0060969995836
+2017 Bond Program,1011795,PB17V133,LBJ/Skillman Intersection Improvements,6500000,0,10,Intergovernmental Partnership Projects,Under Construction,-96.71770437462,32.9004430876092
+2017 Bond Program,1011796,PB17V132,Garland/Gaston/East Grand Intersection Safety Improvements,1100000,0,"02,09,14",Intergovernmental Partnership Projects,Under Design,-96.7294755369373,32.8111169717181
+2017 Bond Program,1011803,PB17V140,UT Southwestern Medical District,7500000,0,02,Intergovernmental Partnership Projects,Remaining To Be Awarded,-96.834883214541,32.8100068703272
+2017 Bond Program,1011804,PB17V141,Northwest Highway/Preston Parking/Transportation Interface,10000000,0,99,Intergovernmental Partnership Projects,Remaining To Be Awarded,-96.8041195226564,32.8655578195678
+2017 Bond Program,1011806,PB17V143,Prairie Creek Bridge over UPRR Tracks,9200000,1865195.37,07,Intergovernmental Partnership Projects,Under Design,-96.6652774884327,32.7765027420688
+2017 Bond Program,1011811,PB17V148,Kimball Neighborhood Plus Target Area Sidewalk Improvements,350000,0,03,Sidewalk Improvements,Complete,-96.8785412288647,32.6992052639979
+2017 Bond Program,1011812,PB17V149,10th Street Historic District Sidewalk Improvements,689857,0,04,Sidewalk Improvements,On Hold,-96.8069385906214,32.748663210951
+2017 Bond Program,1011819,PB17V156,Oak Lawn/Cedar Springs Area Improvements (Sidewalks/Lighting/Pedestrian Safety Improvements),500000,0,02,Sidewalk Improvements,Canceled/Reprogrammed,-96.8086534230358,32.8090072088486
+2017 Bond Program,1011837,PB17V174,Elmwood Area Street Lighting,500000,0,01,Street Lighting,Under Construction,-96.8478720041404,32.7242639090638
+2017 Bond Program,1011840,PB17V177,Street Lights at Parkdale Dr and Lawnview Ave,16000,0,05,Street Lighting,Remaining To Be Awarded,-96.7181192623748,32.7738406678368
+2017 Bond Program,1011842,PB17V179,Street Lights Within Claremont Neighborhood,600000,0,07,Street Lighting,Remaining To Be Awarded,-96.7100963347051,32.7985045450646
+2017 Bond Program,1011971,PB17V309,Remove Dip on EB Royal Ln 400 Ft East of Greenville Ave,75000,0,TBD,Street Reconstruction Thoroughfares,Canceled/Reprogrammed,-96.7520151920821,32.8932698741817
+2017 Bond Program,1012644,PB17V983,Routh ST Gateway Streetscape And Pedestrian Improvements (possible matching funds),250000,0,14,Streetscape / Urban Design,Complete,-96.7974965950029,32.7928496444595
+2017 Bond Program,1012646,PB17V982,N Pearl ST / Flora ST Streetscape And Pedestrian improvements (possible matching funds),1000000,0,14,Streetscape / Urban Design,Remaining To Be Awarded,-96.7987843315967,32.7889386286928
+2017 Bond Program,1012649,PB17V986,Ferguson Rd and Lakeland Dr Intersection Improvements,750000,700602.2,07,Streetscape / Urban Design,Under Construction,-96.7013307734345,32.8119136905519
+2017 Bond Program,1012684,PB17VA22,Skillman at Walnut Hill (Complete Street/Pedestrian Safety Improvements and Traffic Calming along Skillman),1591747,0,10,Traffic Intersection Capacity & Safety Improvement,Remaining To Be Awarded,-96.7349704549758,32.87863387988
+2017 Bond Program,1012685,PB17VA23,Country Creek Dr-Road Closure/Turn Around,428750,0,03,Traffic Intersection Capacity & Safety Improvement,Remaining To Be Awarded,-96.897434550244,32.6985677221275
+2017 Bond Program,1012686,PB17VA25,Richmond Ave at Skillman St Intersection Improvements (Remove Channelized/Free Right Turns; Include NnewTraffic Signal),350000,72033,TBD,Traffic Intersection Capacity & Safety Improvement,Complete,-96.7615438708988,32.8161365775372
+2017 Bond Program,1012687,PB17VA24,Collete At Tremont And Junius (Pilot Project To Construct Mini-Roundabouts),85750,43079.25,"02,14",Traffic Intersection Capacity & Safety Improvement,Complete,-96.7666365587332,32.8006488872247
+2017 Bond Program,1012692,PK17VB01,Aquatics Master Plan Implementation - Phase 1 (2),11000000,10660885,"05,01,10,02,11,14",Aquatics,Complete,-96.8345175695858,32.7538796022471
+2017 Bond Program,1012693,PK17VB02,Aquatics Master Plan Implementation - Phase 2A -Exline & B,13200000,11992623.67,"07,03",Aquatics,Complete,-96.8536628674598,32.6839989039222
+2017 Bond Program,1012694,PK17VB03,"Downtown Parks - Carpenter, Harwood & West End (Match)",35000000,20200253.1,"14,02",Downtown Parks,Complete,-96.8074516320295,32.782359638818
+2017 Bond Program,1012698,PK17VB07,White Rock Lake Stone Tables (Match),280000,211376.48,09,Citywide Parks,Complete,-96.7090447004924,32.8383420889928
+2017 Bond Program,1012699,PK17VB08,Dallas Zoo (Match),3500000,3217469.33,04,Dallas Zoo,Under Construction,-96.816219145252,32.7363098491676
+2017 Bond Program,1012700,PK17VB09,Dallas Arboretum (Match),1000000,699378.11,09,Major Maintenance,Complete,-96.7168783994016,32.8229949896926
+2017 Bond Program,1012702,PK17VB11,Bachman Lake Skatepark,4000000,4347565.83,06,Major Park Facilities,Under Construction,-96.8661746865703,32.8538837306003
+2017 Bond Program,1012706,PK17VB15,Crawford Memorial Park - Phase 1,7700000,217585,05,Hike and Bike Trails,Under Design,-96.669617313063,32.7132593621763
+2017 Bond Program,1012707,PK17VB16,Midtown Park (Match),6000000,0,11,Recreation Facilities and Site Development,Complete,-96.8113074281836,32.9278015521059
+2017 Bond Program,1012711,PK17VB20,Flag Pole Hill - Phase 1 Master Plan Implementation,400000,358071.87,10,Hike and Bike Trails,Complete,-96.7231243645031,32.8623848074053
+2017 Bond Program,1012712,PK17VB21,Flag Pole Hill - Playground (Match),165000,84136.28,10,Playground Improvement,Complete,-96.7231243645031,32.8623848074053
+2017 Bond Program,1012713,PK17VB22,Singing Hills Recreation Center - Gym Addition,8000000,7749623.2,08,,Complete,-96.7932532346133,32.6703253512016
+2017 Bond Program,1012714,PK17VB23,Bachman Recreation Center Renovation,3900000,3198563.69,06,Major Maintenance,Complete,-96.8661746865703,32.8538837306003
+2017 Bond Program,1012715,PK17VB24,Willie B. Johnson Recreation Center-Sr Add (Hamilton Pk),3800000,3427782.28,10,Recreation Center,Complete,-96.7638811425516,32.9175537273341
+2017 Bond Program,1012716,PK17VB25,Willie B. Johnson  Gym. Add'n. (Hamilton Park),7800000,6071018.52,10,Recreation Center,Complete,-96.7638811425516,32.9175537273341
+2017 Bond Program,1012717,PK17VB26,Thurgood Marshall Rec. Ctr. Ren.,1400000,1090431.67,03,Major Maintenance,Complete,-96.8536628674598,32.6839989039222
+2017 Bond Program,1012719,PK17VB28,Land Acquisition in the Cedars for new park (to supplement C,500000,0,02,Land Acquisition,Canceled/Reprogrammed,-96.7986149924555,32.7698980981193
+2017 Bond Program,1012722,PK17VB31,Dallas Water Gardens (Match) (Amendment - 8/9/17),7500000,7801.6,02,,On Hold,-96.7992639304936,32.7657814647215
+2017 Bond Program,1012725,PK17VB35,Kidd Springs - Japanese Garden Restoration - Phase 1,600000,1199150.24,01,Historic Preservation,Complete,-96.8345175695858,32.7538796022471
+2017 Bond Program,1012726,PK17VB34,Kidd Springs - Natural Spring daylighting and Lake bank eros,1000000,389567.78,01,Land Acquisition,Complete,-96.8345175695858,32.7538796022471
+2017 Bond Program,1012728,PK17VB38,Martin Weiss Park - Loop trail extension to greenbelt,1300000,727132.87,01,Hike and Bike Trails,Complete,-96.877279674164,32.7333092953218
+2017 Bond Program,1012730,PK17VB39,Westmount Park - Site Development,200000,160164.98,01,Playgrounds,Complete,-96.8667430248544,32.7614706957048
+2017 Bond Program,1012731,PK17VB41,Monarch Park - Playground replacement and Parking/ADA,250000,15868,02,,On Hold,-96.7784136244648,32.8076631665329
+2017 Bond Program,1012732,PK17VB40,"Maria Luna Park - Dog Park, basketball crt restoration",1115000,0,06,,Canceled/Reprogrammed,-96.8231741332402,32.8123646967002
+2017 Bond Program,1012733,PK17VB42,Grauwyler Park - Sprayground,2000000,1467976.7,02,Aquatics,Complete,-96.8583160431578,32.8321795364428
+2017 Bond Program,1012734,PK17VB44,"K. B. Polk Park - Sprayground-sm., walking trail, playground",2000000,1613339.48,02,Aquatics,Complete,-96.8304560746363,32.8414422677058
+2017 Bond Program,1012735,PK17VB43,Samuell Grand Park - Shade structure at existing playground,150000,65322.49,02,,Complete,-96.7408588451337,32.7951835755768
+2017 Bond Program,1012736,PK17VB45,Land Acquisition for the Cedars (Supplemental to S-W allocat,500000,0,02,Land Acquisition,Canceled/Reprogrammed,-96.7986149924555,32.7698980981193
+2017 Bond Program,1012737,PK17VB46,Phase 1 Site Development - New park in the Cedars,500000,0,02,,In Service,-96.7986149924555,32.7698980981193
+2017 Bond Program,1012739,PK17VB48,Bachman Regional Family Aquatic Center - Phase 1 (with CD 6),2500000,3293165.07,02,Aquatics,Complete,-96.8661746865703,32.8538837306003
+2017 Bond Program,1012740,PK17VB50,Twin Falls Parking Lot,200000,1354.5,03,,Complete,-96.8392071680655,32.6718649206536
+2017 Bond Program,1012741,PK17VB49,Emerald Lake Park - Dam safety & Erosion Control,2075000,1708322.65,03,,Complete,-96.9661906694634,32.6537433951284
+2017 Bond Program,1012742,PK17VB51,Thurgood Marshall Recreation Center - Renovation (Supplement,200000,25870,03,Major Maintenance,Complete,-96.8536628674598,32.6839989039222
+2017 Bond Program,1012743,PK17VB53,Sharrock Niblo Park - Historic Restoration of Barn,725000,619487.59,03,Historic Restoration,Complete,-96.9370720296804,32.6809376147817
+2017 Bond Program,1012744,PK17VB52,Glendale Park- Parking Spaces & Lighting,400000,469486.49,03,Community Parks,Under Construction,-96.7972179472227,32.6827531442209
+2017 Bond Program,1012745,PK17VB54,Add Discretionary Funds (Singing Hills Rec. Ctr.) Amendment,1000000,275,03,,Complete,-96.7932532346133,32.6703253512016
+2017 Bond Program,1012746,PK17VB55,Bonnie View Park - Playground expansion,150000,0,04,,Canceled/Reprogrammed,-96.795221559182,32.733880571879
+2017 Bond Program,1012747,PK17VB56,Eloise Lundy - Playground expansion,150000,0,04,,Under Construction,-96.8064241757661,32.7562846290384
+2017 Bond Program,1012749,PK17VB58,"Cummings Park - Parking lot (rear), renovate and expand",350000,13929,04,,Canceled/Reprogrammed,-96.7708425500661,32.6987956383498
+2017 Bond Program,1012750,PK17VB59,Cummings Park - Walking loop trail - 6' wide - 1/4 mi. - new,150000,0,04,Hike and Bike Trails,Canceled/Reprogrammed,-96.7708425500661,32.6987956383498
+2017 Bond Program,1012751,PK17VB60,Derek L. Geter (Scotland) Park - Park Furnishings Package,60000,0,04,,Complete,-96.7841228493811,32.7002659172437
+2017 Bond Program,1012752,PK17VB61,Beckley-Saner Park renovate backstop softball fields,400000,0,04,,Complete,-96.8247533084996,32.7141406342033
+2017 Bond Program,1012753,PK17VB62,West Trinity Heights Park - Develop master plan,40000,0,04,,Canceled/Reprogrammed,-96.8092963819222,32.7244539312128
+2017 Bond Program,1012754,PK17VB63,Herndon Park - Playground expansion,150000,0,04,,Canceled/Reprogrammed,-96.8187270940412,32.7240183412429
+2017 Bond Program,1012755,PK17VB64,Kiest Park - Memorial Tree Grove - Phase 1 Implementation,250000,0,04,,Canceled/Reprogrammed,-96.8528152320612,32.7100230837497
+2017 Bond Program,1012756,PK17VB65,Devon Anderson Park - Replace playground equipment,100000,189525.4,05,,Complete,-96.7073948817931,32.7408320381512
+2017 Bond Program,1012757,PK17VB66,Guard Dr. - Phase 2 Site Development,600000,569157.05,05,Community Parks,Complete,-96.7111637445125,32.7369935553332
+2017 Bond Program,1012758,PK17VB67,Bitter Creek Park - Creek bank stabilization,273000,0,05,,On Hold,-96.6440903784576,32.7272020809351
+2017 Bond Program,1012759,PK17VB68,"Bisbee Park - Parking lot, clearing/grubbing, and signage",150000,28848,05,,Complete,-96.7123572589638,32.7682593189932
+2017 Bond Program,1012761,PK17VB70,"Holcomb Park - 6' wide walking loop trail, park furnishings,",400000,179058.46,05,Trails,Complete,-96.6723260776824,32.7311364516312
+2017 Bond Program,1012762,PK17VB71,Pleasant Oaks Park - Connecting walkways and security lighti,150000,0,05,,Complete,-96.6720120571476,32.7516933044923
+2017 Bond Program,1012763,PK17VB72,"Glover Park - Parking lot with lighting, land acquisition",127000,0,05,,Canceled/Reprogrammed,-96.7079111242765,32.764482328355
+2017 Bond Program,1012764,PK17VB73,Brownwood - Erosion Control,400000,327917.94,06,,On Hold,-96.863060262735,32.8800410187586
+2017 Bond Program,1012765,PK17VB74,Brownwood - Soccer Field,200000,24244.25,06,,On Hold,-96.863060262735,32.8800410187586
+2017 Bond Program,1012766,PK17VB75,Overlake Park - Bleachers,50000,0,06,,Complete,-96.8723348781397,32.860043439104
+2017 Bond Program,1012767,PK17VB76,Jaycee Zaragoza Park - Sprayground,1885000,1792726.1,06,Aquatics,Complete,-96.9074721772794,32.7802605436455
+2017 Bond Program,1012768,PK17VB77,Nash Davis Park - Spraygound,2000000,1603553.22,06,Aquatics,Complete,-96.8548705819092,32.7879120346041
+2017 Bond Program,1012769,PK17VB78,"Frances Rizo Park - Playground replacement, ADA drinking fou",250000,13925,06,Neighborhood Park Facilities,Under Design,-96.9063669928102,32.771043221637
+2017 Bond Program,1012770,PK17VB79,Stafford Park - Playground and park furnishings,220000,14500,06,Playground Improvement,Under Design,-96.8395621861832,32.7707563401116
+2017 Bond Program,1012771,PK17VB80,Hattie R. Moore Park - Master Plan and Phase 1 Implementatio,350000,36166.8,06,,Under Design,-96.8387924832269,32.7802974295357
+2017 Bond Program,1012772,PK17VB81,Nash Davis Park - Master Plan,40000,33500,06,Master Plan,Complete,-96.8548705819092,32.7879120346041
+2017 Bond Program,1012773,PK17VB82,Arcadia Park - Add lighting at outdoor basketball gym,30000,0,06,,Complete,-96.9124502194864,32.7430094519328
+2017 Bond Program,1012774,PK17VB83,Bachman Lake Park - Regional Family Aquatic Center - Phase 1,3500000,3833029.73,06,Aquatics,Complete,-96.8661746865703,32.8538837306003
+2017 Bond Program,1012775,PK17VB84,Pueblo Park - Park furnishings package and drinking fountain,40000,0,06,,Canceled/Reprogrammed,-96.8324428328552,32.7807909020012
+2017 Bond Program,1012776,PK17VB85,Tipton Park - Picnic pavilion and water fountain,300000,342262,06,,Complete,-96.879213343216,32.7878310551773
+2017 Bond Program,1012777,PK17VB86,Bishop Flores Park - connecting walkway to neighborhood,775000,0,06,,Remaining To Be Awarded,-96.9112966870687,32.769354832847
+2017 Bond Program,1012778,PK17VB87,"Eladio Martinez Park-furnishings,fencing,drinking fountain",60000,0,06,,Complete,-96.9143885142522,32.7749608215878
+2017 Bond Program,1012779,PK17VB88,Everglade Park - Exercise stations at loop trail,150000,83919.04,07,Hike and Bike Trails,Complete,-96.6989908390659,32.7869969822583
+2017 Bond Program,1012780,PK17VB89,J. J. Craft Park - Historic Bench Restoration,10000,0,07,,Complete,-96.7406978573262,32.7730340984547
+2017 Bond Program,1012781,PK17VB90,Martin Luther King Jr. Park - Playground replacement,250000,204600.84,07,Playgrounds,Complete,-96.7657184318952,32.7690944778112
+2017 Bond Program,1012782,PK17VB92,Hillview Park - Renovate Basketball Court,17000,0,07,,Canceled/Reprogrammed,-96.6757283157387,32.8102036093202
+2017 Bond Program,1012783,PK17VB91,Ferguson Park - Portable Toilet Enclosure,70000,0,07,,Canceled/Reprogrammed,-96.6819651527122,32.8164555745283
+2017 Bond Program,1012784,PK17VB93,Hillview Park - Park Furnishings Package,60000,0,07,,Canceled/Reprogrammed,-96.6757283157387,32.8102036093202
+2017 Bond Program,1012785,PK17VB94,Hillview Park - Park ID Sign,6500,0,07,,Complete,-96.6757283157387,32.8102036093202
+2017 Bond Program,1012786,PK17VB95,Hillview Park - Creek Erosion Control and Drainage Near Play,403345,27385.16,07,,Canceled/Reprogrammed,-96.6757283157387,32.8102036093202
+2017 Bond Program,1012787,PK17VB96,Hillview Park - Pavilion,175000,12914.84,07,,Canceled/Reprogrammed,-96.6757283157387,32.8102036093202
+2017 Bond Program,1012788,PK17VB97,Juanita J. Craft Park - ADA Drinking Fountain,11000,0,07,,Complete,-96.7406978573262,32.7730340984547
+2017 Bond Program,1012789,PK17VB98,Jr. Park -Recreation Center - Gym. Floor Cover,12155,0,07,Recreation Facilities,Complete,-96.7657184318952,32.7690944778112
+2017 Bond Program,1012790,PK17VB99,Parkdale Park - ADA Drinking Fountain,5500,0,07,,Complete,-96.7155452158104,32.7755005281956
+2017 Bond Program,1012791,PK17VK01,Parkdale Park - Portable Facility Enclosure,70000,0,07,,Complete,-96.7155452158104,32.7755005281956
+2017 Bond Program,1012792,PK17VK02,"Sand Springs Park - ADA Drinking Fountain, Park Furnishings Package, Park ID Sign",42000,0,07,,Complete,-96.6461558588517,32.7563493625291
+2017 Bond Program,1012793,PK17VK03,"Wahoo Park - Basketball - Full Court, New",80000,0,07,,Canceled/Reprogrammed,-96.7361560004314,32.773725044744
+2017 Bond Program,1012794,PK17VK04,Wahoo Park - ADA Drinking Fountain,5500,0,07,,Canceled/Reprogrammed,-96.7361560004314,32.773725044744
+2017 Bond Program,1012795,PK17VK05,"Wheatley Park - ADA Drinking Fountain, Park Furnishings Pkg",40000,0,07,,Complete,-96.7591592125056,32.764904721772
+2017 Bond Program,1012796,PK17VK06,Wheatly Park - Replace Sidewalk Segment,30000,25910.76,07,,Complete,-96.7591592125056,32.764904721772
+2017 Bond Program,1012797,PK17VK07,Willie Mae Butler Park - Convert Tennis Court to Basketball,42000,0,07,,Canceled/Reprogrammed,-96.7364005845744,32.7612441384034
+2017 Bond Program,1012798,PK17VK08,Willie Mae Butler Park - ADA Drinking Fountain and Park Furnishings Package,60000,8000,07,,Canceled/Reprogrammed,-96.7364005845744,32.7612441384034
+2017 Bond Program,1012799,PK17VK09,Willie Mae Butler Park - Portable Facility Enclosure,60000,0,07,,Canceled/Reprogrammed,-96.7364005845744,32.7612441384034
+2017 Bond Program,1012800,PK17VK10,Willoughby Park - Playground Replacement,200000,200426.4,08,,Complete,-96.8278533205325,32.6399102199416
+2017 Bond Program,1012801,PK17VK11,Danieldale Park - Playground replacement (at end of life),220000,222265.05,08,Playgrounds,Complete,-96.8307991098581,32.6460283722806
+2017 Bond Program,1012802,PK17VK12,Singing Hills (New) Site Development,200000,196552,08,,Complete,-96.7932532346133,32.6703253512016
+2017 Bond Program,1012803,PK17VK13,Singing Hills Replacement Recreation Center - Addition,2000000,494127.73,08,,Complete,-96.7932532346133,32.6703253512016
+2017 Bond Program,1012804,PK17VK14,Kleberg-Rylie Park - Sprayground,1480000,1382709.73,08,,Complete,-96.6029057299695,32.6856903325172
+2017 Bond Program,1012805,PK17VK15,Add Discretionary Funding (Singing Hills R.C.) (Amendment -,1000000,0,08,,Complete,-96.7932532346133,32.6703253512016
+2017 Bond Program,1012806,PK17VK16,White Rock Hills Park -Neighborhood Park Site Dev Phase 2,200000,100267.94,09,Recreation Facilities,Complete,-96.7140117410907,32.8029742007506
+2017 Bond Program,1012807,PK17VK17,Casa Linda Park - Picnic Pavilion,425000,300969.47,09,,Complete,-96.6985465026442,32.8205188857902
+2017 Bond Program,1012808,PK17VK18,Casa Linda Park - Basketball,35000,15852.32,09,,Complete,-96.6985465026442,32.8205188857902
+2017 Bond Program,1012809,PK17VK19,Casa view Park - Walking Trail,400000,0,09,,Complete,-96.6748341560195,32.8468259914693
+2017 Bond Program,1012810,PK17VK20,Cotillion Park - Player Bench Enclosure,13718,0,09,,Complete,-96.6552864446728,32.8446572828932
+2017 Bond Program,1012811,PK17VK21,Cotillion Park - Security Lighting,60775,0,09,,Complete,-96.6552864446728,32.8446572828932
+2017 Bond Program,1012812,PK17VK22,Dixon Branch Greenbelt - Park Furnishings,65507,156189.91,09,,Complete,-96.7030243194328,32.8480333944171
+2017 Bond Program,1012813,PK17VK23,Lakewood Park - Basketball Renovate,80000,0,09,,Complete,-96.7357109208045,32.8315751475177
+2017 Bond Program,1012814,PK17VK24,Lakewood Park - Pedestrian Bridge and ADA Parking,250000,109180,09,,On Hold,-96.7357109208045,32.8315751475177
+2017 Bond Program,1012815,PK17VK25,Lakewood Park - Park Furnishing and drinking fountain,85000,0,09,,Complete,-96.7357109208045,32.8315751475177
+2017 Bond Program,1012817,PK17VK27,Lochwood Park - Field grading and irrigation,120000,4728,09,,Complete,-96.6916246492301,32.8562747212986
+2017 Bond Program,1012818,PK17VK28,"Lochwood Park - Park furnishings package, including ADA drin",45000,46462.44,09,,Complete,-96.6916246492301,32.8562747212986
+2017 Bond Program,1012819,PK17VK29,Harry Stone Park - Neighborhood Family Aquatic Center,6200000,5463861.93,02,Aquatics,Complete,-96.6737837608478,32.8270161167658
+2017 Bond Program,1012820,PK17VK30,"Friendship Park - Security lights, loop trail, exer stations",467000,519969.2,10,Recreation Facilities,In Service,-96.7072455018596,32.9191337387698
+2017 Bond Program,1012821,PK17VK32,Flag Pole Hill Pavilion - Historic Restoration,200000,199658.7,10,,Complete,-96.7231243645031,32.8623848074053
+2017 Bond Program,1012822,PK17VK31,Hamilton Park - Parking lot expansion at Recreation Center,223000,193340.98,10,,Complete,-96.7638811425516,32.9175537273341
+2017 Bond Program,1012823,PK17VK33,"McCree Park-Prtble fclty enclsr,park furnis,pkng lot lightng",200000,0,10,,Complete,-96.6994058068933,32.8704338517018
+2017 Bond Program,1012824,PK17VK34,R P Brooks Park - Loop Walking Trail,300000,0,10,Hike and Bike Trails,Remaining To Be Awarded,-96.7401506802268,32.8704870721486
+2017 Bond Program,1012825,PK17VK35,Timberleaf Park - Playground new,260000,0,10,,On Hold,-96.7322583101048,32.9060528286426
+2017 Bond Program,1012826,PK17VK36,Flag Pole Hill Park - Phase 1 Master Plan Implementation (Supplemental funding),1100000,954602.44,10,Hike and Bike Trails,Complete,-96.7231243645031,32.8623848074053
+2017 Bond Program,1012828,PK17VK38,Lake Highland North Park - Site Developments / Recreation Center Improvements,400000,38960.32,10,Site Development,Canceled/Reprogrammed,-96.7278621945032,32.8851029157202
+2017 Bond Program,1012829,PK17VK39,B. B. Owen Park - Site Development,250000,172606.75,10,,Complete,-96.6986884988686,32.8803222347843
+2017 Bond Program,1012832,PK17VK42,Friendship Park - Site Development (Supplemental funding),133000,0,10,Site Development,Complete,-96.7072455018596,32.9191337387698
+2017 Bond Program,1012835,PK17VK45,Anderson Bonner - Creek bank stabilization,500000,981652,11,Erosion Control,In Service,-96.7778866712332,32.9178441731704
+2017 Bond Program,1012836,PK17VK46,Anderson Bonner - Playground - New,220000,167988.86,11,,Under Construction,-96.7778866712332,32.9178441731704
+2017 Bond Program,1012837,PK17VK47,"Anderson Bonner - Renovate Soccer Field #3 w/ lights, blchrs",500000,0,11,,Canceled/Reprogrammed,-96.7778866712332,32.9178441731704
+2017 Bond Program,1012838,PK17VK48,"Churchill Recreation Center - Major Maintenance, HVAC",250000,116094,11,,Complete,-96.7834620655641,32.9177112510444
+2017 Bond Program,1012839,PK17VK50,Fretz Park - Expand Parking Lot for Aquatic Center,400000,44804.79,11,Site Development,Complete,-96.7817512071969,32.9489855292236
+2017 Bond Program,1012840,PK17VK49,Cottonwood Park - Playground - Add Equipment,150000,0,11,,On Hold,-96.7584060705672,32.9354928562614
+2017 Bond Program,1012841,PK17VK51,Fretz Park - Playground,250000,25195.21,11,Playgrounds,Complete,-96.7817512071969,32.9489855292236
+2017 Bond Program,1012842,PK17VK52,Fretz Park Recreation Center - Acoustical Treatment - Multi-,95000,62991,11,Recreation Center,Complete,-96.7817512071969,32.9489855292236
+2017 Bond Program,1012843,PK17VK53,Kiowa Parkway - Pedestrian Bridge,350000,516678.48,11,,Complete,-96.7978590866419,32.9535559323262
+2017 Bond Program,1012847,PK17VK57,Wagging Tail Dog Park - Add new parking area - South,400000,315744.06,11,,Complete,-96.8081178766519,32.9705352743388
+2017 Bond Program,1012848,PK17VK59,Forston Park - Develop new park with park furnishings,220000,0,12,,Canceled/Reprogrammed,-96.7937955365591,33.0056347817783
+2017 Bond Program,1012849,PK17VK58,"Moss Glen Park - Phase 2 Site, Including Playground",800000,477055.53,12,,Complete,-96.8024804160282,33.0117283786374
+2017 Bond Program,1012850,PK17VK60,Shadybank Park Shadybank & Coolglen Dr.-Trl Conn- Kiowas Brc,700000,363464.29,11,,Complete,-96.7919321790445,32.9709049331847
+2017 Bond Program,1012851,PK17VK62,Timberglen Park - Softball outfield fence,150000,0,12,,Complete,-96.8470909485044,33.0035562883027
+2017 Bond Program,1012852,PK17VK61,Campbell Green Park - Site Improvements,900000,660232.58,12,,Complete,-96.7871643842111,32.9775168447114
+2017 Bond Program,1012854,PK17VK64,Bentwood Park - tennis - add player benches; park furnishing,50000,0,12,,Complete,-96.80284296484,33.0041693527551
+2017 Bond Program,1012855,PK17VK65,Frankford Park - park furnishings package,32000,0,12,,Complete,-96.7848469101041,33.000502551649
+2017 Bond Program,1012856,PK17VK66,Timberglen Park - sprayground,2000000,1599320.59,12,Aquatics,Complete,-96.8470909485044,33.0035562883027
+2017 Bond Program,1012857,PK17VK67,"Timberglen Park - pavilion, new",450000,0,12,,Canceled/Reprogrammed,-96.8470909485044,33.0035562883027
+2017 Bond Program,1012859,PK17VK69,Twin Lakes Park - park furnishings package,50000,38869.81,12,,Complete,-96.8392071680655,32.6718649206536
+2017 Bond Program,1012860,PK17VK70,Moss Glen Park - Supplemental Funding - Pond Impr Site Dev,600000,0,12,,Canceled/Reprogrammed,-96.8024804160282,33.0117283786374
+2017 Bond Program,1012861,PK17VK71,"Barry Barker Park - pavilion, park furnishings, ADA drinkin",650000,0,12,,Canceled/Reprogrammed,-96.8504058900559,32.9939230352805
+2017 Bond Program,1012862,PK17VK72,"Preston Green Park - park furnishings, ADA drinking fountain",100000,58082.78,12,,Remaining To Be Awarded,-96.7870594066964,32.9858509833086
+2017 Bond Program,1012863,PK17VK73,"Rose Haggar Park - walking loop trail, park furnishings",400000,119227.35,12,,Complete,-96.8047795622217,32.9966915532641
+2017 Bond Program,1012864,PK17VK74,Glen Meadow - Playground replacement,220000,210726.2,13,,Complete,-96.8456978916879,32.9112838873397
+2017 Bond Program,1012865,PK17VK75,Marcus Park - Playground replacement,200000,198403.78,13,,Complete,-96.8787647627878,32.9060212013335
+2017 Bond Program,1012866,PK17VK76,"Jamestown Park - Playground equip - swingset,park furnishing",200000,0,13,,In Service,-96.8078473819382,32.9194792761697
+2017 Bond Program,1012867,PK17VK77,Walnut Hill Park - Basketball - Renovate existing & add new,160000,0,13,,Canceled/Reprogrammed,-96.8396067141614,32.8813043297477
+2017 Bond Program,1012868,PK17VK78,Walnut Hill Park-Repl softball bkstop & blchers on exist pad,230000,0,13,,Canceled/Reprogrammed,-96.8396067141614,32.8813043297477
+2017 Bond Program,1012869,PK17VK79,"Bluffview Park - Playground Expansion, Shade Structure Site",350000,303315.24,13,,Complete,-96.8302365550529,32.8558344960352
+2017 Bond Program,1012870,PK17VK80,Vickery Meadows Park / Playground at Library Site,240000,211904.71,13,,Complete,-96.7621297858799,32.8716846374356
+2017 Bond Program,1012871,PK17VK81,Lindsley Park -Sidewalk Ext. Shadyside Ln. -Lindsley Dr.,195000,179961.28,14,,Complete,-96.7383079417002,32.8088689630739
+2017 Bond Program,1012872,PK17VK82,Lindsley Park - Playground Replacement,220000,190435.23,14,,Complete,-96.7383079417002,32.8088689630739
+2017 Bond Program,1012873,PK17VK83,Turtle Creek Park (formerly Oak Lawn Park/ Robert E. Lee Park (Arlington Hall)) - Renovate historic WPA rest rooms,200000,180339.83,14,Neighborhood Park Facilities,Complete,-96.8039991895651,32.8086452932199
+2017 Bond Program,1012874,PK17VK84,Tietze Park - Add ADA parking and site improvements,100000,0,14,Parking,Complete,-96.7608174812941,32.8234431465166
+2017 Bond Program,1012875,PK17VK85,Tietze Park - Add Shade Structure at Playground,100000,38645.21,14,,Complete,-96.7608174812941,32.8234431465166
+2017 Bond Program,1012876,PK17VK86,Munger Park - Add shade structure at playground VK86,100000,60391.11,14,,Complete,-96.7637976920877,32.8028058926024
+2017 Bond Program,1012877,PK17VK87,VK87_Craddock Park - playground expansion,200000,111396,14,Playground Improvement,Complete,-96.8160671441984,32.8193213438116
+2017 Bond Program,1012878,PK17VK88,Junius Gateway - Park furnishings,15000,0,14,,Complete,-96.7637976920877,32.8028058926024
+2017 Bond Program,1012879,PK17VK89,Randall (Willis Winters)Park - Historic Pavilion Restoration,250000,0,14,Neighborhood Park Facilities,Complete,-96.7513404164989,32.8038645741564
+2017 Bond Program,1012880,PK17VK90,Central Square - playground replacement,220000,84317.93,14,Site Development,Complete,-96.7843204063835,32.7890681335777
+2017 Bond Program,1012881,PK17VC01,FP Hall of State,14410000,13962555.71,99,Fair Park,In Service,-96.7611472813211,32.7807703597525
+2017 Bond Program,1012882,PK17VC02,FP MUSIC HALL,4300000,3835196.55,99,Fair Park,In Service,-96.7658557895311,32.7803902169776
+2017 Bond Program,1012883,PK17VC03,African American Museum,2000000,2626361.56,99,Fair Park,Complete,-96.7644461777074,32.7790696177685
+2017 Bond Program,1012884,PK17VC04,Texas Discovery Gardens,300000,243237,99,Fair Park,In Service,-96.7601606572165,32.7757642500167
+2017 Bond Program,1012885,PK17VC05,Food and Fiber Building,1500000,340663.57,99,Fair Park,Under Design,-96.7596979802213,32.7816132587163
+2017 Bond Program,1012886,PK17VC06,Coliseum,9500000,7559325.49,99,Fair Park,In Service,-96.7572570541684,32.7791987369291
+2017 Bond Program,1012887,PK17VC07,Tower Building,3500000,3559838.46,99,Fair Park,Complete,-96.7612494174456,32.7794577356829
+2017 Bond Program,1012888,PK17VC08,Centennial Building,4400000,6396506.61,99,Fair Park,Complete,-96.7634039734076,32.7822461189108
+2017 Bond Program,1012889,PK17VC09,Pan American Complex,3480000,0,99,Fair Park,Under Design,-96.7582323523219,32.7810424499531
+2017 Bond Program,1012890,PK17VC11,Aquarium Annex,600000,535737.75,99,Fair Park,In Service,-96.7602621552466,32.7769830109532
+2017 Bond Program,1012891,PK17VC10,Science Place 1 (Phase 1),5110000,1756288,99,Fair Park,Under Design,-96.7623386374671,32.7771419281585
+2017 Bond Program,1012892,PK17VC12,Magnolia Lounge,900000,506221.57,07,Fair Park,Under Design,-96.7637761822441,32.77935290704
+2017 Bond Program,1012895,TW17VD03,"Putting Green 6521,6629,6637,6729",800000,108908.1,03,Erosion Control,Complete,-96.8428947170234,32.667608781881
+2017 Bond Program,1012897,TW17VD04,Kiesthill Drive 3335,300000,40213.08,03,Erosion Control,Complete,-96.8795593596644,32.7034847395147
+2017 Bond Program,1012898,TW17VD06,Pentagon Parkway W.1122,480000,46053.17,04,Erosion Control,Complete,-96.8409210238081,32.6950314566309
+2017 Bond Program,1012899,TW17VD07,Urban 3100  Private Erosion Control,250000,164331.5,05,Flood Management,Complete,-96.6954986311476,32.7642319013663
+2017 Bond Program,1012900,TW17VD08,Parkdale Bridge @ Whiterock Creek Tributary,97000,0,07,Erosion Control,Canceled/Reprogrammed,-96.7210663958864,32.7758379854259
+2017 Bond Program,1012901,TW17VD09,Oak Creek Circle 3504 & 3508 RL Voluntary Purchase,170000,177684.54,05,Flood Management,Complete,-96.6937182614276,32.7680377644552
+2017 Bond Program,1012945,TW17VD53,Rexford Drive @ Shorecrest Drive,168000,363361.85,13,Storm Drainage,Complete,-96.8487612996722,32.8589486056142
+2017 Bond Program,1013015,TW17VD05,Talbot Parkway 6760,365000,45820.15,03,Erosion Control,Complete,-96.8532652743197,32.6649235776656
+2017 Bond Program,1013017,TW17VD11,"El Cerrito Storm Drainage, 2470",200000,416987.4,07,Storm Drainage,Under Construction,-96.7059813787771,32.8002555855054
+2017 Bond Program,1013038,TW17VD78,Hughes Lane @ Kalani Place,800000,1216403.1,11,Storm Drainage,Complete,-96.7980559180048,32.9365597992629
+2017 Bond Program,1013040,TW17VD79,"Tree Shadow Trail, 5910",914000,0,12,Storm Drainage,Awarded for Construction,-96.8070162242234,33.0041365671255
+2017 Bond Program,1013042,TW17VD82,Country Brook Pond Improvements is Hall Branch,110000,18300.5,12,Storm Drainage,Complete,-96.8354164882344,33.0001147300894
+2017 Bond Program,1013052,TW17VD19,Oates Drive 1407,190000,348481.35,09,Erosion Control,Complete,-96.6915846496198,32.8205944496346
+2017 Bond Program,1013053,TW17VD22,"Riverhill Drive, 17418",188000,225152.9,12,Erosion Control,Complete,-96.8249991084943,32.9899892559023
+2017 Bond Program,1013054,TW17VD27,"Betty Jane, 10225",197000,400450.35,13,Erosion Control,In Service,-96.8546411249497,32.8856718732655
+2017 Bond Program,1013055,TW17VD23,"Brushy Creek Trail, 5719",315000,385421.6,12,Erosion Control,Complete,-96.8108207497577,33.0084315990087
+2017 Bond Program,1013056,TW17VD24,"Claren Court 7106, 7110, 7114",173000,234599.92,12,Erosion Control,Complete,-96.7797883075958,32.9916282360642
+2017 Bond Program,1013057,TW17VD20,"Brittania Way, 8470-8506, Erosion Control Pilot",270000,836242,10,Erosion Control,Complete,-96.7251093558619,32.8959063333639
+2017 Bond Program,1013058,TW17VD21,Stedman Cir 17309 & 17315,300000,38032.35,12,Erosion Control,In Service,-96.7961793783469,32.9879010822144
+2017 Bond Program,1013059,TW17VD25,"Nedra Way, 15821, 15827",145000,185989.7,12,Erosion Control,Complete,-96.7940829032804,32.9655022318351
+2017 Bond Program,1013060,TW17VD26,"Baymar Lane, 6201",200000,179111.98,12,Erosion Control,Complete,-96.7976902762753,32.9902918488463
+2017 Bond Program,1013062,TW17VD81,Meandering Way 16209,74000,144955.34,12,Storm Drainage,Awarded for Construction,-96.7784935355449,32.9734732637467
+2017 Bond Program,1013065,TW17VD28,Joe's Creek - TXU ROW and 3900 Block Vinecrest,350000,249328.2,13,Erosion Control,Complete,-96.8488891108663,32.8999283536859
+2017 Bond Program,1013066,TW17VD30,Lake Cliff at Colorado - H&H Study,59000,39785,01,Storm Drainage,Complete,-96.8177558461835,32.7587278724259
+2017 Bond Program,1013067,TW17VD31,Kidd Springs - H&H Study,89000,82529.75,01,Storm Drainage,Complete,-96.8341767184081,32.7541325367801
+2017 Bond Program,1013068,TW17VD32,Wynnewood Village Drainage Improvements,1727000,988723.45,01,Storm Drainage,Complete,-96.8330787740455,32.7214120897078
+2017 Bond Program,1013069,TW17VD33,Chalkhill Branch - I30/Loop 12 iInterchange,780000,53062.58,06,Storm Drainage,On Hold,-96.9107000974331,32.7647427590646
+2017 Bond Program,1013070,TW17VD34,Hampton Gate,500000,0,99,Storm Drainage,Canceled/Reprogrammed,-96.856810381048,32.7934539725721
+2017 Bond Program,1013071,TW17VD38,Gifford-Roanoke Area Relief System - Phase II/Brookhollow Br,1640000,62359.86,02,Storm Drainage,Under Design,-96.860400483466,32.8345529929422
+2017 Bond Program,1013073,TW17VD54,Kings Branch Culvert @ Georgia,200000,423341.11,04,Storm Drainage,In Service,-96.809272366584,32.7250125185539
+2017 Bond Program,1013074,TW17VD56,Kings Branch Culvert @ Edgemont,173000,520010.48,04,Storm Drainage,In Service,-96.8088464202287,32.7295330943923
+2017 Bond Program,1013076,TW17VD48,"Lively Lane, 3808",80000,12321.1,06,Storm Drainage,Canceled/Reprogrammed,-96.8513620519334,32.8745763399467
+2017 Bond Program,1013077,TW17VD60,Kings Branch Culvert @ Denley,480000,70419.46,04,Storm Drainage,Awarded for Construction,-96.8055033374759,32.7329872681459
+2017 Bond Program,1013078,TW17VD61,Kings Branch @ Genoa,260000,904281.81,04,Storm Drainage,Awarded for Construction,-96.8073652479512,32.7314029370102
+2017 Bond Program,1013079,TW17VD46,Turtle Creek - Trib 1 Culvert,250000,0,02,Storm Drainage,Complete,-96.7999245202455,32.8197256887636
+2017 Bond Program,1013080,TW17VD35,Hearne @ Commerce,246000,589412.81,06,Storm Drainage,In Service,-96.8502883981847,32.7726790873303
+2017 Bond Program,1013082,TW17VD37,Fort Worth Avenue @ Vilbig,200000,152025,06,Storm Drainage,In Service,-96.8479524128889,32.7653570099889
+2017 Bond Program,1013083,TW17VD40,"Munger, 1300, 1301",80000,77358.18,"02,14",Storm Drainage,Under Construction,-96.7694117829633,32.8060100660825
+2017 Bond Program,1013084,TW17VD49,Teakwood Elmridge Drainage Relief,650000,876186.25,11,Storm Drainage,Under Construction,-96.7845227989672,32.9349275524515
+2017 Bond Program,1013085,TW17VD50,"Royal Lane, 7012",1050000,1614976.45,11,Storm Drainage,Complete,-96.7849863605896,32.8947420988159
+2017 Bond Program,1013087,TW17VD52,"Royal Lane, 3162 (RL Area 7)",220000,27700.46,13,Storm Drainage,Awarded for Construction,-96.8723962184121,32.8947053861831
+2017 Bond Program,1013088,TW17VD41,Sorcey Road @ White Ash,65000,258843.78,03,Storm Drainage,Complete,-96.9491856406238,32.6327660411981
+2017 Bond Program,1013089,TW17VD42,"Alderson, 3700",1188000,190000,14,Storm Drainage,Under Design,-96.7550396372943,32.831519622543
+2017 Bond Program,1013090,TW17VD66,Prairie Oak Drive 9321 (RL Area 33),425000,961515.81,05,Storm Drainage,Awarded for Construction,-96.6604656366522,32.7157999511861
+2017 Bond Program,1013091,TW17VD57,Kings Branch Culvert @ Woodin,212000,32606.93,04,Storm Drainage,Awarded for Construction,-96.8088403553988,32.7227366244732
+2017 Bond Program,1013092,TW17VD43,"Homer Street, 3215",141000,1164029.15,14,Storm Drainage,Complete,-96.7823399683178,32.8270202478836
+2017 Bond Program,1013093,TW17VD58,Kings Branch Culvert @ Stella,190000,863271.7,04,Storm Drainage,Under Construction,-96.8091063906211,32.7277420802196
+2017 Bond Program,1013096,TW17VD68,"Highland Road, 2447",195000,476232.38,05,Erosion Control,Awarded for Construction,-96.7097682228509,32.7990366439928
+2017 Bond Program,1013097,TW17VD59,Kings Branch Culvert @ Louisiana,370000,38702.44,04,Storm Drainage,Awarded for Construction,-96.8090210288174,32.7239227255458
+2017 Bond Program,1013099,TW17VD69,Loganwood 3602,256000,1366501.88,05,Storm Drainage,Awarded for Construction,-96.6918966582085,32.7691724176527
+2017 Bond Program,1013100,TW17VD70,Prairie Creek Channel & Bridge Improvement @ 175,1217000,72130.74,05,Storm Drainage,Canceled/Reprogrammed,-96.6695741363374,32.7056030455359
+2017 Bond Program,1013101,TW17VD71,Hatfield Branch @ Seagoville Channel improvements,487000,400298.16,05,Storm Drainage,Awarded for Construction,-96.660116307541,32.7094952808741
+2017 Bond Program,1013102,TW17VD72,Lake June @ St. Augustine,721000,262324.38,05,Storm Drainage,Design Completed,-96.6569537626423,32.7361919510919
+2017 Bond Program,1013103,TW17VD62,Abshire Lane,945000,607312.47,07,Storm Drainage,Awarded for Construction,-96.6821261670605,32.809974203565
+2017 Bond Program,1013104,TW17VD73,Milverton @ Palisade,870000,1586692.62,05,Storm Drainage,Complete,-96.671565937996,32.7465654801617
+2017 Bond Program,1013105,TW17VD63,Nandina - Pine Trail Area,910000,173560.76,08,Storm Drainage,Under Design,-96.7724029931745,32.660684032209
+2017 Bond Program,1013106,TW17VD74,"Hollow Ridge, 4804",350000,452512.14,07,Storm Drainage,Awarded for Construction,-96.7103627458226,32.7814313155541
+2017 Bond Program,1013107,TW17VD75,Cypress Branch @ Jennie Lee,183000,936519.51,07,Storm Drainage,Complete,-96.6636499005078,32.7564002849076
+2017 Bond Program,1013108,TW17VD64,Pruitt Branch Tributary Culvert Imprv @ Kingsfield,420000,312129.37,08,Storm Drainage,Complete,-96.6767319302808,32.7046561080816
+2017 Bond Program,1013109,TW17VD65,Greenspan - Kirnwood Area,525000,2075742.55,08,Storm Drainage,Complete,-96.8310790648331,32.6536004679317
+2017 Bond Program,1013110,TW17VD55,Morning Dew Circle 3844 (RL Area 39),135000,206153.63,04,Storm Drainage,Complete,-96.8331766137535,32.6965385772842
+2017 Bond Program,1013112,TW17VD80,Creek Bend Road 7028,82000,8345.72,12,Storm Drainage,Canceled/Reprogrammed,-96.7917160849107,32.9964241668781
+2017 Bond Program,1013114,PK17VB32,Klyde Warren Park Improvements (Match) (Amendment - 8/9/17),10000000,0,14,,Under Design,-96.8015838931858,32.7893948589874
+2017 Bond Program,1013115,PK17VK37,Flag Pole Hill Park - Playground Replacement (Supplemental funding),135000,139380,10,Playground Improvement,Complete,-96.7231243645031,32.8623848074053
+2017 Bond Program,1013117,EB17VH13,West Dallas Mutli-Purpose Center,0,1924543.46,06,City Facilities,Complete,-96.8602747886673,32.7774793806147
+2017 Bond Program,1013120,EB17VH14,Martin Luther King Jr. Center - HVAC Controls,0,0,07,City Facilities,Complete,-96.7656412029137,32.7698665881675
+2017 Bond Program,1013121,EB17VH15,Martin Luther King Jr. Center â€“ Medical,0,299067,07,City Facilities,Complete,-96.7656412029137,32.7698665881675
+2017 Bond Program,1013122,EC17VI02,Red Bird Mall Redevelopment-Mayor,0,2500000,08,Economic Development,Under Construction,-96.8773488363756,32.6594218357601
+2017 Bond Program,1013124,EC17VI03,Red Bird Mall Redevelopment-CD03,0,3000000,03,Economic Development,Under Design,-96.8773488363756,32.6594218357601
+2017 Bond Program,1013125,EC17VI04,Red Bird Mall Redevelopment-CD08,0,4131414,08,Economic Development,Under Construction,-96.8773488363756,32.6594218357601
+2017 Bond Program,1013127,EC17VI06,Hillcrest Village Shopping Center Redevelopment-CD12,0,300000,12,Economic Development,Complete,-96.7872152970547,32.9628936530295
+2017 Bond Program,1013134,TW17VD17,Clearbrook Lane 10500 Blk,150000,19863.81,09,Erosion Control,Complete,-96.6999975881165,32.8538654976093
+2017 Bond Program,1013137,EC17VI05,Wynnewood Village Drainage Improvements-CD01,0,1304463,01,Economic Development,Complete,-96.8330787740455,32.7214120897078
+2017 Bond Program,1013142,TW17VD18,"Hillside Drive, 3604",150000,20649.25,09,Erosion Control,On Hold,-96.7497271656222,32.8309425776229
+2017 Bond Program,1013143,TW17VD13,"Meadowcliff 10720, 10726",853000,117746.25,10,Erosion Control,Canceled/Reprogrammed,-96.6975683013019,32.870310268523
+2017 Bond Program,1013144,TW17VD12,Bonnie View over Five Mile Creek,645000,411403.5,08,Erosion Control,Complete,-96.7676791742268,32.6829441221834
+2017 Bond Program,1013145,TW17VD10,El Cerrito 2420 2460 2522,528000,80195,07,Erosion Control,Complete,-96.7063831931907,32.7997651781565
+2017 Bond Program,1013146,PB17VA30,Critical Bridges- Maple Avenue Bridge over Turtle Creek Bridge Repair,0,65836.38,"14,02",Bridge Repair and Modification,Complete,-96.8108249997364,32.8010809998632
+2017 Bond Program,1013147,PB17VA31,Critical Bridges- Second Avenue over White Rock Creek Bridge Repair,0,469859.7,05,Bridge Repair and Modification,Complete,-96.7327991066547,32.7509139148198
+2017 Bond Program,1013148,PB17VA32,Critical Bridges- Marsh Lane over Furneaux Creek Bridge Repair,0,11988.85,12,Bridge Repair and Modification,Under Design,-96.8572810002215,33.0060969995836
+2017 Bond Program,1013149,PB17VA33,Critical Bridges- Camp Wisdom Road over Ricketts Creek Bridge Repair,0,51881.5,"03,08",Bridge Repair and Modification,Under Construction,-96.8141809998368,32.662392000109
+2017 Bond Program,1013150,PB17VA35,Critical Bridges- Marsalis Avenue Bridge Repair over Cedar Creek/Dallas Zoo Bridge Repair,0,17117.97,04,Bridge Repair and Modification,On Hold,-96.8139819285791,32.7402959532423
+2017 Bond Program,1013151,PB17VA34,Critical Bridges- Marsalis Avenue Bridge over Five Mile Creek,0,201937.56,"03,08",Intergovernmental Partnership Projects,Complete,-96.8144609197275,32.6871686168638
+2017 Bond Program,1013152,PB17VA36,Critical Bridges- W. Red Bird Lane Bridge over Woody Branch Creek,0,0,03,Bridge Repair and Modification,On Hold,-96.8377944592966,32.672804042541
+2017 Bond Program,1013194,EB17VG05,Fire Station #8 ,104000,94922.65,02,Fire Department Facilities,Complete,-96.7765094049784,32.8102383229687
+2017 Bond Program,1013197,EB17VG08,Fire Station #12.,83000,63989.95,03,,Complete,-96.9530947183751,32.6423357135122
+2017 Bond Program,1013200,PK17VK91,Wheatland Park- Football Field,0,2379622.27,08,,In Service,-96.8307991098581,32.6460283722806
+2017 Bond Program,1015990,PB17VA39,Hensley Field Reuse and Redevelopment Master Plan,0,598236.42,TBD,,,-96.9626056076178,32.7439254592874
+2017 Bond Program,1016233,OH17VJ12,The St. Jude Center-Park Central Project,0,3300000,11,,,-96.7679677115862,32.9223483200819
+2017 Bond Program,1016514,OH17VJ13,1950 Fort Worth Avenue,0,0,01,,,-96.8521564662356,32.7636289357427
+2017 Bond Program,1016596,PK17VK93,Park at Heritage Village,0,683385.59,02,Neighborhood Park Facilities,Under Design,-96.7886006222657,32.7731637489438
+2017 Bond Program,1016597,PK17VK94,Cadillac Heights Park,0,1169208.1,04,Community Parks,Under Construction,-96.7876855021047,32.742066440951
+2017 Bond Program,1016844,EC17VI32,5580 Peterson Lane Future Park Site Project,0,0,11,,Under Construction,-96.8122789999695,32.9298678137621
+2017 Bond Program,1016855,OH17VJ14,4150 Independence Drive,0,1887672.4,08,,Complete,-96.8882315376957,32.6600231193864
+2017 Bond Program,1017088,OH17VJ16,2949 S. Hampton Rd,0,11500,03,,,-96.8571925271607,32.7142889956384
+2017 Bond Program,1017418,PK17VK95,Willis Winters-Soccer Field,0,147800,14,,Complete,-96.7513403948432,32.8038645891849
+2017 Bond Program,1017507,EC17VI07,Square 67 Shopping Ctr. Renovation-CD03,0,0,03,,On Hold,-96.8592833207354,32.6707089033307
+2017 Bond Program,1017508,EC17VI08,HAWK Signal-300 Singleton-CD 6,0,939.79,06,,Complete,-96.8277594250455,32.7785981944828
+2017 Bond Program,1017511,EC17VI11,RBG 634 W Davis St-CD1,0,0,,,,-96.8328448412398,32.7492245572504
+2017 Bond Program,1017512,EC17VI12,Renovation UL Bldg. 4315 S Lancaster Rd CD-4,0,750000,04,,Complete,-96.7945079889221,32.6961197183787
+2017 Bond Program,1017514,EC17VI20,AT LAST! Project - 405 E Overton,0,400000,04,,Complete,-96.8185934982106,32.7014642177962
+2017 Bond Program,1017516,EC17VI25,Hensley Field Project-CD3,0,705112.91,03,,Under Design,-96.9626056076178,32.7439254592874
+2017 Bond Program,1017518,EC17VI30,Redev of Shopping Ctr at 3035 N.Buckner Blvd-CD07,0,650000,07,,Under Construction,-96.6843090042666,32.8079452317747
+2017 Bond Program,1017562,PK17VK96,Cherry Wood Park,0,263123.15,02,Playgrounds,Complete,-96.8283751385701,32.8230658054296
+2017 Bond Program,1018007,HO17VI36,The Bottom Phase II,0,888311.97,,Streetscape / Urban Design,In Service,-96.8031543329934,32.7515346133747
+2017 Bond Program,1018178,HO17VI35,Fleetwood St. at Schull St. and S. Harris,0,0,,,Under Construction,-96.7512265166019,32.7810297387022
+2017 Bond Program,1018288,HO17VI14,Mill City Infill Development Project,0,2000000,,,,-96.7460666812502,32.7714360602088
+2017 Bond Program,1018289,HO17VI15,Fair Park West Jeffries-Meyers,0,0,,,,-96.7715539535035,32.771705023272
+2017 Bond Program,1018290,HO17VI24,Bonton Cluster Project,0,0,,,,-96.7538077986028,32.7346139506362
+2017 Bond Program,1018381,PK17W896,Everglade Park/ Everglade/ Symphony Alley ,0,0,07,,Complete,-96.6989908076702,32.7869970034503
+2017 Bond Program,1018382,PK17P762,Muchert Center Renovation,0,0,10,,Complete,-96.7141202669541,32.8644034756026
+2017 Bond Program,1018383,PK17VK98,Dallas Arboretum - Degolyer House,0,304935,09,,Complete,-96.716878389718,32.8229949931616
+2017 Bond Program,1018384,PK17W895,Lakeland Hills Exercise Stations,0,0,07,,Complete,-96.7364005845744,32.7612441384034
+2017 Bond Program,1018385,PK17W897,Willie May Butler Playground,0,137118.72,07,,Complete,-96.7364005702534,32.7612441607488
+2017 Bond Program,1018386,PK17W935,Lakeland Hills Dog Park,0,38700.72,07,,Under Construction,-96.6966478155283,32.8038608222678
+2017 Bond Program,1018387,PK17W936,Lakeland Hills Skate Park,0,0,07,,Remaining To Be Awarded,-96.6966478155283,32.8038608222678
+2017 Bond Program,1018398,PK17W938,Forest Audelia Park and Site Development,0,328026.86,10,,Under Design,-96.7199233657164,32.9101983893497
+2012 Bond Program,1006927,EC12S802,UNT Transit Oriented Development,5000000,0,,Economic Development,Under Construction,-96.8042769815,32.6609771045409
+2012 Bond Program,1008772,PB12P877,Trinity Trail Phase II-B,0,17467.5,TBD,Trails,Complete,-96.6998337835516,32.701001863888
+2012 Bond Program,1008773,PB12P861,Woodmeadow Parkway over Long Branch,0,-172352,09,Bridge Repair and Modification,Canceled/Reprogrammed,-96.6359754581277,32.843135327573
+2012 Bond Program,1008960,PB12S393,Greenville Ave Retail Areas,820400,0,14,Complete Street,Complete,-96.7701780524167,32.8180686787196
+2012 Bond Program,1008979,PB12S412,Harry Hines from Oak Lawn to Wycliff DART Station,122500,118926.94,TBD,Sidewalk Improvements,Complete,-96.82145883594,32.8063240656297
+2012 Bond Program,1009179,PB12S612,Red Bird Area Street Improvements,1987800,1987800,TBD,Thoroughfares,On Hold,-96.8784452624158,32.6622354642287
+2012 Bond Program,1009200,PB12W145,Marsalis Bridge Project at Five Mile Creek,,0,04,Intergovernmental Partnership Projects,In Service,-96.8144609197275,32.6871686168638
+2012 Bond Program,1011490,TW12S700,Abrams Road Bridge - hike & bike trail,48000,95021.77,TBD,Erosion Control,Under Construction,-96.7412930164351,32.8724693510579
+2012 Bond Program,1011491,TW12S701,Anderson Bonner Park Site 1 - hike & bike trail (WRC 164),231400,236056.69,TBD,Erosion Control,Under Construction,-96.7769493727987,32.9168772688446
+2012 Bond Program,1011492,TW12S702,Audelia 11601 (Audelia Branch - E. Bank downstream of Audelia Bridge),617700,68651.01,TBD,Erosion Control,Awarded for Construction,-96.718237987988,32.9072209180093
+2012 Bond Program,1011493,TW12S703,Bainbridge 2733,91400,79365.64,TBD,Erosion Control,Under Construction,-96.8647096623025,32.6639187787888
+2012 Bond Program,1011494,TW12S704,Beechmont Dr. 2507,54800,126143.47,TBD,Erosion Control,Under Construction,-96.6861723331412,32.8234738335572
+2012 Bond Program,1011495,TW12S705,Blackstone 2709,114300,229451.54,TBD,Erosion Control,Complete,-96.8629195886291,32.6652051447143
+2012 Bond Program,1011496,TW12S706,Blackstone 2729,91400,215967.38,TBD,Erosion Control,Under Construction,-96.8638428059223,32.6647740347914
+2012 Bond Program,1011497,TW12S707,Blackstone 2745,220500,261630.1,TBD,Erosion Control,Under Construction,-96.8644410702192,32.6644994591554
+2012 Bond Program,1011498,TW12S708,Blue Ridge 3721,123500,126141.1,TBD,Erosion Control,Under Construction,-96.882547046724,32.7004911267348
+2012 Bond Program,1011499,TW12S709,Burninglog 13156,68600,12331.19,TBD,Erosion Control,In Service,-96.7309801874212,32.9184205792133
+2012 Bond Program,1011500,TW12S711,Cavender 445,73100,100283,TBD,Erosion Control,Under Construction,-96.8651561877897,32.7490303262485
+2012 Bond Program,1011501,TW12S710,Caracas 5810 and 5816 (Formerly Caracas 5410 and 5416),171400,318702.11,TBD,Erosion Control,Under Construction,-96.8450947425538,32.6762726276419
+2012 Bond Program,1011502,TW12S712,Cedar Springs 5910,185100,241065.95,TBD,Erosion Control,Under Construction,-96.8318132364065,32.8288537775918
+2012 Bond Program,1011503,TW12S713,Church Road 9233,160000,344114.76,TBD,Erosion Control,Complete,-96.7321931621461,32.8866439735658
+2012 Bond Program,1011504,TW12S714,Clarendon 3435,111200,100978.94,TBD,Erosion Control,Under Construction,-96.8775083362945,32.7351803939414
+2012 Bond Program,1011505,TW12S715,Clubhouse Circle 6523 and 6527,114300,282379.81,11,Erosion Control,Complete,-96.7959070142913,32.9287699652513
+2012 Bond Program,1011506,TW12S717,Country Brook Pond between Park Grove Ln and Quail Hollow Rd,40000,38425.38,12,Erosion Control,Under Construction,-96.8353063398089,33.0000054653696
+2012 Bond Program,1011507,TW12S716,Colorado (W) 705,77700,162714.82,TBD,Erosion Control,Under Construction,-96.8340452189775,32.7590935769364
+2012 Bond Program,1011508,TW12S718,"Deep Hill Circle 2671, 2675, 2679, 2683",553500,772093.15,TBD,Erosion Control,Under Construction,-96.8625393636585,32.6939841146954
+2012 Bond Program,1011509,TW12S719,Dixon Branch at Easton Road,182800,7837.6,TBD,Erosion Control,Canceled/Reprogrammed,-96.701260227946,32.8525449748511
+2012 Bond Program,1011510,TW12S720,Fair Oaks Crossing 8201,114300,529213,TBD,Erosion Control,Under Construction,-96.7306922195203,32.8925067358972
+2012 Bond Program,1011511,TW12S721,Fair Oaks Crossing 8849,285600,280784.18,TBD,Erosion Control,Under Construction,-96.7284440675207,32.8992064271197
+2012 Bond Program,1011512,TW12S722,Five Mile Pkwy W. 922,222400,358596.5,TBD,Erosion Control,Under Construction,-96.837658589212,32.6949810785976
+2012 Bond Program,1011513,TW12S723,Glen Oaks 816,137100,5481.37,,Erosion Control,Remaining To Be Awarded,-96.8354143477817,32.6757106987177
+2012 Bond Program,1011514,TW12S724,Glendale Park Site 1 - Pavilion,68600,132587.95,TBD,Erosion Control,Under Construction,-96.8006155621098,32.6821475497782
+2012 Bond Program,1011515,TW12S725,Glendale Park Site 3 - S. of footbridge,34300,0,TBD,Erosion Control,On Hold,-96.7982960241924,32.6816632434775
+2012 Bond Program,1011516,TW12S726,Glendale Park Site 4 - N. of footbridge,34300,4900,TBD,Erosion Control,Complete,-96.7962052168683,32.681166452977
+2012 Bond Program,1011517,TW12S727,Green Oaks Circle 9032,137100,0,,Erosion Control,Canceled/Reprogrammed,-96.7501287221583,32.8978249454055
+2012 Bond Program,1011518,TW12S728,Greenville Avenue 9320/Vista View 8915,197700,378882.79,TBD,Erosion Control,Under Construction,-96.7486315699682,32.9031562320119
+2012 Bond Program,1011519,TW12S729,Hampton Road (S) 3817,228500,338564.6,TBD,Erosion Control,Under Construction,-96.857186482842,32.6963546278035
+2012 Bond Program,1011520,TW12S730,Harry Moss Park Site 1 - S. of pedestrian bridge,68600,172195.48,TBD,Erosion Control,Under Construction,-96.7526695941004,32.8925778235593
+2012 Bond Program,1011521,TW12S731,Healey 2116 and Kingsman 9869,137100,20641.51,TBD,Erosion Control,Advertised for Construction,-96.6796993302511,32.8244938082365
+2012 Bond Program,1011522,TW12S732,Kalani 6323,79100,0,,Erosion Control,Canceled/Reprogrammed,-96.7975207203936,32.936989548109
+2012 Bond Program,1011523,TW12S733,Kiesthill Drive 3431,222400,246241.55,TBD,Erosion Control,Under Construction,-96.8800666946294,32.7023071948631
+2012 Bond Program,1011524,TW12S734,Kildare 4927,85700,114499.38,TBD,Erosion Control,Remaining To Be Awarded,-96.7941707750819,32.6869013485661
+2012 Bond Program,1011525,TW12S735,Kiltartan 1511,177900,1159829.9,TBD,Erosion Control,Under Construction,-96.6877327490179,32.8243094931637
+2012 Bond Program,1011526,TW12S736,Kiowa Parkway Hike and Bike Trail,82300,140086.46,TBD,Erosion Control,Under Construction,-96.7972790290279,32.9564673382544
+2012 Bond Program,1011527,TW12S737,Lanett Circle N. 10741,142800,334380.87,TBD,Erosion Control,Under Construction,-96.6991319070674,32.8688783776244
+2012 Bond Program,1011528,TW12S738,Langdale Circle 8668 and 8656,285600,934496.16,TBD,Erosion Control,Under Construction,-96.6991709125167,32.8672594517888
+2012 Bond Program,1011529,TW12S739,Lyre Lane 6909 and Chantilly Court 6916,68600,10850.26,TBD,Erosion Control,Under Construction,-96.7405028339959,32.8364000890116
+2012 Bond Program,1011530,TW12S740,Martin Weiss Park Site 1 - Pavilion,68600,135845.78,TBD,Erosion Control,Under Construction,-96.8776716381364,32.7333235489185
+2012 Bond Program,1011531,TW12S741,Martin Weiss Park Site 3 - Pedestrian Bridge,34900,4785.98,TBD,Erosion Control,Canceled/Reprogrammed,-96.8779223975021,32.7338654195173
+2012 Bond Program,1011532,TW12S742,"Mercedes 6607, 6615, 6621",114300,213621.55,TBD,Erosion Control,Under Construction,-96.7462517636683,32.8288059194825
+2012 Bond Program,1011533,TW12S744,"Rocky Branch @ Middle Downs Sites 1, 2, 3, 4",666300,598026.44,TBD,Erosion Control,Under Construction,-96.7335519469235,32.8991019755641
+2012 Bond Program,1011534,TW12S743,Pagewood 10553,29700,9000,TBD,Erosion Control,Remaining To Be Awarded,-96.7833270377703,32.890533681762
+2012 Bond Program,1011535,TW12S745,Rosemont Rd. 7322,114300,277773,TBD,Erosion Control,Under Construction,-96.6957778019088,32.7257669843737
+2012 Bond Program,1011536,TW12S746,Royal Lane 7832 and 7920,493600,644747.38,TBD,Erosion Control,Under Construction,-96.7708352831208,32.8975450268467
+2012 Bond Program,1011537,TW12S747,Royal Lane 9750 (Jackson Branch - E. Bank downstream of Royal Bridge),259400,305061.75,TBD,Erosion Control,Under Construction,-96.7307080986262,32.8938198678531
+2012 Bond Program,1011538,TW12S748,Skillman 7920 (Jackson Branch - E. Bank downstream of Skillman Br),518900,207878.93,TBD,Erosion Control,Under Construction,-96.7318751278206,32.8885734049834
+2012 Bond Program,1011539,TW12S750,Sperry St. 3220,84000,3521.86,TBD,Erosion Control,Canceled/Reprogrammed,-96.7398566115354,32.8266805787062
+2012 Bond Program,1011540,TW12S749,Skillman 8109,163400,501243.06,TBD,Erosion Control,Under Construction,-96.7307050958364,32.8910435502455
+2012 Bond Program,1011541,TW12S751,Spring Grove 13316,74000,188012.31,11,Erosion Control,Awarded for Construction,-96.778271615693,32.9293270317004
+2012 Bond Program,1011542,TW12S752,Spring Valley 8444,297100,426402.35,TBD,Erosion Control,Under Construction,-96.7566217680253,32.9392848265096
+2012 Bond Program,1011543,TW12S753,"Springwater 9204, 9210, 9216",297100,521234.69,TBD,Erosion Control,Under Construction,-96.6969825985407,32.8177433596135
+2012 Bond Program,1011544,TW12S754,Squaw Valley 17628,91400,43461.78,12,Erosion Control,Substantially Completed,-96.7953986917775,32.993065784568
+2012 Bond Program,1011545,TW12S756,Sunland Street 11825,45700,6213.67,TBD,Erosion Control,Canceled/Reprogrammed,-96.6876015928051,32.8573115790752
+2012 Bond Program,1011546,TW12S755,"Summer Creek Circle 6121, 6123, 6125,6127,6139,6141",434200,398748.62,TBD,Erosion Control,Under Construction,-96.7561937303991,32.8629771720549
+2012 Bond Program,1011547,TW12S757,"Tamarack 1745, 1739, 1751",308500,98128.35,TBD,Erosion Control,Under Design,-96.6844862683812,32.8232847404261
+2012 Bond Program,1011548,TW12S758,Tranquilla Dr. 1251,109700,17656.69,TBD,Erosion Control,Under Construction,-96.6983442055466,32.8340765024831
+2012 Bond Program,1011549,TW12S759,Turtle Creek Greenbelt Site 1 - bike trail,222800,305927.15,TBD,Erosion Control,Under Construction,-96.8010814354243,32.8108967560412
+2012 Bond Program,1011550,TW12S760,Twin Creek 9726,123500,900499.06,TBD,Erosion Control,Under Construction,-96.6891780396662,32.8238388216396
+2012 Bond Program,1011551,TW12S761,Twin Falls Park Trail,257100,853948.71,TBD,Erosion Control,Under Construction,-96.8391605849693,32.6722077499811
+2012 Bond Program,1011552,TW12S762,Whitehurst 9727 (Jackson Branch - E. Bank upstream of Whitehurst Br),345900,46215.25,TBD,Erosion Control,Awarded for Construction,-96.7279202185161,32.9015003020473
+2012 Bond Program,1011553,TW12S763,Whitehurst 9730 (Audelia Branch - W. Bank downstream of Whitehurst),444800,377385.41,TBD,Erosion Control,Under Construction,-96.7274299295308,32.9007675707733
+2012 Bond Program,1011554,TW12S764,Wild Oak 2488,148300,172653.24,TBD,Erosion Control,Under Construction,-96.7098653153642,32.799318084974
+2012 Bond Program,1011558,TW12S768,Levee Drainage System - Sump A (Able Pump Station),91700000,71416276.4,TBD,Flood Management,Under Construction,-96.8091660316484,32.7687527324043
+2012 Bond Program,1012949,PB12W262,Love Field West Sidewalk Projects,0,0,02,Sidewalk Improvements,Complete,-96.85420427667,32.8330254625427
+2012 Bond Program,1012950,PB12W263,Oak Lawn Heights Sidewalk Projects,0,267193.4,02,Sidewalk Improvements,Complete,-96.8283565379183,32.8188757403454
+2012 Bond Program,1015669,TW12W093,"10836, 10840, 10844 Meadowcliff Cir",0,0,,,,-96.6955638797971,32.8713512253728
+2024 Bond Program,1019881,MG24YD01,Lancaster-Kiest Branch Library Monument Sign-CDSF-CD4,30000,0,04,CDSF,,-96.7906239510832,32.7147658986037
+2024 Bond Program,1019894,MG24YF01,Clothing Warehouse P,16479,0,02,Fire Department Facilities,Remaining To Be Awarded,-96.7374021516991,32.7846528332572
+2024 Bond Program,1019895,MG24YF02,Courts Building,16479,0,14,City Facilities,Remaining To Be Awarded,-96.7938468389823,32.781724460744
+2024 Bond Program,1019896,MG24YF03,Dallas Courts Garage,16479,0,14,City Facilities,Remaining To Be Awarded,-96.7938468389823,32.781724460744
+2024 Bond Program,1019897,MG24YF04,Fire Maintenance C,16479,0,02,Fire Department Facilities,Remaining To Be Awarded,-96.7374021516991,32.7846528332572
+2024 Bond Program,1019898,MG24YF05,Fire Rookie Bldg B,16479,0,02,Fire Department Facilities,Remaining To Be Awarded,-96.7374021516991,32.7846528332572
+2024 Bond Program,1019907,MG24YD02,Kleberg-Rylie Library,262000,63564.91,08,Library Facilities,Under Construction,-96.6010057478791,32.6864729513547
+2024 Bond Program,1019908,MG24YD03,Lakewood Library,262000,64768.24,14,Design and Construction,Under Construction,-96.753343721441,32.810389697576
+2024 Bond Program,1019909,MG24YD04,Martin Luther King Jr. Library Building C,262000,117323.19,07,Library Facilities,Under Construction,-96.7660525380658,32.770542283411
+2024 Bond Program,1019910,MG24YD05,Mountain Creek Library,262000,88007.82,03,Library Facilities,Awarded for Design,-96.9660704396755,32.6505411170726
+2024 Bond Program,1019911,MG24YD06,North Oak Cliff Replacement - 338 W. 10th St.,16182500,0,01,Library Facilities,,-96.8269661026001,32.7448071024353
+2024 Bond Program,1019912,MG24YD07,Oak Lawn Library,262000,117059.79,14,Library Facilities,Under Construction,-96.812396999975,32.8123806910044
+2024 Bond Program,1019913,MG24YD08,Park Forest Replacement - 3728 High Vista Dr.,16182500,0,13,Library Facilities,,-96.8553355699255,32.9115784352718
+2024 Bond Program,1019914,MG24YD09,Preston Royal Branch Renovation - 5626 Royal Ln. (Match),9039000,0,13,Library Facilities,Remaining To Be Awarded,-96.8112880058037,32.8943690097646
+2024 Bond Program,1019915,MG24YD10,Renner Frankford Library,262000,103414.89,12,Library Facilities,Awarded for Design,-96.7946732394053,32.9977517035618
+2024 Bond Program,1019916,MG24YD11,Skillman Southwestern Library,262000,38008.12,09,Library Facilities,Canceled,-96.7564949279797,32.8577369849178
+2024 Bond Program,1019917,MG24YD12,Skyline Library,262000,0,07,Library Facilities,,-96.6995621410981,32.7847768354511
+2024 Bond Program,1019925,OH24YI08,Electrical upgrades and generator addition at The Bridge,1800000,0,02,Homeless Assistance Facilities,Awarded for Design,-96.7921865934653,32.7757456428145
+2024 Bond Program,1019926,MG24YJ01,City Data Center - 1000 Belleview Street,5000000,0,02,Information Technology Facilities,,-96.7942831797167,32.7686150281877
+2024 Bond Program,1019927,MG24YF41,Fire Station #47,16478,0,06,Fire Department Facilities,Remaining To Be Awarded,-96.8703467359003,32.8150986447062
+2024 Bond Program,1019928,MG24YF42,Fire Station #49,16478,0,03,Fire Department Facilities,Remaining To Be Awarded,-96.8571850064295,32.6852958182838
+2024 Bond Program,1019929,MG24YF43,Fire Station #5 - Foundation,589500,0,05,Fire Department Facilities,Remaining To Be Awarded,-96.6915528355,32.7331400000759
+2024 Bond Program,1019930,MG24YF44,Fire Station #5 - Electrical,52400,0,05,Fire Department Facilities,Remaining To Be Awarded,-96.6569838486559,32.7474241734524
+2024 Bond Program,1019931,MG24YF45,Fire Station #5 - HVAC,16478,0,05,Fire Department Facilities,Remaining To Be Awarded,-96.6915528355,32.7331400000759
+2024 Bond Program,1019932,MG24YF46,Fire Station #50,16478,0,03,Fire Department Facilities,,-96.9196664559123,32.7372388732987
+2024 Bond Program,1019933,MG24YF47,Fire Station #51,16478,0,05,Fire Department Facilities,,-96.6569975998075,32.7103619628995
+2024 Bond Program,1019934,MG24YF48,Fire Station #52 - Structure,786000,0,03,Fire Department Facilities,Remaining To Be Awarded,-96.89130951037,32.7181452148658
+2024 Bond Program,1019935,MG24YF49,Fire Station #52 - HVAC,16478,0,03,Fire Department Facilities,Remaining To Be Awarded,-96.89130951037,32.7181452148658
+2024 Bond Program,1019936,MG24YF50,Fire Station #53,16478,0,07,Fire Department Facilities,,-96.693683168172,32.8071812960464
+2024 Bond Program,1019937,MG24YF51,Fire Station #54,16478,0,08,Fire Department Facilities,,-96.7606803341138,32.6696360750319
+2024 Bond Program,1019938,MG24YF52,Fire Station #55,16478,0,09,Fire Department Facilities,,-96.7465727581475,32.8458108020681
+2024 Bond Program,1019939,MG24YF53,Fire Station #56,16478,0,11,Fire Department Facilities,,-96.7824805814752,32.9499057040744
+2024 Bond Program,1019940,MG24YF54,Fire Station #57,16478,0,10,Fire Department Facilities,,-96.7179607368923,32.8964162956239
+2024 Bond Program,1019941,MG24YF55,Fire Station #6,16478,0,07,Fire Department Facilities,,-96.7720340040591,32.7631678431594
+2024 Bond Program,1019942,MG24YF56,Fire Station #8 - Electrical,52400,0,02,Fire Department Facilities,Remaining To Be Awarded,-96.7764313230936,32.8102368559577
+2024 Bond Program,1019943,MG24YF57,Fire Station #8 - HVAC,16478,0,02,Fire Department Facilities,Remaining To Be Awarded,-96.7764313230936,32.8102368559577
+2024 Bond Program,1019944,MG24YF58,Belleview Garage,1310000,0,02,Police Facilities,Remaining To Be Awarded,-96.7948409567657,32.7686105977029
+2024 Bond Program,1019945,MG24YF59,Central Patrol - Fire System,196500,0,02,Police Facilities,,-96.7783053286535,32.7828143212541
+2024 Bond Program,1019946,MG24YF60,Central Patrol - Restrooms,262000,0,02,Police Facilities,,-96.7783053286535,32.7828143212541
+2024 Bond Program,1019947,MG24YF61,Central Patrol - Electrical,655000,0,02,Police Facilities,,-96.7783053286535,32.7828143212541
+2024 Bond Program,1019948,MG24YF62,Central Patrol - Locker Rooms,655000,0,02,Police Facilities,,-96.7783053286535,32.7828143212541
+2024 Bond Program,1019949,MG24YF63,Dallas Police Training Academy Facility,50000000,369979.5,99,Police Facilities,Under Design,-96.7927345162612,32.661683714616
+2024 Bond Program,1019950,MG24YF64,North Central Patrol - Kitchen,262000,0,12,Police Facilities,,-96.7827542784243,32.9880812956356
+2024 Bond Program,1019951,MG24YF65,North Central Patrol - HVAC,16478,0,12,Police Facilities,,-96.7827542784243,32.9880812956356
+2024 Bond Program,1019952,MG24YF66,North Central Patrol - Interior Upgrades,1965000,0,12,Police Facilities,Remaining To Be Awarded,-96.7827542784243,32.9880812956356
+2024 Bond Program,1019953,MG24YF67,Northeast Patrol - Chiller,655000,0,10,Police Facilities,,-96.7157718156212,32.8629918207729
+2024 Bond Program,1019954,MG24YF68,Northeast Patrol - Showers,655000,0,10,Police Facilities,,-96.7157718156212,32.8629918207729
+2024 Bond Program,1019955,MG24YF69,Property Division,16478,0,07,Police Facilities,Remaining To Be Awarded,-96.7748965520459,32.7791537303601
+2024 Bond Program,1019956,MG24YF70,Quarter Master,16478,0,02,Police Facilities,Remaining To Be Awarded,-96.7940669357625,32.7667203505052
+2024 Bond Program,1019957,MG24YF71,Radio Shop/Communications Building,16478,0,02,Police Facilities,Remaining To Be Awarded,-96.7758068422841,32.7814856442828
+2024 Bond Program,1019958,MG24YF72,South Central PD,16478,0,08,Police Facilities,Remaining To Be Awarded,-96.7882397037055,32.6637660276145
+2024 Bond Program,1019959,MG24YF73,Southeast Patrol - Water/Sewer,262000,0,05,Police Facilities,Remaining To Be Awarded,-96.7003521044352,32.7228627043337
+2024 Bond Program,1019960,MG24YF74,Southeast Patrol - Shower/Locker Room Renovation,655000,0,05,Police Facilities,Remaining To Be Awarded,-96.7003521044352,32.7228627043337
+2024 Bond Program,1019961,MG24YF75,Southwest Police Station,16478,0,03,Police Facilities,Remaining To Be Awarded,-96.8887889575699,32.720297704554
+2024 Bond Program,1019962,MG24YF76,UST Removal and Replacement,1992346,0,99,Police Facilities,Remaining To Be Awarded,-96.7830483577489,32.9886302831328
+2024 Bond Program,1019963,MG24YE01,Annette Strauss Square,575575,0,14,Cultural Arts Facilities,,-96.798855463776,32.7909314259
+2024 Bond Program,1019964,MG24YE02,AT&T Performing Arts Center,881032,0,14,Cultural Arts Facilities,,-96.7981605446118,32.790960759073
+2024 Bond Program,1019965,MG24YE03,Bath House Cultural Center,1474180,0,09,Cultural Arts Facilities,Advertised for Construction,-96.7153709819076,32.8408280542387
+2024 Bond Program,1019966,MG24YE04,Dallas Black Dance Theatre,3127850,0,14,Cultural Arts Facilities,,-96.7943220937439,32.7922962054601
+2024 Bond Program,1019967,MG24YE05,Dallas Museum of Art,20014619,0,14,Cultural Arts Facilities,Under Design,-96.800459273621,32.7874988637439
+2024 Bond Program,1019968,MG24YE06,Kalita Humphreys Theater,8983794,0,14,Cultural Arts Facilities,,-96.8016084082777,32.8115324228594
+2024 Bond Program,1019969,MG24YE07,Latino Cultural Center,4033356,0,14,Cultural Arts Facilities,In Service,-96.7897946963816,32.7876811056277
+2024 Bond Program,1019970,MG24YE08,Majestic Theatre,8344275,0,14,Cultural Arts Facilities,,-96.7951416918882,32.7823590813514
+2024 Bond Program,1019971,MG24YE09,Meyerson Symphony Center,7318996,0,14,Cultural Arts Facilities,Under Design,-96.7986720090561,32.789897298148
+2024 Bond Program,1019972,MG24YE10,Moody Performance Hall,2308979,0,14,Cultural Arts Facilities,,-96.7964504079502,32.7908135180709
+2024 Bond Program,1019973,MG24YE11,Oak Cliff Cultural Center,450000,67282.67,01,Cultural Arts Facilities,Awarded for Design,-96.8257896562708,32.743357678632
+2024 Bond Program,1019974,MG24YE12,Sammons Center for the Arts,3789492,0,02,Cultural Arts Facilities,,-96.8166014409609,32.8001504934636
+2024 Bond Program,1019975,MG24YE13,South Dallas Cultural Center,2276078,0,07,Cultural Arts Facilities,Advertised for Construction,-96.7573599657,32.7714288103003
+2024 Bond Program,1019976,MG24YE14,Winspear Opera House,6614190,838276.5,14,Cultural Arts Facilities,Complete,-96.7976279808268,32.7909876019185
+2024 Bond Program,1019977,MG24YE15,Wyly Theatre,5007584,0,14,Cultural Arts Facilities,Remaining To Be Awarded,-96.7966411185975,32.7900157878051
+2024 Bond Program,1019980,SD24YC33,4126 Maybeth Drainage Relief,132250,0,06,Storm Drainage,Remaining To Be Awarded,-96.9035542554598,32.7927335023455
+2024 Bond Program,1019982,SD24YC35,6231 Pemberton Drainage Relief System,586500,0,13,Storm Drainage,Remaining To Be Awarded,-96.7990951057711,32.8914174523551
+2024 Bond Program,1019989,SD24YC43,Fairglen Dr 8928,132250,0,10,Storm Drainage,Remaining To Be Awarded,-96.7403320561689,32.8836736074438
+2024 Bond Program,1019990,SD24YC44,Glencairn 216,327750,0,08,Storm Drainage,Remaining To Be Awarded,-96.8253992830357,32.6574765184248
+2024 Bond Program,1019991,SD24YC45,Harlandale - Strickland Area,1230500,0,04,Storm Drainage,Remaining To Be Awarded,-96.8103109491179,32.7373263692263
+2024 Bond Program,1019992,SD24YC46,Harry Hines 5323,241500,0,02,Storm Drainage,Remaining To Be Awarded,-96.8388911580298,32.8128617816842
+2024 Bond Program,1019997,SD24YC51,Southwood - Franklin (S) Area,2012500,0,03,Storm Drainage,Remaining To Be Awarded,-96.8598087766163,32.699964457405
+2024 Bond Program,1020000,SD24YC54,Wentwood 7314,241500,0,13,Storm Drainage,Remaining To Be Awarded,-96.7810939815603,32.8633217310814
+2024 Bond Program,1020002,SD24YC56,Yolanda Circle 5636,218500,0,13,Storm Drainage,Remaining To Be Awarded,-96.811192322093,32.8875485645935
+2024 Bond Program,1020003,SD24YC01,11th E 1615,442750,6764,04,Erosion Control,Under Design,-96.7988345054045,32.7471121587637
+2024 Bond Program,1020004,SD24YC02,Audelia Rd 11655 (Building 8 to 10),1489250,6525,10,Erosion Control,Canceled,-96.7195209945852,32.9080131627549
+2024 Bond Program,1020005,SD24YC03,"Claremont 8017, 8023, and 8030",543375,402.31,07,Erosion Control,Under Design,-96.7096671114071,32.7994423564437
+2024 Bond Program,1020006,SD24YC04,Coombs Creek Dr 637,261625,55007.85,01,Erosion Control,Under Design,-96.8772056598079,32.7391839309934
+2024 Bond Program,1020007,SD24YC05,Davenport Road 17911,483000,0,12,Erosion Control,Under Design,-96.7939380125806,32.9945203397314
+2024 Bond Program,1020008,SD24YC06,El Cerrito 2490 & Hunnicut 8181,805000,459.79,07,Erosion Control,Under Design,-96.7050270429145,32.7997230542274
+2024 Bond Program,1020009,SD24YC07,Forston Ave 18503,181125,38622.9,12,Erosion Control,Under Design,-96.7943882728286,33.0028040577379
+2024 Bond Program,1020010,SD24YC08,Glencairn 460,281750,31392.5,08,Erosion Control,Under Design,-96.8288678197761,32.6553487970967
+2024 Bond Program,1020011,SD24YC09,Hampton N 635,241500,21101,01,Erosion Control,Under Design,-96.8570899487755,32.7507992577835
+2024 Bond Program,1020012,SD24YC10,Hillcrest Rd 13059,885500,0,11,Erosion Control,Under Design,-96.7862509615941,32.9267391077678
+2024 Bond Program,1020013,SD24YC11,Jefferson W 2909,281750,51712,01,Erosion Control,Under Design,-96.8685072598632,32.7452386657172
+2024 Bond Program,1020014,SD24YC12,Kiest Valley Parkway @ Kiest Knoll Outfall Protection,264500,13292,03,Erosion Control,Under Design,-96.8817012113821,32.7083158717744
+2024 Bond Program,1020015,SD24YC13,Nutwood Cir. 6402,201250,39962.9,12,Erosion Control,Under Design,-96.7958074738128,32.9903766484526
+2024 Bond Program,1020016,SD24YC14,Outfall at Compton 1203/1205,483000,15027,04,Erosion Control,Under Design,-96.8068585791815,32.7426702257838
+2024 Bond Program,1020017,SD24YC15,Ravinia S. 3338,503125,2318,03,Erosion Control,Under Design,-96.869752430765,32.7020643053475
+2024 Bond Program,1020018,SD24YC16,Sheldon Ave 3303 (Fire Station 26),805000,78244.24,01,Erosion Control,Under Design,-96.8748327281616,32.7448318891464
+2024 Bond Program,1020020,SD24YC18,Wixom Lane 835,201250,0,08,Erosion Control,Under Design,-96.6627646883604,32.6990934202575
+2024 Bond Program,1020023,SD24YC21,2310 Chart Concrete Drainage Channel Repair,546250,0,07,Flood Management,Remaining To Be Awarded,-96.7032429549865,32.8096867880301
+2024 Bond Program,1020026,SD24YC24,Jan Creek Culvert @ Wheatland,1035000,0,08,Flood Management,Remaining To Be Awarded,-96.7939365983978,32.6502310078119
+2024 Bond Program,1020027,SD24YC25,Knights Branch Upper Relief System Study,649750,0,99,Flood Management,Remaining To Be Awarded,-96.8220367408226,32.8367355517727
+2024 Bond Program,1020028,SD24YC26,Military Parkway @ Urbandale Park,575000,0,05,Flood Management,Remaining To Be Awarded,-96.6879877324096,32.7707390637509
+2024 Bond Program,1020030,SD24YC28,Oak Haven Lane 8602,207000,0,08,Flood Management,Remaining To Be Awarded,-96.6720067326732,32.6956110801843
+2024 Bond Program,1020033,MG24YF06,Fire Station #1-Electrical,52400,0,06,Fire Department Facilities,Remaining To Be Awarded,-96.8265892475397,32.7940191517588
+2024 Bond Program,1020034,MG24YF07,Fire Station #1 - HVAC,16479,0,06,Fire Department Facilities,Remaining To Be Awarded,-96.8265892475397,32.7940191517588
+2024 Bond Program,1020035,MG24YF08,Fire Station #11 Renovation - 3828 Cedar Springs Rd,10218000,5000,14,Fire Department Facilities,,-96.8092973818872,32.8103523423443
+2024 Bond Program,1020036,MG24YF09,Fire Station #14 - Electrical,52400,0,01,Fire Department Facilities,Remaining To Be Awarded,-96.8395146510212,32.7413901453309
+2024 Bond Program,1020037,MG24YF10,Fire Station #14 - HVAC,16479,0,01,Fire Department Facilities,Remaining To Be Awarded,-96.8395146510212,32.7413901453309
+2024 Bond Program,1020038,MG24YF11,Fire Station #15,16479,0,01,Fire Department Facilities,Remaining To Be Awarded,-96.8227137501662,32.7481607605154
+2024 Bond Program,1020039,MG24YF12,Fire Station #16 - Electrical,52400,0,06,Fire Department Facilities,Remaining To Be Awarded,-96.9045831796282,32.7752939606744
+2024 Bond Program,1020040,MG24YF13,Fire Station #16 - HVAC,16479,0,06,Fire Department Facilities,,-96.9045831796282,32.7752939606744
+2024 Bond Program,1020041,MG24YF14,Fire Station #18,16479,0,14,Fire Department Facilities,Remaining To Be Awarded,-96.8039187438966,32.7835593629787
+2024 Bond Program,1020042,MG24YF15,Fire Station #20,16479,0,13,Fire Department Facilities,Remaining To Be Awarded,-96.8113288603389,32.9218677872908
+2024 Bond Program,1020043,MG24YF16,Fire Station #23 - Electrical,52400,0,04,Fire Department Facilities,Remaining To Be Awarded,-96.7989329681615,32.7260103161602
+2024 Bond Program,1020044,MG24YF17,Fire Station #23 - HVAC,16479,0,04,Fire Department Facilities,Remaining To Be Awarded,-96.7989329681615,32.7260103161602
+2024 Bond Program,1020045,MG24YF18,Fire Station #24,655000,0,07,Fire Department Facilities,,-96.7575774008499,32.752269038153
+2024 Bond Program,1020047,MG24YF19,Fire Station #25,52400,0,08,Fire Department Facilities,Remaining To Be Awarded,-96.7879941057717,32.684115100186
+2024 Bond Program,1020048,MG24YF20,Fire Station #26 - Electrical,52400,0,01,Fire Department Facilities,Remaining To Be Awarded,-96.8743015933957,32.7441283759621
+2024 Bond Program,1020049,MG24YF21,Fire Station #26 - HVAC,16479,0,01,Fire Department Facilities,Remaining To Be Awarded,-96.8743015933957,32.7441283759621
+2024 Bond Program,1020050,MG24YF22,Fire Station #29 - Electrical,52400,0,10,Fire Department Facilities,Remaining To Be Awarded,-96.7171026395443,32.9167461534625
+2024 Bond Program,1020051,MG24YF23,Fire Station #29 - HVAC,16479,0,10,Fire Department Facilities,,-96.7171026395443,32.9167461534625
+2024 Bond Program,1020052,MG24YF24,Fire Station #3,16479,0,02,Fire Department Facilities,Remaining To Be Awarded,-96.7831090730253,32.7867300121287
+2024 Bond Program,1020053,MG24YF25,Fire Station #30 - Electrical,52400,0,06,Fire Department Facilities,Remaining To Be Awarded,-96.882968528212,32.8946578625533
+2024 Bond Program,1020054,MG24YF26,Fire Station #30 - HVAC,16479,0,06,Fire Department Facilities,,-96.882968528212,32.8946578625533
+2024 Bond Program,1020055,MG24YF27,Fire Station #31,16479,0,09,Fire Department Facilities,Remaining To Be Awarded,-96.7040280186471,32.8324590281084
+2024 Bond Program,1020056,MG24YF28,Fire Station #32,16479,0,05,Fire Department Facilities,Remaining To Be Awarded,-96.6999445877005,32.774249973043
+2024 Bond Program,1020057,MG24YF29,Fire Station #34 - Electrical,52400,0,05,Fire Department Facilities,Remaining To Be Awarded,-96.6915528355,32.7331400000759
+2024 Bond Program,1020058,MG24YF30,Fire Station #34 - HVAC,16479,0,05,Fire Department Facilities,,-96.6915528355,32.7331400000759
+2024 Bond Program,1020059,MG24YF31,Fire Station #36,16479,0,06,Fire Department Facilities,Remaining To Be Awarded,-96.8588736470488,32.7785817043211
+2024 Bond Program,1020060,MG24YF32,Fire Station #37,16479,0,13,Fire Department Facilities,Remaining To Be Awarded,-96.7665137503058,32.8682333529231
+2024 Bond Program,1020061,MG24YF33,Fire Station #39 - Electrical,52400,0,09,Fire Department Facilities,Remaining To Be Awarded,-96.6669673028861,32.8454067039701
+2024 Bond Program,1020062,MG24YF34,Fire Station #39 - HVAC,16479,0,09,Fire Department Facilities,Remaining To Be Awarded,-96.6669673028861,32.8454067039701
+2024 Bond Program,1020063,MG24YF35,Fire Station #4- Electrical,52400,0,02,Fire Department Facilities,Remaining To Be Awarded,-96.7966121796945,32.7744722088495
+2024 Bond Program,1020064,MG24YF36,Fire Station #4- HVAC,16478,0,02,Fire Department Facilities,Remaining To Be Awarded,-96.7966121796945,32.7744722088495
+2024 Bond Program,1020065,MG24YF37,Fire Station #43 Replacement - 2844 Lombardy Ln,16768000,10268.45,06,Fire Department Facilities,Remaining To Be Awarded,-96.877717123964,32.8660402357421
+2024 Bond Program,1020066,MG24YF38,Fire Station #44,16478,0,07,Fire Department Facilities,Remaining To Be Awarded,-96.7518509620724,32.7763421655581
+2024 Bond Program,1020067,MG24YF39,Fire Station #45,16478,0,06,Fire Department Facilities,Remaining To Be Awarded,-96.8349965281965,32.7729387047123
+2024 Bond Program,1020068,MG24YF40,Fire Station #46,52400,0,03,Fire Department Facilities,Remaining To Be Awarded,-96.818432057816,32.6624252960948
+2024 Bond Program,1020334,PK24YB48,Old City Park - Site Development (CD2),1000000,0,02,CDSF,,-96.7883313563326,32.7733945037988
+2024 Bond Program,1020335,PK24YB49,Old City Park - Blum House (CD2),500000,0,02,CDSF,Awarded for Design,-96.7883313563326,32.7733945037988
+2024 Bond Program,1020336,PK24YB50,Old City Park - Site Development (Mayor),1000000,0,02,CDSF,,-96.7883313563326,32.7733945037988
+2024 Bond Program,1020337,PK24YB51,Orbiter Park - Site Improvements,700000,0,10,CDSF,,-96.761921513045,32.8987265201987
+2024 Bond Program,1020338,PK24YB52,Parkland Acquisition - Site Development,175000,0,01,CDSF,,-96.7969610222013,32.7763800686455
+2024 Bond Program,1020339,PK24YB53,City (Pauper's) Cemetary - Sign Design,10000,0,06,CDSF,Remaining To Be Awarded,-96.8876954112538,32.869536894172
+2024 Bond Program,1020340,PK24YB54,Pueblo Park (CD6) - Fence Replacement,20000,0,06,CDSF,Remaining To Be Awarded,-96.8324438101179,32.7807802029157
+2024 Bond Program,1020341,PK24YB55,"Pueblo Park (CD6) - Electrical, Lighting",65000,0,06,CDSF,Remaining To Be Awarded,-96.8324438101179,32.7807802029157
+2024 Bond Program,1020342,PK24YB56,Pueblo Park (CD6) - Park Furnishings Pckg,48000,0,06,CDSF,Remaining To Be Awarded,-96.8324438101179,32.7807802029157
+2024 Bond Program,1020343,PK24YB57,Roland G Parrish Park - Site Development,3110000,0,04,CDSF,,-96.7877064059723,32.7420848019202
+2024 Bond Program,1020344,PK24YB58,Rosemeade Park - Youth Sports Complex,5000000,0,12,CDSF,,-96.8530448890112,33.0090213139211
+2024 Bond Program,1020345,PK24YB59,Ruthmeade Park - Playground Enhancements,125000,0,01,CDSF,Remaining To Be Awarded,-96.8347146391045,32.7368735933112
+2024 Bond Program,1020346,PK24YB60,Santa Fe Trail - Master Plan Development,250000,0,"09,02,14",CDSF,,-96.7522152581492,32.8010323164033
+2024 Bond Program,1020347,PK24YB61,Santos Rodriguez Recreation Center - Improvements,1000000,0,02,CDSF,Remaining To Be Awarded,-96.8096786427293,32.7932774877812
+2024 Bond Program,1020348,PK24YB62,Singing Hills Recreation Center - Aquatics Upgrades,4000000,0,08,CDSF,Remaining To Be Awarded,-96.7898319211003,32.667653852065
+2024 Bond Program,1020349,PK24YB63,St. Augustine Park - Parking Lot,300000,0,05,CDSF,Under Construction,-96.6531605949754,32.7386720614223
+2024 Bond Program,1020350,PK24YB64,Stafford Park - Sign ID,6500,0,06,CDSF,Complete,-96.8395641337059,32.7707776074036
+2024 Bond Program,1020351,PK24YB65,Tama Park - Equipment Repair,20000,0,04,CDSF,Remaining To Be Awarded,-96.8039292119228,32.7449330993465
+2024 Bond Program,1020352,PK24YB66,Preston Hollow Park - Pavilion (Renovate or Replace),125000,0,13,CDSF,,-96.7909396690147,32.873063019107
+2024 Bond Program,1020353,PK24YB67,The Bottom District Park (501 Sparks) - Site Dvlpmnt,80000,0,04,CDSF,Remaining To Be Awarded,-96.8048576551062,32.7546707632313
+2024 Bond Program,1020354,PK24YB68,Thurgood Marshall Park - Site Development,1000000,113701.68,03,CDSF,Under Construction,-96.8536081861411,32.6839975829849
+2024 Bond Program,1020355,PK24YB69,Tipton Park - Security Cameras,45000,0,06,CDSF,,-96.8791469396875,32.788250839144
+2024 Bond Program,1020356,PK24YB70,Tipton Park/Bernal Creek (CD6) - Park Furnishings Pckg,60000,0,06,CDSF,Remaining To Be Awarded,-96.8791469396875,32.788250839144
+2024 Bond Program,1020357,PK24YB71,Tipton Park/Bernal Creek (CD6) - Connecting Walkways,41000,0,06,CDSF,Remaining To Be Awarded,-96.8791469396875,32.788250839144
+2024 Bond Program,1020358,PK24YB72,Trail Connectivity and Park Site Dvlpmnt,500000,0,02,CDSF,,-96.7969610222013,32.7763800686455
+2024 Bond Program,1020359,PK24YB73,Turtle Creek Parkway - Dredging/Erosion Control,1000000,0,14,CDSF,,-96.801311384305,32.8115329074126
+2024 Bond Program,1020360,PK24YB74,White Rock Hills Rec Ctr Dev,500000,0,02,CDSF,Awarded for Design,-96.7142972131904,32.8031433983132
+2024 Bond Program,1020361,PK24YB75,Willis C. Winters Park - Flag Pole,20000,0,14,CDSF,,-96.7513403948432,32.8038645891849
+2024 Bond Program,1020362,PK24YB76,Bushman Park â€“ Site Development,20000,0,04,CDSF,Remaining To Be Awarded,-96.7721678155922,32.7084481982973
+2024 Bond Program,1020363,PK24YB77,Buckner Forney Rec Ctr (New),1000000,0,07,Park Land Acquisition,Remaining To Be Awarded,-96.682731013555,32.7781206431762
+2024 Bond Program,1020364,PK24YB78,Multi-Use Facility -Pickleball - 12000 Grnvll Ave,1300000,0,10,Multi-Departmental Shared Use Facilities,,-96.7432515652846,32.9121134831633
+2024 Bond Program,1020365,PK24YB79,"Martin Luther King, Jr. â€“ Cmps Renv (Facilities Prp)",9500000,0,07,Multi-Departmental Shared Use Facilities,Remaining To Be Awarded,-96.7659533394119,32.7688768436357
+2024 Bond Program,1020366,PK24YB80,Dallas Arboretum -Upgrades Multiple Buildings,4000000,0,09,Partnership Matches (Large Matches),,-96.7166656476392,32.8230721767892
+2024 Bond Program,1020367,PK24YK14,Frances Rizo Park- Security Lighting,137000,0,06,Playgrounds,,-96.9063700750837,32.770981497788
+2024 Bond Program,1020368,PK24YB81,"Dallas Water Commons - Dvlpmnt; Recr Acc; SMART City, CECAP",3000000,0,02,Partnership Matches (Large Matches),,-96.7944519666994,32.7614779563375
+2024 Bond Program,1020369,PK24YB82,Dallas Zoo - Safari Trail Habitat and Security Enhancements,26500000,0,04,Partnership Matches (Large Matches),Under Design,-96.8152002820683,32.738038118189
+2024 Bond Program,1020370,PK24YB83,"Fair Park - AAM; MH, Tx DG; C Aq; Public Safety, Prkng Impr",5000000,823996.5,07,Partnership Matches (Large Matches),,-96.7592969782726,32.7782993137154
+2024 Bond Program,1020371,PK24YB84,Five Mile Creek Greenbelt Master Plan Impl Kessler Plan,7000000,38624.34,"04,03",Partnership Matches (Large Matches),,-96.832464099594,32.6931076558735
+2024 Bond Program,1020372,PK24YB85,Katy Trail - Fairmount/Maple Entr (New); Knox to Harvard Trl,1000000,0,"02,14",Partnership Matches (Large Matches),,-96.7978790322237,32.8131584276456
+2024 Bond Program,1020373,PK24YB86,Klyde Warren Park - Phase II Implementation (Match),4500000,0,14,Partnership Matches (Large Matches),Remaining To Be Awarded,-96.8015838672204,32.7893948766715
+2024 Bond Program,1020374,PK24YB87,Southern Gateway - Deck Park Dvlpmnt Phase II,15000000,0,"01,04",Partnership Matches (Large Matches),,-96.8141220324285,32.7446251734231
+2024 Bond Program,1020375,PK24YB88,Trinity River Audubon Center - Master Plan Imprvmnts,3000000,0,08,Partnership Matches (Large Matches),,-96.705465549513,32.705598830486
+2024 Bond Program,1020376,PK24YB89,Turtle Creek Park Trl - Con Katy Trl; Ntr Tls; AH Rf; ErCtrl,1500000,0,14,Partnership Matches (Large Matches),,-96.8023195933741,32.807942813368
+2024 Bond Program,1020377,PK24YB90,Match/Community Partner (CW),1000000,0,99,Partnership Matches (Small Matches),,-96.7969610222013,32.7763800686455
+2024 Bond Program,1020378,PK24YB91,Herndon Park - Site Improvements,750000,0,04,Pedestrian Bridge Replacements,Awarded for Design,-96.8187445691668,32.7242203769992
+2024 Bond Program,1020379,PK24YB92,"R.P. Brooks Park - Site Imrpvts - ERC; Sdwlk, Abtmnt Imrpvts",750000,0,10,Pedestrian Bridge Replacements,Remaining To Be Awarded,-96.7401506724611,32.8704870864698
+2024 Bond Program,1020380,PK24YB93,Apache Park - Playground (New),300000,0,05,Playgrounds,,-96.6535152509195,32.7222628960413
+2024 Bond Program,1020381,PK24YB94,Arden Terrace Park - Playground Replacement,300000,0,08,Playgrounds,,-96.7746440947027,32.6834473347428
+2024 Bond Program,1020412,PB24Y051,Irving Blvd (SH356) Over Elm Fork Trinity River,24750000,0,06,Bridge Repair and Modification,Under Design,-96.9063290383527,32.8090885420553
+2024 Bond Program,1020413,PB24Y052,Malcolm X Over DART,12750000,0,07,Bridge Repair and Modification,Under Design,-96.7759561524764,32.775877312539
+2024 Bond Program,1020420,PB24Y060,White Rock Trail Project - CDSF Project-CD9 (Prop A),500000,0,09,Pedestrian Walkway,,-96.7290900425902,32.8334795167045
+2024 Bond Program,1020480,PK24YB95,Arlington Park - Playground Replacement,300000,0,02,Playgrounds,Remaining To Be Awarded,-96.8577999134436,32.8176003773901
+2024 Bond Program,1020481,PK24YB96,Bachman Lake - Playground Replacement,750000,0,06,Playgrounds,Remaining To Be Awarded,-96.8668998752073,32.8538793015208
+2024 Bond Program,1020482,PK24YB97,Barry H. Barker Park - Playground Replacement,300000,0,12,Playgrounds,,-96.850390791496,32.9944424239594
+2024 Bond Program,1020483,PK24YB98,Bel Aire Park - Playground Replacement,200000,0,09,Playgrounds,,-96.7014433895729,32.8581419447216
+2024 Bond Program,1020484,PK24YB99,Benito Jaurez Parque De Heroes - Park Furnishings Pkg,25000,22233,06,Playgrounds,Remaining To Be Awarded,-96.8385591412832,32.7828465735544
+2024 Bond Program,1020485,PK24YK01,Bent Tree Meadow Park - Playground Replacement,300000,0,12,Playgrounds,Under Design,-96.8368351415963,32.9947647488552
+2024 Bond Program,1020486,PK24YK02,Bitter Creek Park - Playground Replacement,300000,0,05,Playgrounds,,-96.6439573556089,32.7274633820666
+2024 Bond Program,1020487,PK24YK03,Campbell Green Park  - Playground Replacement (Large),750000,0,12,Playgrounds,Design Completed,-96.787164367833,32.9775168616227
+2024 Bond Program,1020488,PK24YK04,Casa View Park - Playground Replacement,200000,0,09,Playgrounds,Under Design,-96.6748341398483,32.8468259984477
+2024 Bond Program,1020489,PK24YK05,Cochran Park - Playground Replacement,300000,0,14,Playgrounds,,-96.7822289588337,32.8167920444685
+2024 Bond Program,1020490,PK24YK06,Cole Park - Playground Replacement,300000,0,14,Playgrounds,,-96.7934144457092,32.8131721368583
+2024 Bond Program,1020491,PK24YK07,Cotillion Park - Playground Replacement,300000,0,09,Playgrounds,,-96.6552864435671,32.8446572846807
+2024 Bond Program,1020492,PK24YK08,Cottonwood Park - Playground Replacement,300000,0,11,Playgrounds,Remaining To Be Awarded,-96.7584060597682,32.935492861522
+2024 Bond Program,1020493,PK24YB01,Bachman Lake Trail - Trail Connectivity,250000,0,06,Agency Matches,,-96.8668998752073,32.8538793015208
+2024 Bond Program,1020494,PK24YK09,Crestline Park - Playground Replacement,300000,0,13,Playgrounds,,-96.8342525764207,32.9156351726374
+2024 Bond Program,1020495,PK24YK10,Cummings Park - Playground Replacement,300000,0,04,Playgrounds,Remaining To Be Awarded,-96.770756479009,32.6988340815275
+2024 Bond Program,1020496,PK24YK11,Emerald Lake Park - Playground Replacement,300000,0,03,Playgrounds,,-96.965677133973,32.6540752306962
+2024 Bond Program,1020497,PK24YK12,Everglade Park - Playground Replacement,750000,0,07,Playgrounds,Remaining To Be Awarded,-96.6989908076702,32.7869970034503
+2024 Bond Program,1020498,PK24YK13,Frances Rizo Park - Add Shade Structure,60000,0,06,Playgrounds,,-96.9063700750837,32.770981497788
+2024 Bond Program,1020499,PK24YK15,"Frances Rizo Park - Half Basketball Court, Benches, Grills",63000,0,06,Playgrounds,,-96.9063700750837,32.770981497788
+2024 Bond Program,1020500,PK24YK16,Frankford Park - Playground Replacement,300000,0,12,Playgrounds,Under Design,-96.7848468865454,33.0005025522268
+2024 Bond Program,1020501,PK24YB02,Match/DISD/Dallas College (CW),4000000,0,99,Agency Matches,,-96.7969610222013,32.7763800686455
+2024 Bond Program,1020502,PK24YK17,Gateway Park - Playground Replacement,300000,0,05,Playgrounds,,-96.7029383210214,32.7558867923464
+2024 Bond Program,1020503,PK24YK18,Guard Park - Playground Shade Structure,400000,0,05,Playgrounds,Remaining To Be Awarded,-96.7111637422153,32.7369935634176
+2024 Bond Program,1020504,PK24YK19,Herndon Park - Shade Structure Replacement,200000,0,04,Playgrounds,,-96.8187445691668,32.7242203769992
+2024 Bond Program,1020505,PK24YK20,Jaycee Zaragoza Park - Playground Replacement,1000000,0,06,Playgrounds,,-96.9074721548474,32.7802605442601
+2024 Bond Program,1020506,PK24YB03,Match/Greening Czar Parks (CW),1000000,0,99,Agency Matches,,-96.7969610222013,32.7763800686455
+2024 Bond Program,1020507,PK24YK21,K.B. Polk Park - Add Paviolion,250000,0,02,Playgrounds,,-96.8304639476577,32.8414213901029
+2024 Bond Program,1020508,PK24YK22,Kiest Park - Playground Replacement,750000,0,04,Playgrounds,,-96.8528151851954,32.7100244026504
+2024 Bond Program,1020509,PK24YK23,Kiowa Parkway - Playground Replacement,300000,0,11,Playgrounds,,-96.7978590659923,32.9535559491806
+2024 Bond Program,1020510,PK24YB04,Match/UNT Dallas Athletic Complex (CW),1000000,0,08,Agency Matches,,-96.8032294031974,32.6608455955577
+2024 Bond Program,1020511,PK24YK24,Ledbetter Eagle Ford Park - Eqpt Replacement,150000,0,06,Playgrounds,,-96.8977847947623,32.7902830086398
+2024 Bond Program,1020512,PK24YK25,Maria Luna Park - Playground Replacement,300000,0,02,Playgrounds,,-96.823174130883,32.8123647083935
+2024 Bond Program,1020513,PK24YK26,Mildred L. Dunn Park - Shade Structure Over Playground (PIP),150000,0,07,Playgrounds,,-96.7496170097946,32.7641995154275
+2024 Bond Program,1020514,PK24YK27,Mountain Valley Park - Playground Replacement,300000,0,03,Playgrounds,,-96.9299474789087,32.7300144966725
+2024 Bond Program,1020515,PK24YK28,Orbiter Park - Playground (New),300000,0,10,Playgrounds,Remaining To Be Awarded,-96.761921513045,32.8987265201987
+2024 Bond Program,1020516,PK24YK29,Overlake Park - Playground Replacement,300000,0,06,Playgrounds,,-96.8723348628679,32.8600434560407
+2024 Bond Program,1020517,PK24YK30,Pagewood Park - Playground (North End),300000,0,11,Playgrounds,,-96.7787442861855,32.8935059388026
+2024 Bond Program,1020518,PK24YB05,White Rock Lake - Dredging (Corps),20000000,0,09,Agency Matches,Remaining To Be Awarded,-96.7243331950593,32.8545035932268
+2024 Bond Program,1020519,PK24YK31,Peary Park - Playground Replacement,300000,0,07,Playgrounds,,-96.7467395519704,32.7525227838112
+2024 Bond Program,1020520,PK24YK32,Pointer Park - Playground (New),300000,0,06,Playgrounds,,-96.86919597415,32.7914956506971
+2024 Bond Program,1020521,PK24YK33,Preston Hollow Park - Playground Replacement,300000,0,13,Playgrounds,,-96.7912227386152,32.8728525942293
+2024 Bond Program,1020522,PK24YK34,Sleepy Hollow Park - Playground Replacement,300000,0,02,Playgrounds,,-96.8625458670992,32.8139936803332
+2024 Bond Program,1020523,PK24YB06,"Bachman Parking Lot (Aquatics, Skate Park)",1500000,0,06,Aquatics,Remaining To Be Awarded,-96.8668998752073,32.8538793015208
+2024 Bond Program,1020524,PK24YK35,South Central Park - Playground Expansion,200000,0,07,Playgrounds,,-96.7437078576591,32.7176185801327
+2024 Bond Program,1020525,PK24YK36,Stafford Park â€“ Playground Replacement,300000,0,06,Playgrounds,Remaining To Be Awarded,-96.8395641337059,32.7707776074036
+2024 Bond Program,1020526,PK24YK37,Stevens Park - Playground Replacement,300000,0,01,Playgrounds,,-96.8576036492783,32.7545949830302
+2024 Bond Program,1020527,PK24YK38,D7 (Park B) - Playground Replacement (TBD),300000,0,07,Playgrounds,,-96.7969610222013,32.7763800686455
+2024 Bond Program,1020528,PK24YK39,Tietze Park - Playground Replacement,300000,0,14,Playgrounds,,-96.7608174668985,32.8234431724714
+2024 Bond Program,1020529,PK24YB07,Community Pools (TBD) (CD8 Prj),1000000,0,08,Aquatics,Remaining To Be Awarded,-96.796959813934,32.7763813328409
+2024 Bond Program,1020530,PK24YK40,Timberglen Park - Playground Replacement,300000,0,12,Playgrounds,,-96.8470909375677,33.0035563007844
+2024 Bond Program,1020531,PK24YK41,Walnut Hill Park - Playground Replacement,300000,0,13,Playgrounds,,-96.8396067000497,32.8813043412844
+2024 Bond Program,1020532,PK24YB08,"Jaycee Zaragoza Park - Comm Pool (Rpl). Add Pool Blg, IT",4500000,0,06,Aquatics,Remaining To Be Awarded,-96.9074721548474,32.7802605442601
+2024 Bond Program,1020533,PK24YB09,"Pleasant Oaks Comm Pool - (Rpl). Add Pool Blg, IT",1000000,0,05,Aquatics,Remaining To Be Awarded,-96.6720120355655,32.7516933159002
+2024 Bond Program,1020534,PK24YB10,Gateway Park- Parking Area and Entrance,550000,0,05,Athletic Field Development / Improvement,Remaining To Be Awarded,-96.7029383210214,32.7558867923464
+2024 Bond Program,1020535,PK24YB11,"Jaycee Zaragoza Park - Softball Field Renovations, Fencing",335000,0,06,Athletic Field Development / Improvement,,-96.9074721548474,32.7802605442601
+2024 Bond Program,1020536,PK24YB12,Nash Davis Park - Soccer Pitch (New),450000,0,06,Athletic Field Development / Improvement,,-96.8548705646453,32.787912044297
+2024 Bond Program,1020537,PK24YB13,Taylor Fields - Athletic Field Development,2500000,0,02,Athletic Field Development / Improvement,Remaining To Be Awarded,-96.7844794727643,32.7798314152655
+2024 Bond Program,1020538,PK24YB14,Wheatland Park - Develop Football Complex (New),1000000,0,08,Athletic Field Development / Improvement,Remaining To Be Awarded,-96.8514495369415,32.6498166830145
+2024 Bond Program,1020539,PK24YB15,Site Improvements - 12000 Greenville,500000,0,10,CDSF,Remaining To Be Awarded,-96.7432509242719,32.9121137248568
+2024 Bond Program,1020540,PK24YB16,Abrams Triangle Park - Monuments,60000,0,14,CDSF,Under Construction,-96.7553330201277,32.8052574238844
+2024 Bond Program,1020541,PK24YB17,Bachman Lake Park - Shade Structure and PIP Surfacing,750000,0,06,CDSF,,-96.8668998752073,32.8538793015208
+2024 Bond Program,1020542,PK24YB18,Bickers Park - Park Furnishings Package,45000,0,06,CDSF,Under Construction,-96.8433352970639,32.7872949911899
+2024 Bond Program,1020543,PK24YB19,Bitter Creek Park Trail,600000,0,05,CDSF,Remaining To Be Awarded,-96.6439573556089,32.7274633820666
+2024 Bond Program,1020544,PK24YB20,Bushmills - Park Site Improvements,300000,0,10,CDSF,Remaining To Be Awarded,-96.7067404532309,32.9118281501754
+2024 Bond Program,1020545,PK24YB21,Cedar Crest Golf Course - Facility Improvements,1000000,0,04,CDSF,,-96.7930770475953,32.722946632161
+2024 Bond Program,1020546,PK24YB22,Craddock Park - Shade Structure,20000,0,14,CDSF,Under Design,-96.8160739657522,32.8194353134066
+2024 Bond Program,1020547,PK24YB23,Dallas Cultural Trail - Development,250000,0,02,CDSF,,-96.7817178823724,32.7850148098051
+2024 Bond Program,1020548,PK24YB24,Dallas Water Commons - Phase II Completion,250000,0,02,CDSF,Remaining To Be Awarded,-96.7944519666994,32.7614779563375
+2024 Bond Program,1020549,PK24YB25,Dallas Zoo (CD4),500000,0,04,CDSF,,-96.8152002820683,32.738038118189
+2024 Bond Program,1020550,PK24YB26,Dallas Zoo (Mayor) - Site Development,3000000,0,04,CDSF,,-96.8152002820683,32.738038118189
+2024 Bond Program,1020551,PK24YB27,Elmwood Parkway - Playground Enhancements,125000,0,01,CDSF,,-96.8479606035775,32.7268828122506
+2024 Bond Program,1020552,PK24YB28,"Emma Carter Park - Playground Rplcmt, Shade Structure",351500,0,06,CDSF,Remaining To Be Awarded,-96.8916757138026,32.7930753429164
+2024 Bond Program,1020553,PK24YB29,Exall Park - Playground,300000,0,14,CDSF,,-96.7850789855651,32.7932433305361
+2024 Bond Program,1020554,PK24YB30,Fruitdale Park - Site Development,30000,0,04,CDSF,Remaining To Be Awarded,-96.7599864653228,32.709487908779
+2024 Bond Program,1020555,PK24YB31,Glendale Park (CD3)- Site Development,1000000,0,03,CDSF,Under Construction,-96.7969316522966,32.6821999606766
+2024 Bond Program,1020556,PK24YB32,Glendale Park (CD3) -Land Acq and Site Development,50000,0,03,CDSF,Remaining To Be Awarded,-96.7969316522966,32.6821999606766
+2024 Bond Program,1020557,PK24YB33,Guard Park - Parking Lot,300000,0,05,CDSF,Remaining To Be Awarded,-96.7111637422153,32.7369935634176
+2024 Bond Program,1020558,PK24YB34,Hamilton Park - Tennis Court Repairs,75000,0,10,CDSF,,-96.7645575614648,32.9171079182321
+2024 Bond Program,1020559,PK24YB35,Harry S. Moss Park - Pavilion,425000,0,10,CDSF,,-96.7512300360942,32.8872627288521
+2024 Bond Program,1020560,PK24YB36,Hattie R. Moore Park - Park Furnishings Pckg,48000,0,06,CDSF,Remaining To Be Awarded,-96.8388485576464,32.7804124590321
+2024 Bond Program,1020561,PK24YB38,Helen C. Emory Park,48000,0,06,CDSF,Remaining To Be Awarded,-96.8373556332947,32.7755158195456
+2024 Bond Program,1020562,PK24YB37,Helen C. Emory Park - Playground Replacement,300000,0,06,CDSF,Remaining To Be Awarded,-96.8373556332947,32.7755158195456
+2024 Bond Program,1020563,PK24YB39,Helen C. Emory Park - Park Furnishings Pckg,42000,0,06,CDSF,Remaining To Be Awarded,-96.8373556332947,32.7755158195456
+2024 Bond Program,1020564,PK24YB40,"Hiawatha Williams Rec Ctr - Fac Upgrds, Mem. Art Dedication",80000,0,04,CDSF,,-96.770756479009,32.6988340815275
+2024 Bond Program,1020565,PK24YB41,"Jaycee Zaragoza Rec Ctr - Kitchen, Sr Serving Area Rehab",120000,0,06,CDSF,Remaining To Be Awarded,-96.9074721548474,32.7802605442601
+2024 Bond Program,1020566,PK24YB42,K.B. Polk Recreation Center - Community Garden,250000,0,02,CDSF,Remaining To Be Awarded,-96.8304639476577,32.8414213901029
+2024 Bond Program,1020567,PK24YB43,Kidd Springs Park - Shade Structure,75000,0,01,CDSF,,-96.8345374140511,32.7537487538179
+2024 Bond Program,1020568,PK24YB44,Kiest Conservation Area - Bridge Repair,30000,0,04,CDSF,Remaining To Be Awarded,-96.8527297512127,32.7038290461467
+2024 Bond Program,1020569,PK24YB46,Klyde Warren Park - Site Development (Mayor),1000000,0,14,CDSF,Remaining To Be Awarded,-96.8015838672204,32.7893948766715
+2024 Bond Program,1020570,PK24YB45,Klyde Warren Park - Site Development (CD14),1000000,0,14,CDSF,Remaining To Be Awarded,-96.8015838672204,32.7893948766715
+2024 Bond Program,1020571,PK24YB47,McCree Park - Site Improvements (CD10),500000,0,10,CDSF,Remaining To Be Awarded,-96.699473660588,32.8703759772088
+2024 Bond Program,1020648,PK24YK42,West Trinity Heights Park - Playground (New),300000,0,04,Playgrounds,,-96.8092963733368,32.7244539338018
+2024 Bond Program,1020649,PK24YK43,White Rock Lake - Playground Replacements (WRL; Winsted),300000,0,09,Playgrounds,,-96.7243331950593,32.8545035932268
+2024 Bond Program,1020650,PK24YK44,William Blair Jr. Park - Playground Replacement,300000,0,07,Playgrounds,,-96.7439663486575,32.7434857348602
+2024 Bond Program,1020651,PK24YK45,Willis C. Winters Park - Playground Replacement,300000,0,14,Playgrounds,,-96.7513403948432,32.8038645891849
+2024 Bond Program,1020652,PK24YK46,Arcadia Recreation Ctr- Inter Upgrades- Safety and Security,768670,26060.25,03,Recreation Center,Under Design,-96.9140620144198,32.7430730401279
+2024 Bond Program,1020653,PK24YK47,Arlington Recreation Center - Safety and Security,1089065,0,02,Recreation Center,Remaining To Be Awarded,-96.8577999134436,32.8176003773901
+2024 Bond Program,1020654,PK24YK48,Bachman Recreation Center - Auditorium Renovations,1500000,0,06,Recreation Center,,-96.8668998752073,32.8538793015208
+2024 Bond Program,1020655,PK24YK49,Campbell Green Rec Ctr- Inter Upgrades- Safety and Security,1564018,0,12,Recreation Center,Design Completed,-96.787164367833,32.9775168616227
+2024 Bond Program,1020656,PK24YK50,Campbell Green Recreation Ctr - Mjr Renovation/Replacement,7000000,0,12,Recreation Center,Design Completed,-96.787164367833,32.9775168616227
+2024 Bond Program,1020657,PK24YK51,Eloise Lundy Rec Cntr â¿¿ Inter Upgrds  Safety and Security,1360431,43973.25,04,Recreation Center,Under Design,-96.806295708767,32.7560442680623
+2024 Bond Program,1020658,PK24YK52,"Exall Park Rec Cntr - Demo (New); Splash Pad, Sr Ctr",17660000,387131.4,14,Recreation Center,Under Design,-96.7850789855651,32.7932433305361
+2024 Bond Program,1020659,PK24YK53,Hattie R. Moore Park- Anita Martinez Rec Ctr - HVAC Rplcmnt,1500000,0,06,Recreation Center,,-96.8388485576464,32.7804124590321
+2024 Bond Program,1020660,PK24YK54,John C. Phelps Rec Ctr- Inter Upgrades- Safety and Security,1154555,118845.73,04,Recreation Center,Design Completed,-96.7726162568906,32.7226125478892
+2024 Bond Program,1020661,PK24YK55,K.B. Polk Rec Ctr- Inter Upgrades- Safety and Security,1112792,0,02,Recreation Center,,-96.8304639476577,32.8414213901029
+2024 Bond Program,1020662,PK24YK56,Kiest Rec Ctr- Inter Upgrades- Safety and Security,1873306,189800.57,04,Recreation Center,Design Completed,-96.8528151851954,32.7100244026504
+2024 Bond Program,1020663,PK24YK57,Marcus Park - Renovation (Major),4000000,96798.72,13,Recreation Center,Remaining To Be Awarded,-96.878726810522,32.9059343953242
+2024 Bond Program,1020664,PK24YK58,Martin Weiss Rec Cntr - Gym/Multi-Purpose/Entry Add (New),9000000,33750,01,Recreation Center,Remaining To Be Awarded,-96.8773053429785,32.7332003659435
+2024 Bond Program,1020665,PK24YK60,Reverchon Rec Ctr- Inter Upgrades- Safety and Security,1296086,0,02,Recreation Center,Under Design,-96.8128365772732,32.8003321012337
+2024 Bond Program,1020666,PK24YK61,Tommie M. Allen Rec Ctr- Inter Upgrades- Safety and Security,862084,72173.5,08,Recreation Center,Design Completed,-96.7530678621875,32.659471553952
+2024 Bond Program,1020667,PK24YK62,"Trinity River Audubon Cntr - Inter Strt Remodel, Ext Ex Rmdl",1500000,0,08,Recreation Center,,-96.705465549513,32.705598830486
+2024 Bond Program,1020668,PK24YK63,White Rock Hills Recreation Center (New),17660000,0,02,Recreation Center,Remaining To Be Awarded,-96.7142972131904,32.8031433983132
+2024 Bond Program,1020669,PK24YK64,Big Cedar Wilderness - Implementation,1500000,0,03,Renewal and Transformational Projects,,-96.9560919520709,32.656523326945
+2024 Bond Program,1020670,PK24YK65,Crawford Memorial Park - Master Plan Implementation Ph II,9000000,0,05,Renewal and Transformational Projects,Remaining To Be Awarded,-96.6696173051881,32.7132593819034
+2024 Bond Program,1020671,PK24YK66,Dallas International District - Land Acquisition,20000000,19299.02,11,Renewal and Transformational Projects,Complete,-96.8150164276722,32.9284475461433
+2024 Bond Program,1020672,PK24YK67,"Forest/Audelia - Phase III â¿¿ First, Second Floor of N Wing",15000000,0,10,Renewal and Transformational Projects,,-96.7199712484765,32.9096439834652
+2024 Bond Program,1020673,PK24YK68,Glendale Park - Dvlopmnt Plan Phase I; Phase II,9000000,110625.19,03,Renewal and Transformational Projects,Remaining To Be Awarded,-96.7969316522966,32.6821999606766
+2024 Bond Program,1020674,PK24YK69,"Kleberg Park Loop Trail, Pavilion, Amenities",1500000,0,08,Renewal and Transformational Projects,Remaining To Be Awarded,-96.6041546908109,32.6849534818443
+2024 Bond Program,1020675,PK24YK70,New Park- Site Dvlpmnt (Fish Trap Rd Acr W Dallas MP Ctr),110000,0,06,Renewal and Transformational Projects,,-96.7969610222013,32.7763800686455
+2024 Bond Program,1020676,PK24YK71,Old City Park - Site Development,273993,0,02,Renewal and Transformational Projects,,-96.7883313563326,32.7733945037988
+2024 Bond Program,1020677,PK24YK72,Parkdale Lake Trail- FPRK to Parkdale Lk/Lawnview Prk (New),3000000,0,07,Renewal and Transformational Projects,,-96.7322060267173,32.7716873160563
+2024 Bond Program,1020678,PK24YK73,Roland G Parrish Park - Site Dvlpmnt Phase II,7000000,0,04,Renewal and Transformational Projects,,-96.7877064059723,32.7420848019202
+2024 Bond Program,1020679,PK24YK74,Rosemeade Park - Site Development Phase I,4750000,0,12,Renewal and Transformational Projects,,-96.8530448890112,33.0090213139211
+2024 Bond Program,1020680,PK24YK75,Skatepark with Lights (CD14 Prj),500000,0,14,Specialty Parks,,-96.7969610222013,32.7763800686455
+2024 Bond Program,1020681,PK24YK76,Lakeland Hills Park - Skate Park (Redevelopment),1000000,0,07,Specialty Parks,Remaining To Be Awarded,-96.6966478155283,32.8038608222678
+2024 Bond Program,1020682,PK24YK77,Westmorelan Park â€“ Skatepark (New) (Pivt Match),1000000,11000,01,Specialty Parks,Under Design,-96.8795545408433,32.7213909510765
+2024 Bond Program,1020683,PK24YK78,D5 Sprayground (New) (CD5 Prj),3000000,0,05,Spraygrounds,,-96.7969610222013,32.7763800686455
+2024 Bond Program,1020684,PK24YK79,Vickery Meadow - Sprygrnd (New); Pavln Vick Mdw (Fair Oaks),3500000,0,13,Spraygrounds,Remaining To Be Awarded,-96.7969610222013,32.7763800686455
+2024 Bond Program,1020685,PK24YK80,Cottonbelt Trail - Trailhead Development,1000000,0,12,Trail Improvements,,-96.7941211771671,32.9817797030694
+2024 Bond Program,1020686,PK24YK81,Hattie R. Moore Park,45000,0,06,Trail Improvements,Remaining To Be Awarded,-96.8388485576464,32.7804124590321
+2024 Bond Program,1020687,PK24YK82,Santa Fe Trail - Phase I,2000000,0,"09,02,14",Trail Improvements,,-96.7522152581492,32.8010323164033
+2024 Bond Program,1020688,PK24YK83,St. Augustine Park Trail (New),500000,0,05,Trail Improvements,Remaining To Be Awarded,-96.6531605949754,32.7386720614223
+2024 Bond Program,1020689,PK24YK84,White Rock Crk Trl - Walnut Hill (Lk Hghlnds Trl Con) NW Hwy,7000000,0,10,Trail Improvements,Remaining To Be Awarded,-96.7878577124784,32.9326034064374
+2024 Bond Program,1020690,PK24YK85,White Rock Lake Trail - E Lawther - Rcnstrct; Expnd Width,2500000,0,09,Trail Improvements,Canceled/Reprogrammed,-96.7878577124784,32.9326034064374
+2024 Bond Program,1020691,PK24YK86,Royal Park - Tennis and Pickleball Court Renovation,325000,0,13,CDSF,Remaining To Be Awarded,-96.8636008086563,32.8986578371455
+2024 Bond Program,1020692,PK24YK87,Cheyenne - Playground Replacement,300000,0,05,CDSF,,-96.6365598345481,32.7247647712941
+2024 Bond Program,1020693,PK24YK59,"Santos Rodriguez Comm Cnt - HSTR, Utl, Elv Prkg Lot Relc",5000000,0,02,Recreation Center,Remaining To Be Awarded,-96.8096786427293,32.7932774877812
+2024 Bond Program,1020699,SD24YC41,Desco 7108,281750,0,13,Storm Drainage,Remaining To Be Awarded,-96.7816034270105,32.8737740206998
+2024 Bond Program,1020858,TP24Y437,Tyler-Sylvan-Colorado Intersection Realignment,3930000,0,01,Vision Zero/Safety,,-96.836136283144,32.7586301039482
+2024 Bond Program,1020863,TP24Y364,11th-Corinth St,655000,0,04,Traffic Signals - Warranted Signals,,-96.7995022799568,32.7465599709819
+2024 Bond Program,1020864,TP24Y365,12th-Madison,655000,0,01,Traffic Signals - Warranted Signals,,-96.8264805261903,32.7412137735722
+2024 Bond Program,1020865,TP24Y366,2nd-Pine,655000,0,07,Traffic Signals - Warranted Signals,,-96.7501598294488,32.7658352925149
+2024 Bond Program,1020866,TP24Y367,Beckleymeade-Polk,655000,0,08,Traffic Signals - Warranted Signals,,-96.8401404037523,32.6403680384475
+2024 Bond Program,1020867,TP24Y368,Belt Line-Lawson,655000,0,08,Traffic Signals - Warranted Signals,,-96.582806540934,32.6926770760741
+2024 Bond Program,1020868,TP24Y369,Buckner-Gross,655000,0,"07,02",Traffic Signals - Warranted Signals,,-96.6880179643892,32.8151112920981
+2024 Bond Program,1020869,TP24Y370,Buford-Camp Wisdom,655000,0,"03,08",Traffic Signals - Warranted Signals,,-96.812287805266,32.6623492717919
+2024 Bond Program,1020870,TP24Y371,Chrysalis-Wheatland,655000,279184.05,08,Traffic Signals - Warranted Signals,,-96.8587805300263,32.6476073849394
+2024 Bond Program,1020871,TP24Y372,Duncanville-Ledbetter,655000,249042.68,03,Traffic Signals - Warranted Signals,,-96.9086222318867,32.6911744061259
+2024 Bond Program,1020872,TP24Y373,Ferguson-Fenwick,1500000,0,09,Traffic Signals - Warranted Signals,,-96.6663668932511,32.8410512588418
+2024 Bond Program,1020873,TP24Y374,Ferguson-Graycliff,655000,0,"02,07",Traffic Signals - Warranted Signals,,-96.7118559838683,32.8035086234708
+2024 Bond Program,1020874,TP24Y375,Ferris Branch-Whitehurst,655000,0,10,Traffic Signals - Warranted Signals,,-96.7265615081338,32.9011807674721
+2024 Bond Program,1020875,TP24Y376,Fox Creek-Mountain Creek,655000,0,03,Traffic Signals - Warranted Signals,,-96.9704030141739,32.6531053825411
+2024 Bond Program,1020876,TP24Y377,Great Trinity Forest-Longbranch,655000,0,"05,08",Traffic Signals - Warranted Signals,,-96.6901819432181,32.7126527308455
+2024 Bond Program,1020877,TP24Y378,Greenspan-Wheatland,655000,0,08,Traffic Signals - Warranted Signals,,-96.8317725702777,32.6476129355097
+2024 Bond Program,1020878,TP24Y379,Greenville-Henderson,655000,0,"02,14",Traffic Signals - Warranted Signals,,-96.7701825655117,32.8076618964254
+2024 Bond Program,1020879,TP24Y380,Haskell-Private Driveway,655000,0,"02,14",Traffic Signals - Warranted Signals,,-96.7920788457777,32.8068553103888
+2024 Bond Program,1020880,TP24Y381,Haverwood-Pear Ridge,655000,0,12,Traffic Signals - Warranted Signals,,-96.8248250830223,33.0072628447883
+2024 Bond Program,1020881,TP24Y382,Illinois/Mountain Creek-Spur408/Walton Walker,655000,0,03,Traffic Signals - Warranted Signals,,-96.9171759851703,32.7204617859525
+2024 Bond Program,1020882,TP24Y383,Illinois-Pierce,655000,258568.72,"01,03",Traffic Signals - Warranted Signals,,-96.8657306933234,32.7203223996935
+2024 Bond Program,1020883,TP24Y384,Illinois-Western Park,655000,0,"01,03",Traffic Signals - Warranted Signals,,-96.8945651617929,32.7204426371638
+2024 Bond Program,1020884,TP24Y385,Jefferson-Van Buren,655000,0,01,Traffic Signals - Warranted Signals,,-96.8339706726949,32.7431638214335
+2024 Bond Program,1020885,TP24Y386,Jim Miller-Piedmont,655000,0,05,Traffic Signals - Warranted Signals,,-96.7008566370738,32.7614985195333
+2024 Bond Program,1020886,TP24Y387,Katy Trail-Knox,655000,0,14,Traffic Signals - Warranted Signals,,-96.7912006165248,32.8240615897404
+2024 Bond Program,1020887,TP24Y388,Lake June-Prichard,655000,0,05,Traffic Signals - Warranted Signals,,-96.6852002866406,32.7342717752043
+2024 Bond Program,1020888,TP24Y389,Lemmon East-Oak Grove,655000,0,14,Traffic Signals - Warranted Signals,,-96.7960245093911,32.8055562712875
+2024 Bond Program,1020889,TP24Y390,Matilda-University,655000,0,09,Traffic Signals - Warranted Signals,,-96.7678780570036,32.8455729289353
+2024 Bond Program,1020890,TP24Y391,McCree-Plano,655000,0,10,Traffic Signals - Warranted Signals,,-96.7001427705895,32.8716778525097
+2024 Bond Program,1020891,TP24Y392,Pastor Bailey-Red Bird,655000,204688.95,03,Traffic Signals - Warranted Signals,,-96.8743007698281,32.6732507888092
+2024 Bond Program,1020892,TP24Y393,Preston Royal SC-Royal,655000,0,13,Traffic Signals - Warranted Signals,,-96.8054496755316,32.8948457012904
+2024 Bond Program,1020893,TP24Y394,Worcola-University Crossing Trail,655000,0,09,Traffic Signals - Warranted Signals,,-96.7717180307041,32.8395482467966
+2024 Bond Program,1020945,PK24YK88,Willis Winters Park DISD Cool School Match,1000000,0,99,Agency Matches,,-96.7513403948432,32.8038645891849
+2024 Bond Program,1021106,EC24YG06,West End Lofts Mixed-Use-Mixed Income and TOD,,0,14,Economic Development,,-96.8053767800855,32.7806860475486
+2024 Bond Program,1021143,PK24YK91,"17117, 17113 Coit Road (Adv Landing) Land Acquisition",0,0,,,,-96.7694265501695,32.9861821466449
+2024 Bond Program,1021199,PK24YK92,Old East Dallas Splash Pad,0,0,,,,-96.760935658863,32.7942203603801
+2024 Bond Program,1021278,EC24YG07,Palladium Buckner Station Mixed Income & TOD Project,0,0,05,,Under Construction,-96.6846840240731,32.7185806509138
+2024 Bond Program,1021341,HO24YH03,The Caroline-1400 W. Commerce St Infrastructure Improvements,2000000,0,,,,-96.8451936523976,32.7721998022338
+2024 Bond Program,1021358,HO24YH04,6601 S. Lancaster Rd. - Homeownership Development,2880000,0,,,,-96.7841309429055,32.670884678178
+2024 Bond Program,1021386,PB24Y480,Sylvan Ave and Kessler Pkwy and Coombs Cr Trail Crossing,0,0,01,Complete Street,Remaining To Be Awarded,-96.8356445511939,32.7667401621838
+2024 Bond Program,1021407,OH24YI09,The Bridge AC Unit,0,0,,,,-96.7921865934653,32.7757456428145
+2024 Bond Program,1021553,PK24YK93,Dixon Branch Greenbelt Pedestrian Bridge,0,0,09,,,-96.7032102964831,32.8481212256792
+2024 Bond Program,1021554,PK24YK94,Construction Boulder Park Parking lot expansion,0,0,,,,-96.8739009851078,32.6684866512911
