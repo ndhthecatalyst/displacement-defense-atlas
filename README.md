@@ -3,7 +3,7 @@
 
 **Author:** Nicholas Donovan Hawkins  
 **Institution:** Texas Southern University  
-**Degree:** B.S. General Studies  
+**Degree:** B.A. General Studies  
 **Advisor:** [TBD]  
 **Thesis Due:** December 15, 2027  
 
