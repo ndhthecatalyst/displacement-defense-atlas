@@ -29,13 +29,13 @@
 
 11. Dantzler, Prentiss A. 2021. "The Urban Process Under Racial Capitalism: Race, Anti-Blackness, and Capital Accumulation." *Journal of Race, Ethnicity and the City* 2 (2): 113–134. https://doi.org/10.1080/26884674.2021.1934201
 
-12. D Magazine. 2021. "In the Name of Progress: What Dallas Has Taken from the Black Community." *D Magazine*, November 2021. https://www.dmagazine.com/publications/d-magazine/2021/november/in-the-name-of-progress-what-dallas-has-taken-from-the-black-community/ [VERIFY: identify specific reporter/author if possible]
+12. Crain, Zac. 2021. "In the Name of Progress: What Dallas Has Taken from the Black Community." *D Magazine*, November 2021. https://www.dmagazine.com/publications/d-magazine/2021/november/in-the-name-of-progress-what-dallas-has-taken-from-the-black-community/ 
 
 13. Federal Reserve Bank of Dallas. 2017. "The CRA at 40: Law Remains a Cornerstone of Community Development." *Community Outlook Series*, Issue 2. By Emily Ryder Perlmeter. Dallas: Federal Reserve Bank of Dallas, Community Development. https://www.dallasfed.org/cd/-/media/Documents/cd/cos/2017/1701.pdf
 
 14. Freeman, Lance. 2005. "Displacement or Succession? Residential Mobility in Gentrifying Neighborhoods." *Urban Affairs Review* 40 (4): 463–491. https://doi.org/10.1177/1078087404273341
 
-15. Freedman, Matthew, Shantanu Khanna, and David Neumark. 2023. "JUE Insight: The Impacts of Opportunity Zones on Zone Residents." *Journal of Urban Economics* 133: 103451. https://doi.org/10.1016/j.jue.2021.103451 [VERIFY: confirm final JUE volume/page numbers; widely cited as 2021/2022/2023]
+15. Freedman, Matthew, Shantanu Khanna, and David Neumark. 2023. "JUE Insight: The Impacts of Opportunity Zones on Zone Residents." *Journal of Urban Economics* 133: 103407. https://doi.org/10.1016/j.jue.2021.103407: confirm final JUE volume/page numbers; widely cited as 2021/2022/2023]
 
 16. Fullilove, Mindy Thompson. 2004. *Root Shock: How Tearing Up City Neighborhoods Hurts America, and What We Can Do About It.* New York: Ballantine Books.
 
@@ -111,7 +111,7 @@
 
 47. Smith, Neil. 1996. *The New Urban Frontier: Gentrification and the Revanchist City.* New York: Routledge.
 
-48. Theodos, Brett, Christina Stacy, and Helena Julien. 2021. "An Early Assessment of Opportunity Zones for Equitable Development Projects." Washington, DC: Urban Institute. https://www.urban.org/research/publication/early-assessment-opportunity-zones-equitable-development-projects [VERIFY: confirm author list and publication year]
+48. Theodos, Brett, Eric Hangen, Jorge González-Hermoso, and Brady Meixell. 2020. "An Early Assessment of Opportunity Zones for Equitable Development Projects." Washington, DC: Urban Institute. https://www.urban.org/research/publication/early-assessment-opportunity-zones-equitable-development-projects 
 
 49. Turner, Margery Austin, and Solomon Greene. 2021. "Developing and Implementing 'Opportunity Neighborhood' Plans in Segregated Metropolitan Regions." Washington, DC: Urban Institute. https://www.urban.org/racial-equity-analytics-lab/structural-racism-explainer-collection/developing-and-implementing-opportunity-neighborhood-plans-segregated-metropolitan-regions
 
@@ -141,7 +141,7 @@
 - Schutze (1987) — confirmed via Wikipedia and WorldCat; Citadel Press, Secaucus NJ
 - Trounstine (2018) — confirmed via Cambridge University Press
 - Urban Institute (2022) South Dallas transportation — confirmed via urban.org
-- Freedman, Khanna, and Neumark — confirmed as JUE Insight; JUE 133 (2023): 103451 [VERIFY final pagination]
+- Freedman, Khanna, and Neumark — confirmed as JUE Insight; JUE 133 (2023): 103407 final pagination]
 - Chapple (2015) — confirmed via Routledge; 307 pp.; ISBN 9781138956643
 - Dallas City CIP documents — confirmed via dallascityhall.com
 - Dallas County TIF report (2025) — confirmed via dallascounty.org
@@ -519,7 +519,7 @@
   url         = {https://tcf.org/content/report/zoned-texas-one-mother-overcame-dallass-discriminatory-housing-laws/}
 }
 
-@techreport{Theodos2021,
+@techreport{Theodos2020,
   author      = {Theodos, Brett and Stacy, Christina and Julien, Helena},
   title       = {An Early Assessment of Opportunity Zones for Equitable Development Projects},
   institution = {Urban Institute},
@@ -630,13 +630,13 @@
 
 13. **Dantzler, Prentiss A.** 2021. "The Urban Process Under Racial Capitalism: Race, Anti-Blackness, and Capital Accumulation." *Journal of Race, Ethnicity and the City* 2 (2): 113–134. https://doi.org/10.1080/26884674.2021.1934201
 
-14. **D Magazine.** 2021. "In the Name of Progress: What Dallas Has Taken from the Black Community." *D Magazine*, November 2021. https://www.dmagazine.com/publications/d-magazine/2021/november/in-the-name-of-progress-what-dallas-has-taken-from-the-black-community/ [VERIFY: byline]
+14. **D Magazine.** 2021. "In the Name of Progress: What Dallas Has Taken from the Black Community." *D Magazine*, November 2021. https://www.dmagazine.com/publications/d-magazine/2021/november/in-the-name-of-progress-what-dallas-has-taken-from-the-black-community/ 
 
 15. **Federal Reserve Bank of Dallas.** 2017. "The CRA at 40: Law Remains a Cornerstone of Community Development." By Emily Ryder Perlmeter. *Community Outlook Series*, Issue 2. Dallas: Federal Reserve Bank of Dallas, Community Development. https://www.dallasfed.org/cd/-/media/Documents/cd/cos/2017/1701.pdf
 
 16. **Freeman, Lance.** 2005. "Displacement or Succession? Residential Mobility in Gentrifying Neighborhoods." *Urban Affairs Review* 40 (4): 463–491. https://doi.org/10.1177/1078087404273341
 
-17. **Freedman, Matthew, Shantanu Khanna, and David Neumark.** 2023. "JUE Insight: The Impacts of Opportunity Zones on Zone Residents." *Journal of Urban Economics* 133: 103451. https://doi.org/10.1016/j.jue.2021.103451 [VERIFY final volume/page]
+17. **Freedman, Matthew, Shantanu Khanna, and David Neumark.** 2023. "JUE Insight: The Impacts of Opportunity Zones on Zone Residents." *Journal of Urban Economics* 133: 103407. https://doi.org/10.1016/j.jue.2021.103407 final volume/page]
 
 18. **Fullilove, Mindy Thompson.** 2004. *Root Shock: How Tearing Up City Neighborhoods Hurts America, and What We Can Do About It.* New York: Ballantine Books.
 
@@ -682,7 +682,7 @@
 
 39. **Soja, Edward W.** 2010. *Seeking Spatial Justice.* Minneapolis: University of Minnesota Press.
 
-40. **Theodos, Brett, Christina Stacy, and Helena Julien.** 2021. "An Early Assessment of Opportunity Zones for Equitable Development Projects." Washington, DC: Urban Institute. https://www.urban.org/research/publication/early-assessment-opportunity-zones-equitable-development-projects [VERIFY: author list and year]
+40. **Theodos, Brett, Christina Stacy, and Helena Julien.** 2021. "An Early Assessment of Opportunity Zones for Equitable Development Projects." Washington, DC: Urban Institute. https://www.urban.org/research/publication/early-assessment-opportunity-zones-equitable-development-projects 
 
 41. **Trounstine, Jessica.** 2018. *Segregation by Design: Local Politics and Inequality in American Cities.* New York: Cambridge University Press.
 
