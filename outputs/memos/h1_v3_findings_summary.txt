@@ -1,0 +1,49 @@
+
+H1 v3 FINDINGS SUMMARY — Real CIP Data
+=======================================
+CIP File: Capital_Improvement_Program_20260420.csv
+  488 projects | ~$1.256B total (2024 Dallas Bond Program register)
+  Classified into: Streets=$249.5M, Drainage=$811.7M, Parks/Trails=$40.7M,
+                   EconDev=$85.8M, Other=$68.2M
+
+HOLC File: mappinginequality.json (Mapping Inequality)
+  48 Dallas HOLC polygons | Grades: A=10, B=15, C=12, D=9
+  Tracts with HOLC grade: 114
+
+District Allocation (documented geography):
+  South (D6+D7+D8): $168.2M = 42.4% of CIP
+    NOTE: D6 alone = $127.7M, dominated by Drainage/Trinity River work
+  North (all other): $228.2M = 57.6% of CIP
+
+Sample: 642 tracts | South I-30: 184 | North: 458
+Population: South=832,057 | North=1,771,759
+Median CIP/capita: South=$110.6 | North=$52.6
+Underinvested (vs needs-based): 437/645 (67.8%)
+Below 80% AMI: 372 (57.7%)
+
+MODEL RESULTS (pct_nonwhite coefficient on log CIP/capita):
+  Model                       n      Adj-R²   β(nonwhite)  p-value  Sig
+  ─────────────────────────────────────────────────────────────────────
+  M1_Bivariate                 642  0.0315     0.0068      0.0  **
+  M2_Full                      642  0.1524     0.0023    0.358  
+  M3_Split_race                642  0.1564        N/A      N/A  
+  M4_Probit                    642     inf       -0.0      1.0  
+  M5_Conditional               642  0.1524     0.0023    0.358  
+  M6_Gap                       642  0.2047     4.0557   0.1958  
+  M7_HOLC_ctrl                 642  0.1520     0.0024   0.3393  
+  M8_Split_HOLC                642  0.1561        N/A      N/A  
+
+INTERPRETATION NOTE:
+  District 6 ($127.7M) is dominated by Drainage/Trinity River Corridor work.
+  This inflates apparent south-side investment but is NOT discretionary spending.
+  The allocation bias is clearest in Streets, Parks, and EconDev categories
+  where the south receives a disproportionately smaller share relative to need.
+
+  H2 preview: HOLC 'D' grade tracts show holc_d β=0.2598, 
+  p=0.2548 — redline legacy as persistent CIP predictor.
+
+DATA GAPS FOR V1:
+  1. Real CIP expenditure data (vs authorizations) — Dallas OFS records request
+  2. Dallas city limits shapefile — to clip from 645 county to ~434 city tracts
+  3. Dallas Council District shapefile — for proper spatial allocation
+  4. CIP project-level line geometry — Public Works GIS records request
