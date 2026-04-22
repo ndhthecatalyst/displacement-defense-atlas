@@ -1,0 +1,920 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_c609f40d2daec3d0d6d4ed60f240f1f6 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+    <div style="position: fixed; bottom: 24px; right: 24px; z-index: 9999;
+                background: white; padding: 10px 14px; border: 1px solid #ccc;
+                border-radius: 6px; font-family: Arial, sans-serif;
+                font-size: 12px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
+      <div style="font-weight: 600; margin-bottom: 6px;">
+        Vendor geocode confidence
+      </div>
+      <div><span style="display:inline-block;width:10px;height:10px;
+           background:#a13544;border-radius:50%;margin-right:6px;"></span>
+           High (≥ 0.70)</div>
+      <div><span style="display:inline-block;width:10px;height:10px;
+           background:#da7101;border-radius:50%;margin-right:6px;"></span>
+           Medium (0.40 – 0.69)</div>
+      <div><span style="display:inline-block;width:10px;height:10px;
+           background:#7a7974;border-radius:50%;margin-right:6px;"></span>
+           Low (&lt; 0.40)</div>
+    </div>
+    
+    
+            <div class="folium-map" id="map_c609f40d2daec3d0d6d4ed60f240f1f6" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_c609f40d2daec3d0d6d4ed60f240f1f6 = L.map(
+                "map_c609f40d2daec3d0d6d4ed60f240f1f6",
+                {
+                    center: [32.72, -96.79],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 11,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_727aa1018debbdd503c4a08ceb7ad6fc = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 20,
+  "maxNativeZoom": 20,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
+  "subdomains": "abcd",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_727aa1018debbdd503c4a08ceb7ad6fc.addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            var circle_marker_9b572cca87cb9dcd567d8f40ef762e61 = L.circleMarker(
+                [32.6396, -96.707],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_9b572cca87cb9dcd567d8f40ef762e61.bindTooltip(
+                `<div>
+                     <b>Estrada Concrete Company LLC</b><br>Registered tract: 48113016902<br>Geocoded tract (project): 48113011300<br>Confidence: 0.92<br>Nearest CIP project: SC Patrol Station
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_0ee55925c1619298d8e1f205a39b41c9 = L.circleMarker(
+                [32.9503, -96.819],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_0ee55925c1619298d8e1f205a39b41c9.bindTooltip(
+                `<div>
+                     <b>JE Dunn-Russell, a joint venture</b><br>Registered tract: 48113013624<br>Geocoded tract (project): nan<br>Confidence: 0.87<br>Nearest CIP project: Timberglen Park - sprayground
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_e603d4499d9c3e4ab8082b583fcdf80f = L.circleMarker(
+                [32.8479, -96.974],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_e603d4499d9c3e4ab8082b583fcdf80f.bindTooltip(
+                `<div>
+                     <b>TEXAS MATERIALS GROUP, INC.</b><br>Registered tract: 48113014316<br>Geocoded tract (project): nan<br>Confidence: 0.92<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_4f80a51c045add1aa4b9d1c3f283af3d = L.circleMarker(
+                [32.7781, -96.8054],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_4f80a51c045add1aa4b9d1c3f283af3d.bindTooltip(
+                `<div>
+                     <b>Kay Bailey Hutchison Convention Center</b><br>Registered tract: 48113003102<br>Geocoded tract (project): 48113010002<br>Confidence: 0.87<br>Nearest CIP project: Levee Drainage System - Sump A (Able Pump Station)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_8dfe9d0fcb7f37fc5f05fdb126bbdabe = L.circleMarker(
+                [32.8653, -96.9905],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_8dfe9d0fcb7f37fc5f05fdb126bbdabe.bindTooltip(
+                `<div>
+                     <b>Flatiron Constructors, Inc.</b><br>Registered tract: 48113014158<br>Geocoded tract (project): nan<br>Confidence: 0.87<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_2c8c89338cca686b3c06e54bacdb023e = L.circleMarker(
+                [32.7904, -96.8044],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_2c8c89338cca686b3c06e54bacdb023e.bindTooltip(
+                `<div>
+                     <b>Perkins + Will, Inc.</b><br>Registered tract: 48113001901<br>Geocoded tract (project): 48113001705<br>Confidence: 0.82<br>Nearest CIP project: Meyerson
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_148adaeab8059aaeacdcaaa87a6f387e = L.circleMarker(
+                [30.2672, -97.7431],
+                {"bubblingMouseEvents": true, "color": "#da7101", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#da7101", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_148adaeab8059aaeacdcaaa87a6f387e.bindTooltip(
+                `<div>
+                     <b>TEXAS DEPARTMENT OF TRANSPORTATION</b><br>Registered tract: nan<br>Geocoded tract (project): nan<br>Confidence: 0.60<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_0b0c47eed501c0199f86a3ab822f785c = L.circleMarker(
+                [32.7582, -97.1003],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_0b0c47eed501c0199f86a3ab822f785c.bindTooltip(
+                `<div>
+                     <b>REBCON LLC</b><br>Registered tract: nan<br>Geocoded tract (project): nan<br>Confidence: 0.87<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_b1898f68c7fba45bd2b8be793d0410ec = L.circleMarker(
+                [38.9615, -77.3418],
+                {"bubblingMouseEvents": true, "color": "#7a7974", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#7a7974", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_b1898f68c7fba45bd2b8be793d0410ec.bindTooltip(
+                `<div>
+                     <b>CARAHSOFT TECHNOLOGY CORP</b><br>Registered tract: nan<br>Geocoded tract (project): nan<br>Confidence: 0.30<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_f1cdfba6ce82ca9b1bf29e2403dc37b0 = L.circleMarker(
+                [32.5914, -96.7728],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_f1cdfba6ce82ca9b1bf29e2403dc37b0.bindTooltip(
+                `<div>
+                     <b>BAR CONSTRUCTORS INC ^</b><br>Registered tract: 48113016803<br>Geocoded tract (project): 48113011202<br>Confidence: 0.87<br>Nearest CIP project: Fire Station # 46
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_db27344fe74c359b6b2da10d980eba62 = L.circleMarker(
+                [32.9374, -96.7872],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_db27344fe74c359b6b2da10d980eba62.bindTooltip(
+                `<div>
+                     <b>Trinity Alliance Ventures LLC</b><br>Registered tract: 48113013608<br>Geocoded tract (project): 48113007815<br>Confidence: 0.82<br>Nearest CIP project: Vickery Park Branch Library
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_c6ed5b0d1881f57556194e0af42f4960 = L.circleMarker(
+                [32.8653, -96.9905],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_c6ed5b0d1881f57556194e0af42f4960.bindTooltip(
+                `<div>
+                     <b>ARCHER WESTERN CONSTRUCTION, LLC</b><br>Registered tract: 48113014158<br>Geocoded tract (project): nan<br>Confidence: 0.87<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_2ca5154af94e6f037cdb4b0979867412 = L.circleMarker(
+                [41.9125, -88.1348],
+                {"bubblingMouseEvents": true, "color": "#7a7974", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#7a7974", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_2ca5154af94e6f037cdb4b0979867412.bindTooltip(
+                `<div>
+                     <b>AT&T ENTERPRISES, LLC</b><br>Registered tract: nan<br>Geocoded tract (project): nan<br>Confidence: 0.30<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_d38c2841a767729cd36135169ef69bb1 = L.circleMarker(
+                [32.7904, -96.8044],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_d38c2841a767729cd36135169ef69bb1.bindTooltip(
+                `<div>
+                     <b>Dallas Tourism Public Improvement District Corporation</b><br>Registered tract: 48113001901<br>Geocoded tract (project): nan<br>Confidence: 0.82<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_622a15869e50ff2b158eb5ba78a3d900 = L.circleMarker(
+                [32.5223, -96.6643],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_622a15869e50ff2b158eb5ba78a3d900.bindTooltip(
+                `<div>
+                     <b>Douglas Dailey Construction LLC</b><br>Registered tract: nan<br>Geocoded tract (project): nan<br>Confidence: 0.92<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_9c94d4d953b118601b8290e60ab230bc = L.circleMarker(
+                [32.7781, -96.8054],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_9c94d4d953b118601b8290e60ab230bc.bindTooltip(
+                `<div>
+                     <b>DALLAS COUNTY</b><br>Registered tract: 48113003102<br>Geocoded tract (project): nan<br>Confidence: 0.92<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_9f2fd015fde82ab8224cb6cdbedf07e9 = L.circleMarker(
+                [29.9368, -95.3299],
+                {"bubblingMouseEvents": true, "color": "#da7101", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#da7101", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_9f2fd015fde82ab8224cb6cdbedf07e9.bindTooltip(
+                `<div>
+                     <b>Siddons Martin Emergency Group, LLC</b><br>Registered tract: nan<br>Geocoded tract (project): nan<br>Confidence: 0.65<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_e445635008f540ada236b7c9edcaf04e = L.circleMarker(
+                [33.0211, -97.2127],
+                {"bubblingMouseEvents": true, "color": "#da7101", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#da7101", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_e445635008f540ada236b7c9edcaf04e.bindTooltip(
+                `<div>
+                     <b>OSCAR RENDA CONTRACTING INC</b><br>Registered tract: nan<br>Geocoded tract (project): nan<br>Confidence: 0.60<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_e2428a3104b37ba0fa9727a382b387fe = L.circleMarker(
+                [32.7904, -96.8044],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_e2428a3104b37ba0fa9727a382b387fe.bindTooltip(
+                `<div>
+                     <b>THE DALLAS CONVENTION & VISITORS BUREAU</b><br>Registered tract: 48113001901<br>Geocoded tract (project): nan<br>Confidence: 0.87<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_8e3ed0af6b76a1e8e47f402b88375ad3 = L.circleMarker(
+                [30.1775, -93.8409],
+                {"bubblingMouseEvents": true, "color": "#da7101", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#da7101", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_8e3ed0af6b76a1e8e47f402b88375ad3.bindTooltip(
+                `<div>
+                     <b>SABINE RIVER AUTHORITY OF TEXAS</b><br>Registered tract: nan<br>Geocoded tract (project): nan<br>Confidence: 0.60<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_e22deb9f408fd741f66f69fdd1811ead = L.circleMarker(
+                [32.7829, -96.8714],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_e22deb9f408fd741f66f69fdd1811ead.bindTooltip(
+                `<div>
+                     <b>OMEGA CONTRACTING LLC</b><br>Registered tract: 48113020500<br>Geocoded tract (project): 48113020500<br>Confidence: 0.92<br>Nearest CIP project: West Dallas Mutli-Purpose Center
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_aa5cc89db1dc426b1eeb687cdf0f18a2 = L.circleMarker(
+                [32.9245, -96.8938],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_aa5cc89db1dc426b1eeb687cdf0f18a2.bindTooltip(
+                `<div>
+                     <b>Satterfield & Pontikes Construction, Inc</b><br>Registered tract: 48113013901<br>Geocoded tract (project): 48113009500<br>Confidence: 0.87<br>Nearest CIP project: Betty Jane, 10225
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_089acc6046ecdc7bc0eac97f4369f7dd = L.circleMarker(
+                [32.8038, -96.7851],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_089acc6046ecdc7bc0eac97f4369f7dd.bindTooltip(
+                `<div>
+                     <b>Universal Protection Service LP</b><br>Registered tract: 48113000801<br>Geocoded tract (project): 48113012900<br>Confidence: 0.92<br>Nearest CIP project: Bath House Cultural Center Rehabilitation
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_399cc2f423c29e5a6467a7a93aad330a = L.circleMarker(
+                [32.7781, -96.8054],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_399cc2f423c29e5a6467a7a93aad330a.bindTooltip(
+                `<div>
+                     <b>Downtown Dallas, Inc.</b><br>Registered tract: 48113003102<br>Geocoded tract (project): nan<br>Confidence: 0.82<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_3635cfcf3b757a9efd6e406f1eb277c9 = L.circleMarker(
+                [32.433, -97.1087],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_3635cfcf3b757a9efd6e406f1eb277c9.bindTooltip(
+                `<div>
+                     <b>SYB CONSTRUCTION CO., INC.</b><br>Registered tract: nan<br>Geocoded tract (project): nan<br>Confidence: 0.92<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_6eeeba1711030e44d79af837850ce101 = L.circleMarker(
+                [30.2971, -97.8181],
+                {"bubblingMouseEvents": true, "color": "#da7101", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#da7101", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_6eeeba1711030e44d79af837850ce101.bindTooltip(
+                `<div>
+                     <b>SHI GOVERNMENT SOLUTIONS, INC</b><br>Registered tract: nan<br>Geocoded tract (project): nan<br>Confidence: 0.65<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_be8e8db47869fdbe8461390f6d9e1112 = L.circleMarker(
+                [32.9245, -96.8938],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_be8e8db47869fdbe8461390f6d9e1112.bindTooltip(
+                `<div>
+                     <b>SAM PACK'S FIVE STAR FORD</b><br>Registered tract: 48113013901<br>Geocoded tract (project): nan<br>Confidence: 0.92<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_142c6ea033fcbdcf64b3360c2994b716 = L.circleMarker(
+                [32.6833, -96.5964],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_142c6ea033fcbdcf64b3360c2994b716.bindTooltip(
+                `<div>
+                     <b>MUNIZ CONSTRUCTION, INC. ^</b><br>Registered tract: 48113017101<br>Geocoded tract (project): 48113017101<br>Confidence: 0.87<br>Nearest CIP project: Kleberg-Rylie Park - Sprayground
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_00d5b0aa3c925392a3f96f9f6b593e64 = L.circleMarker(
+                [32.746, -96.807],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_00d5b0aa3c925392a3f96f9f6b593e64.bindTooltip(
+                `<div>
+                     <b>DALLAS ZOO MANAGEMENT INC</b><br>Registered tract: 48113021000<br>Geocoded tract (project): 48113011004<br>Confidence: 0.82<br>Nearest CIP project: Aquatics Master Plan Implementation - Phase 2A -Exline & B
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_076f033cdfbb7bdacded63ac82825680 = L.circleMarker(
+                [45.5235, -122.6762],
+                {"bubblingMouseEvents": true, "color": "#7a7974", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#7a7974", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_076f033cdfbb7bdacded63ac82825680.bindTooltip(
+                `<div>
+                     <b>STANDARD INSURANCE COMPANY</b><br>Registered tract: nan<br>Geocoded tract (project): nan<br>Confidence: 0.30<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_50bccb6b71611c74c77127d6ca738990 = L.circleMarker(
+                [33.6968, -111.8892],
+                {"bubblingMouseEvents": true, "color": "#7a7974", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#7a7974", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_50bccb6b71611c74c77127d6ca738990.bindTooltip(
+                `<div>
+                     <b>Axon Enterprise Inc.</b><br>Registered tract: nan<br>Geocoded tract (project): nan<br>Confidence: 0.25<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_426c84992379243c81bbe829e2996496 = L.circleMarker(
+                [32.8211, -97.1756],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_426c84992379243c81bbe829e2996496.bindTooltip(
+                `<div>
+                     <b>RUSHCO ENERGY SPECIALISTS, INC</b><br>Registered tract: nan<br>Geocoded tract (project): nan<br>Confidence: 0.92<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_1782b8d7c7515d2b73d2c896e0556c89 = L.circleMarker(
+                [32.7672, -96.6836],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_1782b8d7c7515d2b73d2c896e0556c89.bindTooltip(
+                `<div>
+                     <b>Good Earth Corporation</b><br>Registered tract: 48113008500<br>Geocoded tract (project): 48113012502<br>Confidence: 0.92<br>Nearest CIP project: Harry Stone Park - Neighborhood Family Aquatic Center
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_386e8657264904151ffe7566c7a5fc25 = L.circleMarker(
+                [33.2559, -96.8853],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_386e8657264904151ffe7566c7a5fc25.bindTooltip(
+                `<div>
+                     <b>RoeschCo Construction, LLC</b><br>Registered tract: nan<br>Geocoded tract (project): nan<br>Confidence: 0.87<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_df2ac41beee2a9efcca0273d2c9daa6c = L.circleMarker(
+                [32.7673, -96.7776],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_df2ac41beee2a9efcca0273d2c9daa6c.bindTooltip(
+                `<div>
+                     <b>GTS Technology Solutions, Inc</b><br>Registered tract: 48113020300<br>Geocoded tract (project): 48113020300<br>Confidence: 0.92<br>Nearest CIP project: FP Hall of State
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_439ac43709ad07a58d2a60fd40e3763f = L.circleMarker(
+                [32.8152, -96.8703],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_439ac43709ad07a58d2a60fd40e3763f.bindTooltip(
+                `<div>
+                     <b>A & Associates, Inc.</b><br>Registered tract: 48113010003<br>Geocoded tract (project): 48113010001<br>Confidence: 0.92<br>Nearest CIP project: NW Patrol Station - Security Enhancements
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_7430d881553f17994a6e526ef7c57d51 = L.circleMarker(
+                [32.84, -97.225],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_7430d881553f17994a6e526ef7c57d51.bindTooltip(
+                `<div>
+                     <b>Ragle INC</b><br>Registered tract: nan<br>Geocoded tract (project): nan<br>Confidence: 0.87<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_03f67e035c83b4b330379b75b39cdd02 = L.circleMarker(
+                [32.7357, -97.1081],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_03f67e035c83b4b330379b75b39cdd02.bindTooltip(
+                `<div>
+                     <b>TRINITY RIVER AUTHORITY OF TX</b><br>Registered tract: nan<br>Geocoded tract (project): 48113016528<br>Confidence: 0.87<br>Nearest CIP project: Emerald Lake Park - Dam safety & Erosion Control
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_38ec874cb001fe2dadc6253578d447be = L.circleMarker(
+                [33.0277, -96.6777],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_38ec874cb001fe2dadc6253578d447be.bindTooltip(
+                `<div>
+                     <b>Crescent Constructors, Inc.</b><br>Registered tract: nan<br>Geocoded tract (project): nan<br>Confidence: 0.82<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_8f11a0d4cc8c66302725b868da7b4e09 = L.circleMarker(
+                [32.9462, -96.7058],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_8f11a0d4cc8c66302725b868da7b4e09.bindTooltip(
+                `<div>
+                     <b>Talley Riggins Construction Group LLC</b><br>Registered tract: 48113019039<br>Geocoded tract (project): 48113013007<br>Confidence: 0.87<br>Nearest CIP project: Langdale Circle 8668 and 8656
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_070dfa648cce357576740296d0355ec3 = L.circleMarker(
+                [32.7904, -96.8044],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_070dfa648cce357576740296d0355ec3.bindTooltip(
+                `<div>
+                     <b>Marsh USA, LLC</b><br>Registered tract: 48113001901<br>Geocoded tract (project): nan<br>Confidence: 0.82<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_e64d35d1e903f53b06555f826ed5fb06 = L.circleMarker(
+                [30.3244, -94.1907],
+                {"bubblingMouseEvents": true, "color": "#da7101", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#da7101", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_e64d35d1e903f53b06555f826ed5fb06.bindTooltip(
+                `<div>
+                     <b>Silsbee Ford Inc</b><br>Registered tract: nan<br>Geocoded tract (project): nan<br>Confidence: 0.65<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_c97887ec05d264ec0987808cf38a5bed = L.circleMarker(
+                [30.6411, -97.7511],
+                {"bubblingMouseEvents": true, "color": "#da7101", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#da7101", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_c97887ec05d264ec0987808cf38a5bed.bindTooltip(
+                `<div>
+                     <b>VIKING CONSTRUCTION LLC</b><br>Registered tract: nan<br>Geocoded tract (project): nan<br>Confidence: 0.55<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_980fc34e5b265dc9aefdf42969d20834 = L.circleMarker(
+                [35.229, -80.8419],
+                {"bubblingMouseEvents": true, "color": "#7a7974", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#7a7974", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_980fc34e5b265dc9aefdf42969d20834.bindTooltip(
+                `<div>
+                     <b>McGriff Insurance Services, LLC</b><br>Registered tract: nan<br>Geocoded tract (project): nan<br>Confidence: 0.25<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_ce6e682d4583112225c9a7e907ea0b25 = L.circleMarker(
+                [32.8252, -96.8388],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_ce6e682d4583112225c9a7e907ea0b25.bindTooltip(
+                `<div>
+                     <b>Flatiron Dragados Constructors, Inc.</b><br>Registered tract: 48113000409<br>Geocoded tract (project): 48113000410<br>Confidence: 0.82<br>Nearest CIP project: Bachman Lake Skatepark
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_de358e3d6e68f3ad7e60ffdc95b754c1 = L.circleMarker(
+                [32.7673, -96.7776],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_de358e3d6e68f3ad7e60ffdc95b754c1.bindTooltip(
+                `<div>
+                     <b>M Arthur Gensler, Jr. & Associates,Inc.</b><br>Registered tract: 48113020300<br>Geocoded tract (project): nan<br>Confidence: 0.87<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_699f6e1b8facc8a6c859fd61a6ec1d45 = L.circleMarker(
+                [32.7904, -96.8044],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_699f6e1b8facc8a6c859fd61a6ec1d45.bindTooltip(
+                `<div>
+                     <b>SMITH TEMPORARIES, INC</b><br>Registered tract: 48113001901<br>Geocoded tract (project): nan<br>Confidence: 0.92<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_d5ba272ef28623735fc58fcdd4a80878 = L.circleMarker(
+                [32.931, -97.2843],
+                {"bubblingMouseEvents": true, "color": "#da7101", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#da7101", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_d5ba272ef28623735fc58fcdd4a80878.bindTooltip(
+                `<div>
+                     <b>EAGLE CONTRACTING LLC</b><br>Registered tract: nan<br>Geocoded tract (project): nan<br>Confidence: 0.60<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_ceb519aa2585709afde50ce43d275bea = L.circleMarker(
+                [34.0522, -118.2437],
+                {"bubblingMouseEvents": true, "color": "#7a7974", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#7a7974", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_ceb519aa2585709afde50ce43d275bea.bindTooltip(
+                `<div>
+                     <b>All City Management Services, Inc.</b><br>Registered tract: nan<br>Geocoded tract (project): nan<br>Confidence: 0.25<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_9c5e52dc244a81110b10af61c89f2813 = L.circleMarker(
+                [32.9328, -97.0808],
+                {"bubblingMouseEvents": true, "color": "#a13544", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#a13544", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_c609f40d2daec3d0d6d4ed60f240f1f6);
+        
+    
+            circle_marker_9c5e52dc244a81110b10af61c89f2813.bindTooltip(
+                `<div>
+                     <b>SOUTHLAND CONTRACTING INC.</b><br>Registered tract: nan<br>Geocoded tract (project): nan<br>Confidence: 0.82<br>Nearest CIP project: nan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+</script>
+</html>
