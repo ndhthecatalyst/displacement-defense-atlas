@@ -1,0 +1,84 @@
+name: docs-consistency
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+jobs:
+  check-canonical-facts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Verify FACTS.md exists
+        run: test -f docs/FACTS.md
+
+      - name: Grep canonical numbers from downstream docs
+        run: |
+          set -e
+          FAIL=0
+
+          # Files to scan. Add more as the repo grows.
+          SCAN_FILES="README.md docs/variable_dictionary/variable_dictionary.md docs/theory/five_layer_capital_stack.md docs/theory/theoretical_framework_v1.md"
+
+          # Canonical values (KEY=VALUE). Each value must appear in FACTS.md and
+          # any downstream doc that references it must use this exact form.
+          declare -A FACTS=(
+            [L1_TOTAL_FY2012_2026]='$984M'
+            [L2_DOWNTOWN_ANNUAL]='$13.5M'
+            [L2_SOUTH_SIDE_ANNUAL]='$411K'
+            [L2_GAP_MULTIPLIER]='33×'
+            [L3_DOWNTOWN_TIF]='$8.83B'
+            [L3_GRAND_PARK_SOUTH_TIF]='$333M'
+            [L3_RATIO]='26:1'
+            [L4_DFW_MEGA_INVESTOR_UNITS]='26,961'
+            [L5_NORTH_TOTAL]='$369.2M'
+            [L5_NORTH_SHARE]='25.3%'
+            [L5_SOUTH_TOTAL]='$38.3M'
+            [L5_SOUTH_SHARE]='2.6%'
+            [L5_GAP_MULTIPLIER]='12.6×'
+            [H1_HOLC_D_BETA]='+247.6'
+            [H4_SUSCEPTIBLE_SOUTH_TRACTS]='54'
+            [H4_WITH_TIF_OZ]='0'
+            [H4_HIGH_PRESSURE_LOW_READINESS]='44'
+            [H4_IMMEDIATE_PRIORITY]='14'
+          )
+
+          echo "=== Checking canonical values exist in FACTS.md ==="
+          for key in "${!FACTS[@]}"; do
+            val="${FACTS[$key]}"
+            if ! grep -qF "$val" docs/FACTS.md; then
+              echo "❌ FACTS.md is missing canonical value for $key ($val)"
+              FAIL=1
+            fi
+          done
+
+          echo ""
+          echo "=== Checking downstream docs cite consistent values ==="
+          # For high-confidence anti-patterns: known old/wrong values that must never appear.
+          FORBIDDEN=(
+            '$385.2M'   # Old pre-V5 residue total
+            'four-layer'
+            'Four-Layer'
+            '4-Layer Capital Stack'
+          )
+          for f in $SCAN_FILES; do
+            [ -f "$f" ] || continue
+            for bad in "${FORBIDDEN[@]}"; do
+              if grep -qF "$bad" "$f"; then
+                echo "❌ $f contains forbidden stale value: $bad"
+                FAIL=1
+              fi
+            done
+          done
+
+          if [ $FAIL -eq 0 ]; then
+            echo ""
+            echo "✅ All canonical-fact consistency checks passed."
+          else
+            echo ""
+            echo "One or more consistency checks failed. Update docs/FACTS.md or fix the offending doc."
+            exit 1
+          fi
