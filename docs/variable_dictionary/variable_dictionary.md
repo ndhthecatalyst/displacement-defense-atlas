@@ -4,14 +4,14 @@
 **Author:** Nicholas Donovan Hawkins
 **Institution:** Texas Southern University, Freeman Honors College
 **Date:** April 2026
-**Version:** v1.0
+**Version:** v1.1 (V5 Capital Stack reconciliation — April 2026)
 **Publication Target:** Urban Affairs Review
 
 ---
 
 ## How to Use This Dictionary
 
-Each section corresponds to a numbered hypothesis (H1, H2, H3, H6) and contains a full variable-level table followed by a brief analytical description of that variable set. The **Type** column classifies each variable as continuous, binary, categorical, ordinal, or composite. The **Transformation Applied** column records any recoding, scaling, ratio construction, or inflation adjustment performed prior to analysis; where no transformation was applied, the entry reads "None."
+Each section corresponds to a numbered hypothesis (H1–H6) and contains a full variable-level table followed by a brief analytical description of that variable set. Sections are organized by the Five-Layer Capital Stack framing: Layer 1 (CIP, H1), Layer 5 (Vendor Residue, H2), Layers 2+4 composite (H3), Layer 3 (TIF/OZ readiness gap, H4), Political Recirculation (H5), and Longitudinal Bates staging (H6). A final "Layered Capital Stack Variables" section documents the V5 composite exposure score inputs. The **Type** column classifies each variable as continuous, binary, categorical, ordinal, or composite. The **Transformation Applied** column records any recoding, scaling, ratio construction, or inflation adjustment performed prior to analysis; where no transformation was applied, the entry reads "None."
 
 ---
 
@@ -35,11 +35,11 @@ H1 models spatial variation in municipal capital investment intensity across Dal
 
 ---
 
-## H2 — Redlining Legacy (Vendor Geocode + Spatial Join)
+## H2 — Vendor Residue / Layer 5 (Vendor Geocode + Spatial Join)
 
 ### Analytical Purpose
 
-H2 documents the spatial correspondence between mid-twentieth-century Home Owners' Loan Corporation (HOLC) risk grades and present-day distribution of CIP vendor contract dollars. The analysis geocodes vendor addresses from City of Dallas CIP procurement records and spatially joins each vendor point to its enclosing census tract and HOLC polygon, enabling comparison of capital flow by historical grade and by position relative to I-30. The principal finding—a 12.6× North/South capital gap and a 26:1 TIF increment ratio—is derived from these aggregations.
+H2 operationalizes Layer 5 of the Five-Layer Capital Stack — the *vendor residue* layer, which measures where public contracting dollars ultimately flow. The analysis geocodes vendor addresses from the City of Dallas vendor payment dataset (145,551 payment rows; 8,354 unique vendors geocoded by ZIP5) and spatially joins each vendor to its enclosing census tract and HOLC polygon, enabling comparison of capital flow by historical grade and by position relative to I-30. The V5 top-18 vendor analysis produces the principal finding: $369.2M (25.3%) flows to North Dallas versus $38.3M (2.6%) to South Dallas — a 12.6× ratio. Supplementary findings: 83% of $108.8M in CIP spend originating from South Dallas projects is extracted northward; $58.9M (15¢ of every top-vendor dollar) flows to Texas Materials Group, owned by CRH plc (Irish corporate parent). The 26:1 TIF increment ratio reported here is the Layer 3 anchor retained in this section as the adjacent comparison, with the full Layer 3 analysis living in H4.
 
 ### Variable Table
 
@@ -80,6 +80,46 @@ H3 uses Home Mortgage Disclosure Act loan application records to measure racial 
 
 ---
 
+## H4 — TIF/OZ Readiness Gap / Layer 3 (Readiness Index + Susceptibility Classification)
+
+### Analytical Purpose
+
+H4 operationalizes Layer 3 of the Five-Layer Capital Stack by documenting the inverted spatial gap between displacement pressure and public readiness capacity. The analysis constructs a Readiness Index from tract-level indicators of public investment presence (TIF, OZ, LIHTC, NEZ, HUD-subsidized units) and cross-classifies each tract against a pressure score (housing cost appreciation, income gap, vulnerability). The V5 central finding is that zero of the 54 Susceptible South Dallas tracts contain any TIF or OZ designation, producing 44 *HIGH_PRESSURE_LOW_READINESS* crisis tracts where displacement is rising without a public readiness response. Among these, 14 *immediate priority* tracts (readiness ≤ 0.028) are flagged: the top five are 170.09 (District 8), 64.02 (D1), 91.03 (D5), 170.07 (D8), and 92.02 (D5).
+
+### Variable Table
+
+| Variable Name | Type | Description | Source | Unit | Transformation Applied |
+|---|---|---|---|---|---|
+| Readiness score | Composite | Tract-level composite measuring public investment and readiness capacity, weighted 50% public investment presence (TIF/OZ), 30% subsidized affordable housing (LIHTC, HUD Picture), 20% targeted redevelopment overlays (NEZ) | Derived from TIF/OZ boundaries, LIHTC projects, HUD Picture of Subsidized Households, Dallas NEZ layer | Standardized index score (0–1 scale) | Components min-max scaled; weighted sum applied; 50/30/20 weighting |
+| Pressure score | Composite | Tract-level composite measuring displacement pressure, derived from CPI-adjusted housing-cost appreciation, real-income gap, and baseline vulnerability | Derived from ACS 2013 and 2023 (LTDB crosswalked); BLS CPI-U | Standardized index score (0–1 scale) | Components min-max scaled; mean of component scores |
+| Pressure-readiness class | Categorical | Tract-level cross-classification: HIGH_PRESSURE_LOW_READINESS / HIGH_PRESSURE_HIGH_READINESS / LOW_PRESSURE_LOW_READINESS / LOW_PRESSURE_HIGH_READINESS | Derived from pressure score and readiness score | Categorical (4-level) | Median split on each axis; quadrant classification |
+| Susceptible South flag | Binary | Indicator of whether a South Dallas tract meets the V5 Susceptibility criteria (baseline vulnerability percentile + non-white share threshold + South of I-30) | Derived from ACS 2013 vulnerability index, I-30 spatial boundary | Binary (0/1) | Tract must be south of I-30 AND in top tercile of baseline vulnerability; 54 tracts identified |
+| TIF overlap percentage | Continuous | Share of tract land area contained within any active Dallas TIF district polygon | Dallas OED TIF boundary shapefiles; Census TIGER tracts | Percentage (0–100) | Polygon intersection area ÷ tract area × 100 |
+| OZ overlap percentage | Continuous | Share of tract land area designated as an Opportunity Zone | CDFI Fund / Treasury OZ designations; Census TIGER tracts | Percentage (0–100) | Polygon intersection area ÷ tract area × 100 |
+| Immediate priority flag | Binary | Indicator of the 14 tracts with readiness score ≤ 0.028 and HIGH_PRESSURE_LOW_READINESS classification | Derived from readiness score + pressure-readiness class | Binary (0/1) | Bottom-decile readiness within HIGH_PRESSURE_LOW_READINESS subset |
+
+---
+
+## H5 — Political Recirculation (Campaign Finance + Corporate Parentage)
+
+### Analytical Purpose
+
+H5 documents the political recirculation loop that closes the capital stack: where vendor revenue recirculates through campaign contributions and board interlocks rather than through direct municipal contributions. The analysis pulls TEC bulk campaign-finance data (state), FEC data (federal), and Dallas CFR records (municipal) for the top-18 vendors and their corporate parents, cross-checking board membership and PAC activity. The V5 central finding is threefold: (a) zero direct corporate contributions to Dallas City Council from top-18 vendors; (b) Tan Parker (TX HD-63) sits on the Board of Southland Holdings, parent of Oscar Renda Contracting ($26.5M in Dallas contracts); (c) $58.9M — 15¢ of every top-vendor dollar — flows to Texas Materials Group, owned by CRH plc (Irish corporate parent).
+
+### Variable Table
+
+| Variable Name | Type | Description | Source | Unit | Transformation Applied |
+|---|---|---|---|---|---|
+| TEC contribution amount | Continuous | Dollar value of state-level campaign contribution from a vendor-linked entity | Texas Ethics Commission bulk data (TEC_CF_CSV.zip) | U.S. dollars | Filtered to top-18 vendor corporate family; aggregated by recipient |
+| FEC contribution amount | Continuous | Dollar value of federal-level campaign contribution from a vendor-linked entity | FEC bulk data | U.S. dollars | Filtered to top-18 vendor corporate family; aggregated by recipient |
+| Vendor-to-PAC amount | Continuous | Dollar value of contribution from a vendor-linked entity to a political action committee | TEC + FEC | U.S. dollars | Filtered to PAC recipient type |
+| Council direct contribution flag | Binary | Indicator of any direct corporate contribution from a top-18 vendor to a Dallas City Council campaign | Dallas CFR (campfin.dallascityhall.com) | Binary (0/1) | Any match in municipal CFR records; result: 0 of 18 |
+| Board interlock flag | Binary | Indicator of any publicly identifiable board or executive role held by a sitting Texas state or federal legislator in a top-18 vendor or its corporate parent | SEC filings, corporate websites, Open Corporates, press releases | Binary (0/1) | Manual verification; documented case: Tan Parker / Southland Holdings |
+| Foreign parent flag | Binary | Indicator that a top-18 vendor is owned by a corporate parent headquartered outside the United States | Open Corporates, SEC filings | Binary (0/1) | Documented case: Texas Materials Group / CRH plc (Ireland) |
+| Capital-return extraction amount | Continuous | Dollar value of public contract spend flowing to foreign-parented vendors | Derived from vendor payment dataset and parent-company mapping | U.S. dollars | Sum across foreign-parented vendor subset |
+
+---
+
 ## H6 — Bates Typology v2.1 (Longitudinal ACS Panel)
 
 ### Analytical Purpose
@@ -110,9 +150,11 @@ The following derived outputs are produced from the analyses above and are refer
 
 | Output | Analysis | Description | Value Documented |
 |---|---|---|---|
-| North CIP total | H2 | Sum of CIP vendor contract dollars allocated to tracts north of I-30 | $485 million |
-| South CIP total | H2 | Sum of CIP vendor contract dollars allocated to tracts south of I-30 | $38 million |
-| North/South capital gap ratio | H2 | Ratio of North to South CIP vendor totals | 12.6× |
+| North vendor total (top-18) | H2 | Sum of top-18 vendor payment dollars flowing to vendors geocoded north of I-30 | $369.2 million (25.3% of audited spend) |
+| South vendor total (top-18) | H2 | Sum of top-18 vendor payment dollars flowing to vendors geocoded south of I-30 | $38.3 million (2.6% of audited spend) |
+| North/South vendor residue ratio | H2 | Ratio of North to South top-18 vendor totals | 12.6× |
+| Southward spend extracted northward | H2 | Share of $108.8M in CIP spend on South Dallas projects captured by northern-geocoded vendors | 83% |
+| CRH plc / Texas Materials Group share | H2 | Share of total top-vendor spend flowing to Texas Materials Group, owned by CRH plc (Ireland) | $58.9 million (≈15¢ per top-vendor dollar) |
 | Downtown Connection TIF increment | H2 | Total assessed value increment captured in the Downtown Connection TIF district, per Dallas OED annual report | $8.83 billion |
 | Grand Park South TIF increment | H2 | Total assessed value increment captured in the Grand Park South TIF district, per Dallas OED annual report | $333 million |
 | TIF increment ratio | H2 | Ratio of Downtown Connection increment to Grand Park South increment | 26:1 |
@@ -122,6 +164,57 @@ The following derived outputs are produced from the analyses above and are refer
 | Pressure × Vulnerability scatter (Panel B) | H6 | Bivariate scatter of displacement pressure index (x-axis) against vulnerability index (y-axis) for all Dallas tracts, with Bates stage quadrant overlays | Figure output; all tracts |
 | Typology distribution by region (Panel A) | H6 | Bar chart or table showing the count and percentage of tracts in each Bates stage, disaggregated by North/South geography | Figure output |
 | Income distribution by Bates stage (Panel C) | H6 | Box plot or violin plot showing the distribution of 2023 median household income by Bates stage classification | Figure output |
+
+---
+
+## Layered Capital Stack Variables (V5 Composite Exposure Score Inputs)
+
+### Analytical Purpose
+
+The V5 framing integrates tract-level indicators from all five layers of the capital stack into a single composite exposure score, enabling a test of whether the composite predicts displacement stage better than any single layer variable (H3 v5). The variables below are the Layer-by-Layer inputs.
+
+### Variable Table
+
+| Variable Name | Layer | Type | Description | Source | Transformation Applied |
+|---|---|---|---|---|---|
+| `cip_discretionary_share` | L1 | Continuous | Share of tract CIP dollars classified as discretionary (parks, libraries, economic development) vs. mandatory (streets, utilities) | Dallas CIP Open Data; manual project-type coding | Discretionary $ ÷ total CIP $ per tract |
+| `pid_present` | L2 | Binary | Indicator that the tract overlaps any active Dallas PID | Dallas GIS Hub PID layers (215f5e7243d44c25b7e503e3dafe73da; 16a1eb7a28f143ffb3714435ffac740a) | Spatial intersection |
+| `pid_revenue_per_parcel` | L2 | Continuous | Annual PID assessment revenue divided by parcel count, for tracts within PID boundaries | Dallas OED + individual PID annual reports; DCAD parcel layer | Revenue ÷ parcel count |
+| `econ_dev_pid_share` | L2 | Continuous | Share of tract's total economic-development spending that is PID-funded rather than general-fund | Dallas OED budget; PID reports | PID-funded ED $ ÷ total ED $ |
+| `tif_increment_share` | L3 | Continuous | Share of tract assessed value captured by an active TIF district | Dallas County 2025 TIF Annual Report; Dallas OED; DCAD | TIF increment $ ÷ total tract assessed value |
+| `oz_investment_received` | L3 | Continuous | Documented QOF investment directed into the tract | IRS Form 8996 data (Treasury) | Direct value; missing coded as 0 |
+| `sfr_investor_share` | L4 | Continuous | Share of single-family rental parcels in the tract owned by institutional (mega-investor) entities | CoreLogic / ATTOM / PropStream; cross-referenced with Immergluck et al. | Institutional SFR parcels ÷ total SFR parcels |
+| `investor_purchase_rate` | L4 | Continuous | Annualized rate of institutional SFR acquisitions per 1,000 tract parcels, 2019–2024 | Derived from deed-transfer records | Institutional acquisitions per 1,000 parcels per year |
+| `vendor_residue` | L5 | Continuous | Share of tract-originated CIP spend captured by vendors geocoded within the tract (or within the same quadrant) | Derived from vendor payments + geocoding | Same-tract/quadrant $ ÷ total tract-originated CIP $ |
+| `vendor_local_share` | L5 | Continuous | Share of top-vendor payment dollars flowing to Dallas-headquartered vendors | Dallas vendor payments; ZIP5 geocode | Dallas-ZIP $ ÷ total top-vendor $ |
+| `vendor_south_share` | L5 | Continuous | Share of top-vendor payment dollars flowing to vendors geocoded south of I-30 | Dallas vendor payments; I-30 spatial boundary | South-of-I-30 $ ÷ total top-vendor $ |
+| `mbe_contract_share` | L5 | Continuous | Share of tract-originated capital program spend flowing to certified Minority Business Enterprise vendors (pre-BID suspension baseline) | Dallas BID tracking records (historical); City procurement records | MBE $ ÷ total capital-program $ per tract |
+| `appraisal_gap_proxy` | Cross-layer | Continuous | Proxy for the gap between HMDA-documented appraisal value and purchase price in the tract | CFPB HMDA 2023 loan-level file | Median (appraisal − purchase) within tract |
+| `capital_stack_score` | Composite | Continuous | V5 integrated exposure score combining standardized L1–L5 inputs | Derived from all variables above | Each input standardized (z-score); weighted mean (equal weights in v0; factor-analysis weights in v1) |
+
+### Notes on the Composite
+
+The `capital_stack_score` is the V5 analytical innovation. It operationalizes the thesis claim that the five layers compound — their presence amplifies returns in wealthy white communities, their absence compounds disinvestment in Black communities. The H3 (v5) hypothesis test regresses Bates displacement stage on the composite score and compares explanatory power against single-layer predictors.
+
+---
+
+## Derived Outputs — V5 Additions
+
+| Output | Analysis | Description | Value Documented |
+|---|---|---|---|
+| Susceptible South tract count | H4 | Count of South Dallas tracts meeting the V5 Susceptibility criteria | 54 |
+| TIF/OZ presence in Susceptible South | H4 | Count of Susceptible South tracts with any TIF or OZ designation | 0 |
+| HIGH_PRESSURE_LOW_READINESS tract count | H4 | Count of tracts classified in the crisis-zone quadrant | 44 |
+| Immediate priority tract count | H4 | Count of tracts with readiness score ≤ 0.028 in HIGH_PRESSURE_LOW_READINESS | 14 |
+| Top-5 immediate priority tracts | H4 | Ranked list by readiness-score ascending | 170.09 (D8); 64.02 (D1); 91.03 (D5); 170.07 (D8); 92.02 (D5) |
+| Council direct contributions from top-18 vendors | H5 | Count of direct corporate contributions to Dallas City Council from top-18 vendors | 0 |
+| Tan Parker / Southland Holdings interlock | H5 | Documented board interlock case | Tan Parker (TX HD-63) on Board of Southland Holdings (parent of Oscar Renda) |
+| CRH plc capital-return extraction | H5 | Annual top-vendor dollars flowing to a foreign (Irish) parent company | $58.9 million (≈15% of top-vendor spend) |
+| ACS panel tract match count | H4, H6 | Tracts with complete 2013↔2023 ACS observations via LTDB crosswalk | 385 of 645 Dallas County tracts |
+| CPI adjustment factor 2013→2023 | All | BLS CPI-U all-items U.S. city average | 1.36 (36%) |
+| South vs. North home-value change 10yr | H6 | ACS 2013→2023 median home-value percent change, CPI-adjusted | +120.5% (South) vs. +111.3% (North) |
+| South vs. North real-income change 10yr | H6 | ACS 2013→2023 median household income percent change, CPI-adjusted | +8.6% (South) vs. +17.1% (North) |
+| M7 OLS HOLC-D coefficient (H1) | H1 | Coefficient on HOLC-D grade in CIP $/capita regression | β = +247.6 (p<0.001); race coefficient becomes non-significant when controlled |
 
 ---
 
@@ -139,3 +232,13 @@ The following derived outputs are produced from the analyses above and are refer
 | Mapping Inequality / HOLC | Nelson, R.K., L. Winling, R. Marciano, N. Connolly, et al. *Mapping Inequality: Redlining in New Deal America.* Digital Scholarship Lab, University of Richmond, 2023. https://dsl.richmond.edu/panorama/redlining/ |
 | BLS CPI-U | U.S. Bureau of Labor Statistics. *Consumer Price Index for All Urban Consumers (CPI-U), All Items, U.S. City Average.* Washington, DC: BLS. https://www.bls.gov/cpi/ |
 | LTDB | Logan, J.R., Z. Xu, and B. Stults. *Longitudinal Tract Database.* Spatial Structures in the Social Sciences, Brown University, 2014. https://s4.ad.brown.edu/projects/diversity/Researcher/LTDB.htm |
+| Dallas PID Boundaries | City of Dallas GIS Hub. *Public Improvement District Boundary Files.* Layer IDs: `215f5e7243d44c25b7e503e3dafe73da`; `16a1eb7a28f143ffb3714435ffac740a`. https://dallasgis.dallascityhall.com |
+| Dallas Vendor Payments | City of Dallas. *Vendor Payments for Fiscal Year 2019–Present.* Dallas Open Data. https://www.dallasopendata.com |
+| HUD Picture of Subsidized Households | U.S. Department of Housing and Urban Development. *Picture of Subsidized Households.* Washington, DC: HUD. https://www.huduser.gov/portal/datasets/assthsg.html |
+| Dallas NEZ | City of Dallas. *Neighborhood Empowerment Zone Designations.* Dallas, TX. https://dallasecodev.org |
+| TEC | Texas Ethics Commission. *Campaign Finance Bulk Data (CSV).* https://prd.tecprd.ethicsefile.com/public/cf/public/TEC_CF_CSV.zip |
+| FEC | Federal Election Commission. *Bulk Data Downloads.* https://www.fec.gov/data/ |
+| Dallas CFR | City of Dallas. *Municipal Campaign Finance Records.* https://campfin.dallascityhall.com |
+| IRS Form 8996 | U.S. Internal Revenue Service. *Qualified Opportunity Fund Annual Reporting (Form 8996).* https://www.irs.gov |
+| CoreLogic / ATTOM | Institutional SFR ownership acquired via CoreLogic or ATTOM Data Solutions subscription; cross-referenced with Immergluck et al. |
+| OpenCorporates | OpenCorporates. *Corporate Registry Data.* https://opencorporates.com (for parent-company verification, e.g., CRH plc) |
