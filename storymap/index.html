@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Below the Line — Displacement Defense Atlas StoryMap</title>
+  <meta name="description" content="A scroll-driven StoryMap accompanying the undergraduate thesis 'Below the Line: Development as Governance and the Geography of Displacement Risk in Dallas' by Nicholas D. Hawkins, Texas Southern University." />
+  <link rel="stylesheet" href="css/storymap.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Merriweather:wght@400;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+<!-- =========================================================
+     NAV
+     ========================================================= -->
+<nav class="sm-nav" id="smNav" aria-label="Chapter navigation">
+  <div class="sm-nav-inner">
+    <a href="#cover" class="sm-brand">
+      <span class="sm-brand-mark">BTL</span>
+      <span class="sm-brand-text">Below the Line</span>
+    </a>
+    <ul class="sm-nav-list">
+      <li><a href="#ch1">1 · Lines Drawn</a></li>
+      <li><a href="#ch2">2 · Public Dollars</a></li>
+      <li><a href="#ch3">3 · Tools Followed</a></li>
+      <li><a href="#ch4">4 · Capital Stack</a></li>
+      <li><a href="#ch5">5 · Stage &amp; Capacity</a></li>
+      <li><a href="#ch6">6 · Vendor Residue</a></li>
+      <li><a href="#ch7">7 · Who Acts</a></li>
+    </ul>
+  </div>
+</nav>
+
+<!-- =========================================================
+     COVER
+     ========================================================= -->
+<section id="cover" class="sm-cover" data-chapter="cover">
+  <div class="sm-cover-backdrop"></div>
+  <div class="sm-cover-content">
+    <p class="sm-kicker">Displacement Defense Atlas · Scroll-driven edition</p>
+    <h1 class="sm-title">Below the Line</h1>
+    <p class="sm-subtitle">
+      Development as Governance and the Geography of Displacement Risk in Dallas
+    </p>
+    <p class="sm-byline">
+      <span>Nicholas Donovan Hawkins</span> &middot;
+      <span>Texas Southern University</span> &middot;
+      <span>2027</span>
+    </p>
+    <div class="sm-cover-meta">
+      <div><span class="sm-meta-k">Tracts analyzed</span><span class="sm-meta-v">645</span></div>
+      <div><span class="sm-meta-k">Capital stack layers</span><span class="sm-meta-v">5</span></div>
+      <div><span class="sm-meta-k">Priority intervention tracts</span><span class="sm-meta-v">14</span></div>
+      <div><span class="sm-meta-k">Vendor residue gap</span><span class="sm-meta-v">12.6&times;</span></div>
+    </div>
+    <a href="#ch1" class="sm-cover-cta">Begin reading &darr;</a>
+  </div>
+</section>
+
+<!-- =========================================================
+     CHAPTER 1 — HOLC / Lines Drawn
+     ========================================================= -->
+<section id="ch1" class="sm-chapter" data-chapter="1">
+  <div class="sm-chapter-grid">
+    <aside class="sm-side">
+      <p class="sm-chapter-num">Chapter 1</p>
+      <h2 class="sm-chapter-title">The lines were drawn here</h2>
+      <p class="sm-chapter-deck">
+        Dallas's 1937 HOLC residential security maps assigned a letter grade to every neighborhood. The lines they drew are still legible on the 2023 tract map &mdash; in income, in home value, in who gets what.
+      </p>
+    </aside>
+    <div class="sm-stage">
+      <figure class="sm-figure sm-figure-placeholder">
+        <div class="sm-placeholder-badge">Placeholder · HOLC overlay</div>
+        <figcaption>
+          Figure 1. HOLC 1937 residential security grades (A&ndash;D) overlaid on 2023 Dallas County census tracts. &mdash; <em>To be rendered from `data/raw/layer3_early_warning/mappinginequality_dallas.json`.</em>
+        </figcaption>
+      </figure>
+      <div class="sm-prose">
+        <p>
+          The redlining map was never just descriptive. HOLC grades governed where mortgage capital could and could not flow for the next three decades, and the lines became infrastructure &mdash; bus routes, highways, sewer lines, school catchments.
+        </p>
+        <p>
+          When Dallas's Capital Improvement Program allocates bond dollars today, the geography it inherits is this one. The thesis begins here because the argument is cumulative: each subsequent layer of investment decision is shaped by what the previous layer did and did not leave behind.
+        </p>
+        <p class="sm-pullquote">
+          &ldquo;HOLC-D grade &beta; = +247.6, p&lt;0.001 &mdash; after controlling for HOLC grade, the race coefficient becomes statistically insignificant.&rdquo; <span class="sm-pullquote-src">&mdash; H1 M7 OLS, reproducing Aaronson, Hartley &amp; Mazumder (2021)</span>
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- =========================================================
+     CHAPTER 2 — CIP Allocation / Public Dollars
+     ========================================================= -->
+<section id="ch2" class="sm-chapter" data-chapter="2">
+  <div class="sm-chapter-grid">
+    <aside class="sm-side">
+      <p class="sm-chapter-num">Chapter 2</p>
+      <h2 class="sm-chapter-title">Public dollars didn't follow the people south</h2>
+      <p class="sm-chapter-deck">
+        $984M of Capital Improvement Program bonds, FY2012&ndash;2026. After controlling for income and infrastructure need, per-capita allocation is significantly lower in majority-Black and Hispanic tracts south of I-30 &mdash; and the gap is sharpest in the <em>discretionary</em> categories: parks, libraries, and economic development.
+      </p>
+    </aside>
+    <div class="sm-stage">
+      <figure class="sm-figure sm-figure-placeholder">
+        <div class="sm-placeholder-badge">Placeholder · atlas_v0_map_a_vulnerability.png pending real-data run</div>
+        <figcaption>
+          Figure 2. Composite vulnerability index by census tract, 2023 (ACS 5-yr). Higher values = structurally more exposed to displacement pressure. To be rendered by `atlas_v0_map_a.py` against real ACS inputs.
+        </figcaption>
+      </figure>
+      <div class="sm-prose">
+        <p>
+          The Capital Improvement Program is the <strong>public base</strong> of the Five-Layer Capital Stack &mdash; Layer 1. It is the most legible, most accountable, and most directly attributable layer of public spending. And it is where the inherited pattern from Chapter 1 first gets amplified rather than corrected.
+        </p>
+        <p>
+          The V4 version of this thesis asked <em>who lives near a CIP road project.</em> The V5 reframe asks a different question: <em>who captures the economic returns of that public dollar?</em> Chapter 6 answers it. For now, Chapter 2 establishes the allocation baseline.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- =========================================================
+     CHAPTER 3 — TIF / OZ Tool Density
+     ========================================================= -->
+<section id="ch3" class="sm-chapter" data-chapter="3">
+  <div class="sm-chapter-grid">
+    <aside class="sm-side">
+      <p class="sm-chapter-num">Chapter 3</p>
+      <h2 class="sm-chapter-title">The finance tools stayed north, too</h2>
+      <p class="sm-chapter-deck">
+        Downtown Connection TIF: $8.83B assessed increment. Grand Park South TIF: $333M. A 26&times; gap in tax-capture engineering. Zero of the 54 Susceptible South tracts have TIF or Opportunity Zone designation.
+      </p>
+    </aside>
+    <div class="sm-stage">
+      <figure class="sm-figure sm-figure-placeholder">
+        <div class="sm-placeholder-badge">Placeholder · atlas_v0_map_b.png pending real-data run</div>
+        <figcaption>
+          Figure 3. TIF district boundaries and Opportunity Zone designations, Dallas County, 2024. To be rendered by `atlas_v0_map_b.py`.
+        </figcaption>
+      </figure>
+      <div class="sm-prose">
+        <p>
+          TIF and OZ are not neutral tools. They redirect future public tax revenues and federal capital-gains incentives to specific geographies chosen by specific people. Weber (2002) is the canonical citation: the &ldquo;but for&rdquo; standard that authorizes TIF districts is political, not empirical.
+        </p>
+        <p>
+          The consequence, in Dallas: public-finance scaffolding concentrates where exchange value is already high, and is absent where displacement pressure is rising fastest. Chapter 4 shows how every layer of this stack compounds the pattern.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- =========================================================
+     CHAPTER 4 — FIVE-LAYER CAPITAL STACK (Map D)
+     ========================================================= -->
+<section id="ch4" class="sm-chapter sm-chapter-hero" data-chapter="4">
+  <div class="sm-chapter-grid">
+    <aside class="sm-side">
+      <p class="sm-chapter-num">Chapter 4 &middot; Hero</p>
+      <h2 class="sm-chapter-title">The five layers compound</h2>
+      <p class="sm-chapter-deck">
+        Dallas's public-finance architecture is vertically integrated: CIP allocation (Layer 1), PID supplementation (Layer 2), TIF/OZ capture (Layer 3), institutional ownership pressure (Layer 4), and vendor economic residue (Layer 5). Their joint presence produces <strong>stacked advantage</strong>. Their joint absence produces <strong>stacked disinvestment</strong>.
+      </p>
+      <div class="sm-side-stats">
+        <div><span class="sm-stat-n">33&times;</span><span class="sm-stat-l">PID gap (Downtown vs. South Side)</span></div>
+        <div><span class="sm-stat-n">26&times;</span><span class="sm-stat-l">TIF increment ratio</span></div>
+        <div><span class="sm-stat-n">12.6&times;</span><span class="sm-stat-l">Vendor residue gap</span></div>
+        <div><span class="sm-stat-n">45%</span><span class="sm-stat-l">of bottom-quartile composite tracts are south of I-30</span></div>
+      </div>
+    </aside>
+    <div class="sm-stage">
+      <figure class="sm-figure">
+        <img src="images/atlas_map_d_capital_stack.png"
+             alt="Map D — the Five-Layer Capital Stack composite, Dallas County, 2013–2023. Six panels: Layer 1 CIP per capita, Layer 2 PID per capita, Layer 3 TIF/OZ presence, Layer 4 institutional-pressure proxy, Layer 5 vendor residue, and the composite capital_stack_score." />
+        <figcaption>
+          Figure 4. <strong>Map D &mdash; Five-Layer Capital Stack composite.</strong> Panels A&ndash;E: each layer standalone. Panel F: the composite <code>capital_stack_score</code> (mean of A&ndash;E, normalized 0&ndash;1). Green = stacked advantage; red = stacked disinvestment. The advantaged zone is a small downtown/central cluster; the rest of the county is various shades of red. <em>Source: Hawkins (2026), `atlas_v0_map_d_capital_stack.py`.</em>
+        </figcaption>
+      </figure>
+      <div class="sm-prose">
+        <p>
+          Each layer has been studied before, though rarely in Dallas and almost never together. The thesis contribution is the demonstration that <em>the layers are not independent</em>: their joint presence amplifies exchange value in wealthy white communities; their joint absence compounds disinvestment in Black and Hispanic communities south of I-30.
+        </p>
+        <p>
+          The composite is computed at the tract level. Each layer is min-max normalized to 0&ndash;1 (continuous layers winsorized at the 99th percentile). Tracts where all five layers are present score near 1.0 (saturated green); tracts where all five are absent score near 0.0 (deep red).
+        </p>
+        <p class="sm-pullquote">
+          &ldquo;This is not market failure. It is governance design.&rdquo;
+          <span class="sm-pullquote-src">&mdash; Chapter 6 closing argument</span>
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- =========================================================
+     CHAPTER 5 — BATES STAGE × RISK/READINESS (Map C)
+     ========================================================= -->
+<section id="ch5" class="sm-chapter sm-chapter-hero" data-chapter="5">
+  <div class="sm-chapter-grid">
+    <aside class="sm-side">
+      <p class="sm-chapter-num">Chapter 5 &middot; Hero</p>
+      <h2 class="sm-chapter-title">Where pressure meets absent defense</h2>
+      <p class="sm-chapter-deck">
+        Bates v2.1 typology (2013&rarr;2023 real change) identifies 54 <strong>Susceptible South</strong> tracts &mdash; the active displacement front. The H4 Readiness Index identifies 44 tracts as <strong>HIGH_PRESSURE_LOW_READINESS</strong>. Overlap these, rank by urgency, and the intervention list is 14 tracts long.
+      </p>
+      <div class="sm-side-stats">
+        <div><span class="sm-stat-n">54</span><span class="sm-stat-l">Susceptible South tracts</span></div>
+        <div><span class="sm-stat-n">44</span><span class="sm-stat-l">HIGH_PRESSURE_LOW_READINESS</span></div>
+        <div><span class="sm-stat-n">14</span><span class="sm-stat-l">bottom-quartile crisis tracts</span></div>
+        <div><span class="sm-stat-n">0</span><span class="sm-stat-l">of the 54 have TIF or OZ</span></div>
+      </div>
+    </aside>
+    <div class="sm-stage">
+      <figure class="sm-figure">
+        <img src="images/atlas_map_c_bates_risk_readiness.png"
+             alt="Map C — Displacement stage and defense capacity. Two panels: left shows the Bates v2.1 seven-stage displacement typology with the 54 Susceptible South-of-I-30 tracts outlined in bold; right shows the Risk × Readiness 2×2 classification with the 44 HIGH_PRESSURE_LOW_READINESS tracts in red and the top-14 crisis tracts labeled." />
+        <figcaption>
+          Figure 5. <strong>Map C &mdash; Displacement Stage and Defense Capacity.</strong> Panel A: Bates v2.1 seven-stage displacement typology; 54 Susceptible South tracts outlined. Panel B: Risk &times; Readiness 2&times;2 cell classification; top-14 crisis tracts annotated. <em>Source: Hawkins (2026), `atlas_v0_map_c_bates_risk_readiness.py`.</em>
+        </figcaption>
+      </figure>
+      <div class="sm-prose">
+        <p>
+          Panel A shows <em>where displacement is in its cycle.</em> Dynamic and Late stages cluster in the central arc north of I-30 where the process is nearest completion. Susceptible stage concentrates south of I-30 &mdash; the next front. Historic Loss dominates North Dallas (42% of tracts); the cycle there has already resolved.
+        </p>
+        <p>
+          Panel B shows <em>which of those places have anything standing between residents and loss.</em> Readiness is the composite of LIHTC / HUD-assisted unit density, tenant-org and CDC presence, and NEZ coverage. Panels laid side by side: the 44 HP/LR tracts and the 14-tract crisis list are the thesis intervention target.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- =========================================================
+     CHAPTER 6 — VENDOR RESIDUE
+     ========================================================= -->
+<section id="ch6" class="sm-chapter" data-chapter="6">
+  <div class="sm-chapter-grid">
+    <aside class="sm-side">
+      <p class="sm-chapter-num">Chapter 6</p>
+      <h2 class="sm-chapter-title">The dollars enter south; they exit north</h2>
+      <p class="sm-chapter-deck">
+        Of $108.8M paid for South Dallas CIP projects, only $18.8M (17%) went to vendors headquartered south of I-30. $90M (83%) was extracted northward. $58.9M of total top-vendor spend &mdash; 15&cent; of every dollar &mdash; flows to Texas Materials Group, owned by CRH plc of Dublin, Ireland.
+      </p>
+    </aside>
+    <div class="sm-stage">
+      <figure class="sm-figure">
+        <img src="images/h2_v1_vendor_residue_diagnostic.png"
+             alt="Four-panel vendor residue diagnostic: vendor payment distribution, vendor HQ locations, per-tract vendor capture within 5-mile buffers, and North/South comparison." />
+        <figcaption>
+          Figure 6. Vendor economic residue &mdash; H2 v1 diagnostic. 145,551 vendor transactions across FY2019&ndash;present, $3.1B total, 532/535 unique vendors ZIP-geocoded. <em>Source: Hawkins (2026), `h2_vendor_geocode_v1.py`.</em>
+        </figcaption>
+      </figure>
+      <div class="sm-prose">
+        <p>
+          Vendor residue is Layer 5 &mdash; the layer V4 could not see. Public capital enters a geography as a CIP project and exits it as a vendor payment. The question is whose balance sheet the exit lands on. In Dallas, overwhelmingly, it lands on a firm headquartered north of I-30.
+        </p>
+        <p>
+          H5 adds the political-recirculation loop: zero direct corporate contributions from the top-18 vendors to Dallas City Council races, <em>but</em> active contribution patterns at state and federal levels, and one documented board interlock (Texas State Rep Tan Parker on the Southland Holdings board &mdash; parent of Oscar Renda Contracting, $26.5M in active Dallas contracts). The race-neutral surface of municipal procurement is preserved while the extractive circuit operates in the jurisdictions above it.
+        </p>
+        <p class="sm-pullquote">
+          &ldquo;OLS: south_of_i30 &beta; = &minus;0.1423 (p = 0.0003). South Dallas tracts capture significantly less vendor economic residue.&rdquo;
+          <span class="sm-pullquote-src">&mdash; H2 regression, `h2_vendor_residue_by_tract.csv`</span>
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- =========================================================
+     CHAPTER 7 — WHO ACTS / INTERVENTION CALL
+     ========================================================= -->
+<section id="ch7" class="sm-chapter" data-chapter="7">
+  <div class="sm-chapter-grid">
+    <aside class="sm-side">
+      <p class="sm-chapter-num">Chapter 7</p>
+      <h2 class="sm-chapter-title">Who acts, where, and when</h2>
+      <p class="sm-chapter-deck">
+        The thesis translates into a decision-point calendar and a ranked intervention list. Every dollar of defense capacity should flow first to the 44 HP/LR tracts, and within them, to the 14 in the bottom readiness quartile.
+      </p>
+    </aside>
+    <div class="sm-stage">
+      <div class="sm-prose">
+        <h3>Council distribution of the 54 Susceptible South tracts</h3>
+        <table class="sm-table">
+          <thead><tr><th>Council District</th><th>Tracts</th><th>Member</th></tr></thead>
+          <tbody>
+            <tr><td>District 8</td><td>14</td><td>Atkins</td></tr>
+            <tr><td>District 3</td><td>14</td><td>Gracey</td></tr>
+            <tr><td>Outside City of Dallas</td><td>14</td><td>(Balch Springs, Hutchins, Seagoville)</td></tr>
+            <tr><td>District 5</td><td>5</td><td>Resendez</td></tr>
+            <tr><td>District 4</td><td>4</td><td>Schultz</td></tr>
+            <tr><td>District 1</td><td>3</td><td>&mdash;</td></tr>
+          </tbody>
+        </table>
+
+        <h3>Top-5 priority intervention tracts</h3>
+        <table class="sm-table">
+          <thead><tr><th>Rank</th><th>Tract</th><th>GEOID</th><th>Council</th></tr></thead>
+          <tbody>
+            <tr><td>1</td><td>170.09</td><td>48113017009</td><td>District 8</td></tr>
+            <tr><td>2</td><td>64.02</td><td>48113006402</td><td>District 1</td></tr>
+            <tr><td>3</td><td>91.03</td><td>48113009103</td><td>District 5</td></tr>
+            <tr><td>4</td><td>170.07</td><td>48113017007</td><td>District 8</td></tr>
+            <tr><td>5</td><td>92.02</td><td>48113009202</td><td>District 5</td></tr>
+          </tbody>
+        </table>
+
+        <h3>Seven civic cycles for intervention timing</h3>
+        <ol class="sm-list">
+          <li>Dallas City Council budget markup (annual, August&ndash;September)</li>
+          <li>Capital Improvement Program bond planning (triennial cycle)</li>
+          <li>TIF board reviews (quarterly)</li>
+          <li>NEZ annual designations</li>
+          <li>DHA / PHA board meetings (monthly)</li>
+          <li>Council district town halls (rolling)</li>
+          <li>Texas legislative session (biennial)</li>
+        </ol>
+
+        <p class="sm-pullquote">
+          &ldquo;H6 showed where displacement pressure is arriving. H4 shows what's there to absorb it &mdash; and for the most urgent 14 tracts, the answer is essentially nothing.&rdquo;
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- =========================================================
+     COLOPHON / FOOTER
+     ========================================================= -->
+<footer class="sm-colophon">
+  <div class="sm-colophon-inner">
+    <div>
+      <h3>About this StoryMap</h3>
+      <p>
+        This scroll-driven StoryMap accompanies the undergraduate thesis <em>Below the Line: Development as Governance and the Geography of Displacement Risk in Dallas</em>, by Nicholas Donovan Hawkins, Texas Southern University. The code and all underlying data are open-sourced in the <a href="https://github.com/ndhthecatalyst/displacement-defense-atlas" rel="noopener">Displacement Defense Atlas</a> GitHub repository.
+      </p>
+    </div>
+    <div>
+      <h3>Data sources</h3>
+      <ul>
+        <li>City of Dallas CIP (FY2012&ndash;present); Vendor Payments (FY2019&ndash;present, 145,551 rows)</li>
+        <li>Dallas OED PID boundaries &amp; 2024 annual budgets</li>
+        <li>2025 Dallas TIF Annual Report; CDFI Fund / Treasury OZ designations</li>
+        <li>ACS 5-yr 2013 &amp; 2023 (B03002, B19013, B25003, B25077); CPI-U (BLS)</li>
+        <li>FFIEC HMDA 2022&ndash;2023; Mapping Inequality HOLC 1937</li>
+        <li>HUD LIHTC; HUD Picture of Subsidized Households 2023; HUD HCAs</li>
+        <li>TIGER/Line 2020/2023 census tracts; Dallas Council Districts 2023</li>
+        <li>Texas Ethics Commission 2000&ndash;2026; FEC; Dallas CFR</li>
+      </ul>
+    </div>
+    <div>
+      <h3>Cite this work</h3>
+      <p class="sm-citation">
+        Hawkins, N. D. (2027). <em>Below the Line: Development as Governance and the Geography of Displacement Risk in Dallas.</em> Undergraduate thesis, Texas Southern University. Displacement Defense Atlas v5 &mdash; <a href="https://github.com/ndhthecatalyst/displacement-defense-atlas">github.com/ndhthecatalyst/displacement-defense-atlas</a>.
+      </p>
+    </div>
+  </div>
+  <p class="sm-legal">
+    &copy; 2026&ndash;2027 Nicholas Donovan Hawkins. All rights reserved. Code MIT-licensed; narrative and figures CC BY-NC-SA 4.0.
+  </p>
+</footer>
+
+<!-- Scroll progress bar -->
+<div class="sm-progress" id="smProgress" aria-hidden="true"></div>
+
+<script src="js/storymap.js" defer></script>
+</body>
+</html>
