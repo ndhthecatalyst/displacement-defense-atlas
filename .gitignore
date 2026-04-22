@@ -20,6 +20,9 @@ env/
 *.cpg
 *.sbn
 *.sbx
+*.shp.xml
+*.shp.ea.iso.xml
+*.shp.iso.xml
 
 # Keep GeoJSON/CSV outputs (< 50MB)
 # Large processed files: use Git LFS or OneDrive
