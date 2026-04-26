@@ -2,7 +2,7 @@
 ## Below the Line: Development as Governance and the Geography of Displacement Risk in Dallas
 
 **Author:** Nicholas Donovan Hawkins
-**Institution:** Texas Southern University · Thomas F. Freeman Honors College
+**Institution:** Texas Southern University
 **Degree:** B.A. General Studies
 **Advisor:** [TBD]
 **Thesis Due:** December 15, 2027
@@ -169,7 +169,7 @@ Additional Layer 3b sources (added April 25, 2026):
 
 ### Citation
 
-Hawkins, N. D. (2027). *Below the Line: Development as Governance and the Geography of Displacement Risk in Dallas.* Undergraduate Thesis, Texas Southern University, Thomas F. Freeman Honors College.
+Hawkins, N. D. (2027). *Below the Line: Development as Governance and the Geography of Displacement Risk in Dallas.* Undergraduate Thesis, Texas Southern University.
 
 ---
 
