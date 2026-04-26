@@ -54,11 +54,12 @@ The original (v0) question asked *who lives near* a road project. The v5 correct
 displacement-defense-atlas/
 ├── data/
 │   ├── raw/
-│   │   ├── layer1_cip/              # CIP projects + bond programs
-│   │   ├── layer2_pid/              # PID boundaries + assessments
-│   │   ├── layer3_tif_oz/           # TIF districts + OZ designations
-│   │   ├── layer4_sfr/              # Institutional SFR ownership
-│   │   └── layer5_vendor_residue/   # Vendor payments + geocoding
+│   │   ├── layer0_boundaries/       # Council districts, TIGER tracts
+│   │   ├── layer1_investment/       # CIP projects + bond programs + vendor payments
+│   │   ├── layer2_mechanism/        # PID boundaries + assessments
+│   │   ├── layer3_tif_oz/           # TIF subdistricts + OZ designations + ground-truth ledger
+│   │   ├── layer3_early_warning/    # ACS / HMDA / HOLC inputs (legacy name; keeps current scripts working)
+│   │   └── layer4_readiness/        # LIHTC, HUD Picture, NEZ, council, HCAs, community orgs
 │   ├── processed/                   # Harmonized GeoJSON & CSVs
 │   └── exports/                     # Publication-ready tables
 ├── scripts/
@@ -96,9 +97,11 @@ displacement-defense-atlas/
 | L1 — CIP | Dallas CIP Projects + Bond Programs (2012/2017/2024) | City of Dallas Open Data |
 | L2 — PID | Dallas PID Boundaries | Dallas GIS Hub (`215f5e7243d44c25b7e503e3dafe73da`, `16a1eb7a28f143ffb3714435ffac740a`) |
 | L2 — PID | PID Annual Assessments | Dallas OED + individual PID reports |
+| L3 — TIF/OZ | TIF Subdistrict Boundaries | [Dallas GIS Hub item `867cb869d7764aeda0832f8af3512b02`](https://gisservices-dallasgis.opendata.arcgis.com/maps/867cb869d7764aeda0832f8af3512b02) |
 | L3 — TIF/OZ | TIF District Boundaries + Annual Increment | Dallas County 2025 TIF Annual Report; Dallas OED |
-| L3 — TIF/OZ | Opportunity Zone Designations | CDFI Fund / U.S. Treasury |
-| L3 — TIF/OZ | QOF Investment by Tract | IRS Form 8996 |
+| L3 — TIF/OZ | Opportunity Zone Designations | [HUD Open Data layer `ef143299845841f8abb95969c01f88b5_13`](https://hudgis-hud.opendata.arcgis.com/datasets/ef143299845841f8abb95969c01f88b5_13); cross-checked against IRS Notice 2018-48 |
+| L3 — TIF/OZ | QOF Investment by Tract | IRS Form 8996; Dallas OED announcements; Novogradac OZ Investment Tracker; SEC EDGAR (publicly-traded QOFs) |
+| L3 — TIF/OZ | OZ ground-truth validation ledger | Manual curation — see `data/raw/layer3_tif_oz/README.md` |
 | L4 — SFR | Institutional SFR Ownership | CoreLogic / ATTOM / PropStream; Immergluck et al. |
 | L5 — Vendor | Dallas Vendor Payments (FY2019–present, 145,551 rows) | Dallas Open Data |
 | L5 — Vendor | Vendor Geocoding (ZIP5, 8,354 unique vendors) | Derived — this project |
