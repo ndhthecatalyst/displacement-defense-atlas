@@ -19,8 +19,12 @@ H4 adds a **readiness dimension** on top of H6's Bates v2.1 typology (645 Dallas
 | Dallas City Council District Boundaries (2023 redistricting) | [Dallas GIS Hub](https://services2.arcgis.com/rwnOSbfKSwyTBcwN/arcgis/rest/services/CouncilBoundaries/FeatureServer) | Effective May 2023 | 14 districts |
 | Census TIGER/Line 2020 tracts | Census TIGER 2020 | 2020 | 645 Dallas County |
 | H6 Bates v2.1 typology | `outputs/tables/h6_bates_full_typology.csv` | HEAD commit 0fa0dea | 645 tracts × 64 cols |
+| **TIF subdistrict polygons** | [Dallas GIS Hub item `867cb869d7764aeda0832f8af3512b02`](https://gisservices-dallasgis.opendata.arcgis.com/maps/867cb869d7764aeda0832f8af3512b02) — *added in v0.2 to replace the hardcoded bounding boxes flagged by the 2026-04-26 Layer 3 audit* | Current | TBD post-pipeline-run |
+| **Opportunity Zone tracts** | [HUD Open Data layer `ef143299845841f8abb95969c01f88b5_13`](https://hudgis-hud.opendata.arcgis.com/datasets/ef143299845841f8abb95969c01f88b5_13) — *added in v0.2 to replace the 30-GEOID hardcoded list flagged by the 2026-04-26 Layer 3 audit* | 2018 designation, 2010 tract vintage | TBD post-pipeline-run |
 
 **NHPD deliberately omitted** — behind a free login wall; the two datasets NHPD de-duplicates (HUD LIHTC + Picture of Subsidized Households) are ingested directly, so NHPD would be marginal enrichment. Flagged for next-session backfill.
+
+**TIF/OZ inputs note (added 2026-04-26):** Earlier H4 runs inherited TIF and OZ flags from `scripts/pipeline/atlas_v0_build.py`, which used 18 hand-typed bounding-box polygons for TIF districts and a 30-GEOID hardcoded list for OZ designations. The OZ join silently collapsed 30 hardcoded GEOIDs to 3 matched tracts (see Section 4 row 3 below) — a 90% loss now traced to a vintage/string-padding mismatch. The new pipeline (`scripts/pipeline/build_layer3_tif_oz.py`) joins against the authoritative City of Dallas GIS Hub and HUD Open Data layers cited above. PR-2 will re-run H4 against the corrected inputs and update the counts in Section 4.
 
 ---
 
@@ -85,7 +89,7 @@ Top 14 priority tracts (intervention target):
 
 Full ranked list: `outputs/tables/h4_priority_54.csv`.
 
-Council-district concentration across all 54: **District 8 (14 tracts), District 3 (14), District 5 (5), District 4 (4), District 1 (3)**, plus 14 tracts outside the City of Dallas limits. These four council members — Bazaldua (District 7 overlaps), Atkins (8), Gracey (3), Schultz (4), Resendez (5) — are the thesis's primary intervention audience.
+Council-district concentration across all 54: **District 8 (14 tracts), District 3 (14), District 5 (5), District 4 (4), District 1 (3)**, plus 14 tracts outside the City of Dallas limits. The intervention audience for these districts is the council members representing them in the May 2023 redistricting roster: Atkins (D8), Gracey (D3), Resendez (D5), Schultz (D4), and West (D1). District 7 (Bazaldua) overlaps a small share of the priority tract footprint and is included as a secondary audience.
 
 ---
 
@@ -101,6 +105,8 @@ Council-district concentration across all 54: **District 8 (14 tracts), District
 | 122 Susceptible tracts | OZ designated | **0** | — | — |
 | **54 South Susceptible tracts** | **TIF present** | **0** | — | — |
 | **54 South Susceptible tracts** | **OZ designated** | **0** | — | — |
+
+> **Caveat (added 2026-04-26):** The TIF and OZ counts in this table were computed from the hardcoded inputs in `scripts/pipeline/atlas_v0_build.py` (18 bounding-box approximations for TIF; 30-GEOID list for OZ that silently matched only 3 tracts in this panel). The 0/0 result for the 54 South Susceptible tracts may be robust under the corrected pipeline (`scripts/pipeline/build_layer3_tif_oz.py`) but cannot be defended until that pipeline runs against the authoritative City of Dallas TIF Subdistricts layer and HUD Opportunity Zones layer. PR-2 will re-run and update this table with sourced values; the corresponding `H4_WITH_TIF_OZ` key in `docs/FACTS.md` is annotated as `provenance: pending-rerun` until then.
 
 **Key finding:** *Zero* of the 54 South Susceptible tracts have a TIF district or an active Opportunity Zone designation. County-wide, TIF tracts show higher readiness (mean 0.158 vs 0.088) because TIF zones concentrate in already-subsidized downtown/near-core areas. **South Dallas is susceptible to displacement without any current capital-tool scaffolding in place** — the opposite of the hypothesis that tool density without readiness is the crisis configuration. The crisis configuration here is **pressure without tools OR readiness** — a more severe version of the hypothesis.
 

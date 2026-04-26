@@ -1737,5 +1737,173 @@ gdf["pid_present"] = gdf.geometry.intersects(pid_gdf.union_all()).astype(int)
 
 ---
 
-*End of Displacement Defense Atlas v0 Cartographic Specifications.*  
-*File: output_map_specifications.md | Generated for Nicholas Donovan Hawkins, TSU Freeman Honors College*
+# Atlas v0.2 Expansion — Maps D, E, F + Figure G
+
+*Added 2026-04-26 as part of the Layer 3 audit response. The original three-map sequence (a Vulnerability → b Tool Intensity → c Need-vs-Investment Gap) is preserved. The atlas is now a seven-panel set whose reading order is*
+
+> **A → F → C → D → B → E → G**
+>
+> *composite where the architecture bears down → where displacement is heading → need vs receipt → mechanism (institutional ownership) → extraction (vendor gap) → mechanism interaction (PID × SFR) → political close (recirculation Sankey).*
+
+The composite Map A is **promoted to the lead** because the fellowship reader needs the punchline before the components. To preempt the "why those weights?" objection, Map A ships as one composite panel **plus a 5-up small-multiples sidebar** showing each normalized layer score independently — composite defensible by visual inspection rather than by argument.
+
+---
+
+## MAP (a, revised): CAPITAL STACK EXPOSURE COMPOSITE
+
+### Analytical Purpose
+Lead panel. Visualizes the **full-stack exposure score** — the composite of all five layers (CIP, PID/HOA, TIF/OZ, Institutional SFR, Vendor Residue) as a single 0-1 index across all 645 Dallas County tracts. Answers *where does the architecture bear down most* before any individual layer is shown. Sources its values from the H3 capital-stack composite analysis, with one important upgrade: the L3 input is no longer a binary `tif_present | oz_designated` flag but a continuous `(tif_lifetime_increment_$_per_tract + qof_$_per_tract)` value normalized to [0, 1]. This addresses the audit finding that the original H3 composite used a binary L3 input that erased the magnitude of capital deployment.
+
+### Layer Stack (Bottom → Top)
+1. CartoDB Positron basemap (alpha=0.4)
+2. Dallas County tract polygons (TIGER 2020), filled by `capital_stack_score` ∈ [0, 1]
+3. I-30 corridor line (thick gray, dashed)
+4. Top-10 tract labels with `capital_stack_score ≥ 0.85`
+5. Map furniture
+
+### Sidebar
+A 5-up vertical strip on the right edge: one mini-choropleth per layer, same extent and same diverging RdBu ramp, sized at ~1/4 the main panel's width. Each labeled `L1 CIP`, `L2 PID/HOA`, `L3 TIF/OZ`, `L4 SFR`, `L5 Vendor Residue`. The composite (main panel) uses ColorBrewer YlOrRd 5-class.
+
+### Score construction
+```
+capital_stack_score =
+    0.20 · norm(L1_cip_per_capita_inverted)        # high score = low CIP
+  + 0.20 · norm(L2_pid_assessment_per_capita_inv)  # high score = thin PID
+  + 0.20 · norm(L3_tif_oz_capital_deployed_inv)    # high score = no TIF/OZ deployed
+  + 0.20 · norm(L4_institutional_sfr_share)        # high score = high SFR concentration
+  + 0.20 · norm(L5_vendor_residue_share_inv)       # high score = low residue
+```
+Equal weights chosen by simplicity, not by theoretical priority. Sensitivity check (PR-2 follow-up): re-weight by layer dollar magnitude and compare correlation with H4 priority list.
+
+### Output
+`outputs/figures/atlas_v0_map_a_capital_stack_composite.png` (300 DPI, 12×10 in incl. sidebar)
+
+---
+
+## MAP (b, revised): CIP DISCRETIONARY VENDOR GAP OVERLAY
+
+### Analytical Purpose
+Visualizes the **economic extraction loop** uncovered in H6: 83% of the vendors selected for CIP-funded contracts in South Dallas are headquartered in North Dallas. Capital is deployed *into* southern communities; the economic value of that deployment is captured by vendors *outside* those communities. This is the single most concrete operationalization of the thesis's "investability without return" claim.
+
+### Layer Stack (Bottom → Top)
+1. CartoDB Positron basemap (alpha=0.4)
+2. Dallas County tracts, filled by `cip_total_$_received` (sequential YlGn, dimmer)
+3. CIP project polygons/lines from `data/raw/layer1_investment/CIP_Lines_*.csv` (gold lines, alpha=0.6)
+4. Vendor HQ ZIP centroids (red dots, sized by total contract $ received), already geocoded in `outputs/tables/h6_vendor_hq_geocoded.csv`
+5. Curved arcs from project centroid → vendor HQ centroid where contract $ ≥ $5M (alpha=0.4, no arrowhead)
+6. I-30 corridor (thick gray, dashed)
+7. Map furniture + side-panel histogram of vendor HQ distance from project (km) split by north/south project location
+
+### Color Ramp
+Sequential YlGn 5-class for tract fill (need); single accent red `#b30000` for vendor HQ markers; soft black for arcs.
+
+### Output
+`outputs/figures/atlas_v0_map_b_cip_vendor_gap.png` (300 DPI, 12×10 in)
+
+### Data inputs
+- `data/raw/layer1_investment/Capital_Improvement_Program_*.csv`
+- `outputs/tables/h6_vendor_hq_geocoded.csv`
+- `outputs/tables/h6_vendor_project_spatial_join.csv`
+
+---
+
+## MAP (d): INSTITUTIONAL SFR OWNERSHIP CONCENTRATION
+
+### Analytical Purpose
+Layer 4 — institutional single-family-rental (SFR) ownership concentration. Documents the post-2012 mega-investor capture pattern (Invitation Homes, Tricon, AMH, Progress, etc.) showing 3× national-average SFR ownership share in majority-Black tracts.
+
+### Status
+Already constructed at `maps/v1/04_institutional_sfr_ownership_v1.html`. Re-render against the corrected L3 inputs is **not** required — Map D consumes Layer 4 only.
+
+### Output
+`outputs/figures/atlas_v0_map_d_institutional_sfr.png` (PR-3)
+
+---
+
+## MAP (e): PID × SFR INTERACTION OVERLAY (deferred to v0.3)
+
+### Analytical Purpose
+Tests the H3 interaction hypothesis: tracts with *low* PID coverage (Layer 2 absence) AND *high* institutional SFR concentration (Layer 4 presence) predict the Dynamic Gentrification and Historic Loss Bates stages with the highest accuracy. Visualizes as a **bivariate choropleth** (3×3 grid) of `pid_assessment_per_capita` × `sfr_institutional_share`.
+
+### Headline support
+- Downtown PID assessment $13.5M/yr vs South Side $411K/yr (33× gap, FACTS.md `L2_GAP_MULTIPLIER`)
+- 3× national-average SFR rate in Black neighborhoods (FACTS.md `L4_DFW_MEGA_INVESTOR_UNITS = 26,961`)
+
+### Status — DEFERRED
+Institutional SFR ownership data at the tract level requires CoreLogic / ATTOM / PropStream (paywalled). The existing `data/h4_readiness/h4_tract_readiness_with_sfr.csv` covers a partial panel; sufficiency for Map E will be assessed in PR-2. If insufficient, Map E ships in v0.3 once licensed SFR data is acquired.
+
+### Output (when built)
+`outputs/figures/atlas_v0_map_e_pid_sfr_bivariate.png`
+
+---
+
+## MAP (f): BATES LONGITUDINAL DISPLACEMENT STAGING
+
+### Analytical Purpose
+Prospective risk map. Classifies each tract into a Bates v2.1 displacement stage — *Stable | Susceptible | Early: Type 1 | Early: Type 2 | Dynamic | Late: Continued Loss | Historic Loss* — using a longitudinal panel of ACS 2013 ↔ 2023 indicators (CPI-adjusted via the LTDB crosswalk). Answers *this is where displacement is heading*, not *this is where it already happened*.
+
+### Layer Stack (Bottom → Top)
+1. CartoDB Positron basemap (alpha=0.4)
+2. Dallas County tracts filled by Bates stage (categorical, 7-class qualitative palette)
+3. I-30 corridor (thick gray, dashed)
+4. Optional: arrows on tracts that changed stage between 2013 and 2023 (Susceptible → Dynamic, etc.)
+5. Map furniture + sidebar bar chart of tract counts per stage
+
+### Color palette
+ColorBrewer 7-class qualitative; reserve `#969696` (gray) for Stable so the displaced/displacing tracts pop visually.
+
+### Tract panel
+- **Primary panel:** 385 LTDB-matched tracts (2013 ↔ 2023). Source: `outputs/tables/h6_bates_full_typology.csv`.
+- **Honest scope sidebar:** 260 unmatched tracts shown as a separate small bar broken out by reason (split / merge / area adjustment / no 2013 match). The sidebar is itself a credibility move — it shows the reader you understand the limits of LTDB.
+
+### Output
+`outputs/figures/atlas_v0_map_f_bates_longitudinal.png` (300 DPI, 12×10 in incl. sidebar)
+
+---
+
+## FIGURE (g): POLITICAL RECIRCULATION SANKEY
+
+### Note on labeling
+Labeled **Figure G** rather than Map G. This is a network/Sankey diagram with no spatial coordinates — calling it a map would mislead a reader who expects geographic precision from the rest of the atlas.
+
+### Analytical Purpose
+Visualizes the H5 closing argument: top-18 vendors → corporate parents → PAC affiliations → state/federal political recipients. Shows that extraction operates not only as vendor work-and-leave but also as political funding to secure the contracts in the first place. The headline finding (`H5_DIRECT_COUNCIL_CONTRIBUTIONS_TOP18 = 0`) is the visual argument: **no direct municipal flow, only state and federal recirculation**.
+
+### Diagram structure (left → right)
+1. **Vendors** (18 nodes, sized by total Dallas contract $)
+2. **Corporate parents** (e.g., CRH plc → Texas Materials Group; Southland Holdings → Oscar Renda Contracting)
+3. **PACs** (e.g., Texans for Opportunity)
+4. **Recipients** (e.g., Tan Parker TX HD-63; Texas state party committees; FEC-registered federal candidates)
+
+### Highlighted flows (annotated)
+- $58.9M → Texas Materials Group → CRH plc (Ireland) — `H5_TEXAS_MATERIALS_GROUP_TOTAL`
+- BAR Constructors + Archer Western → Texans for Opportunity PAC → TX Prop 4
+- Tan Parker (TX HD-63) ← Southland Holdings board interlock ← Oscar Renda $26.5M
+
+### Data inputs
+- `outputs/tables/h5_vendor_political_contributions.csv`
+- `outputs/tables/h5_vendor_contribution_summary.csv`
+
+### Output
+`outputs/figures/atlas_v0_figure_g_political_recirculation.png` (300 DPI; consider also an interactive Plotly Sankey for the StoryMap surface)
+
+---
+
+## Atlas v0.2 build sequence
+
+| Step | Output | Blocker |
+|------|--------|---------|
+| 1 | `data/processed/layer3_tif_oz_tract_flags.csv` | Notion uploads (PR-1 scaffold complete) |
+| 2 | Map A composite + 5-up sidebar | Step 1 + capital_stack_score recomputation |
+| 3 | Map B CIP vendor gap | Step 1 (uses CIP + vendor data already in repo) |
+| 4 | Map F Bates longitudinal | None — uses existing `h6_bates_full_typology.csv` |
+| 5 | Re-render Map C against corrected L3 inputs | Step 1 |
+| 6 | Re-render Map D (no L3 dependency) | None |
+| 7 | Figure G political recirculation Sankey | None — uses existing H5 outputs |
+| 8 | Map E bivariate (DEFERRED) | SFR data sufficiency check |
+
+---
+
+*End of Displacement Defense Atlas Cartographic Specifications.*
+*v0 (a, b, c) — original spec.*
+*v0.2 (a-revised, b-revised, d, e, f, figure g) — added 2026-04-26.*
