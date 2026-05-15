@@ -1,4 +1,5 @@
 import Story from "@/components/Story";
+import DeepDive from "@/components/DeepDive";
 import { FACTS } from "@/lib/facts";
 
 export default function Home() {
@@ -35,6 +36,9 @@ export default function Home() {
 
       {/* Scrollytelling */}
       <Story />
+
+      {/* Deep dive — Folium v1 atlas embeds */}
+      <DeepDive />
 
       {/* Footer */}
       <footer className="border-t border-white/10 px-6 sm:px-12 py-12 text-sm text-white/60">
