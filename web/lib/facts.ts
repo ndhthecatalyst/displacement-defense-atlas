@@ -1,0 +1,27 @@
+// Canonical figures — sourced from /docs/FACTS.md
+// Do not edit numbers here without a paired update to FACTS.md.
+export const FACTS = {
+  L1_TOTAL_FY2012_2026: "$984M",
+  L2_DOWNTOWN_ANNUAL: "$13.5M",
+  L2_SOUTH_SIDE_ANNUAL: "$411K",
+  L2_GAP_MULTIPLIER: "33×",
+  L3_DOWNTOWN_TIF: "$8.83B",
+  L3_GRAND_PARK_SOUTH_TIF: "$333M",
+  L3_RATIO: "26:1",
+  L4_DFW_MEGA_INVESTOR_UNITS: "26,961",
+  L5_NORTH_TOTAL: "$369.2M",
+  L5_NORTH_SHARE: "25.3%",
+  L5_SOUTH_TOTAL: "$38.3M",
+  L5_SOUTH_SHARE: "2.6%",
+  L5_GAP_MULTIPLIER: "12.6×",
+  H1_HOLC_D_BETA: "+247.6",
+  H4_SUSCEPTIBLE_SOUTH_TRACTS: "54",
+  H4_WITH_TIF_OZ: "0",
+  H4_HIGH_PRESSURE_LOW_READINESS: "44",
+  H4_IMMEDIATE_PRIORITY: "14",
+  H5_SOUTHLAND_CONTRACTS: "$26.5M",
+  H5_TEXAS_MATERIALS_CRH_SHARE: "15¢",
+  H5_TEXAS_MATERIALS_TOTAL: "$58.9M",
+} as const;
+
+export type FactKey = keyof typeof FACTS;
