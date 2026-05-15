@@ -1,4 +1,5 @@
 import Story from "@/components/Story";
+import CityExplorer from "@/components/CityExplorer";
 import DeepDive from "@/components/DeepDive";
 import { FACTS } from "@/lib/facts";
 
@@ -36,6 +37,9 @@ export default function Home() {
 
       {/* Scrollytelling */}
       <Story />
+
+      {/* City lookup — pick any municipality and see its tracts aggregated */}
+      <CityExplorer />
 
       {/* Deep dive — Folium v1 atlas embeds */}
       <DeepDive />

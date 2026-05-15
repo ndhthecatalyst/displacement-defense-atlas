@@ -8,6 +8,9 @@ type Props = {
   layer: LayerKey;
   highlightSouth?: boolean;
   zoomTarget?: "county" | "south" | "downtown";
+  cityBoundary?: GeoJSON.Feature | null;
+  fitBbox?: [number, number, number, number] | null;
+  onTractsReady?: (features: GeoJSON.Feature[]) => void;
 };
 
 const TARGETS = {
@@ -20,7 +23,14 @@ const TARGETS = {
 const STYLE_URL =
   "https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json";
 
-export default function AtlasMap({ layer, highlightSouth = true, zoomTarget = "county" }: Props) {
+export default function AtlasMap({
+  layer,
+  highlightSouth = true,
+  zoomTarget = "county",
+  cityBoundary = null,
+  fitBbox = null,
+  onTractsReady,
+}: Props) {
   const containerRef = useRef<HTMLDivElement>(null);
   const mapRef = useRef<MLMap | null>(null);
   const loadedRef = useRef(false);
@@ -58,6 +68,13 @@ export default function AtlasMap({ layer, highlightSouth = true, zoomTarget = "c
       }
 
       map.addSource("tracts", { type: "geojson", data: gj });
+      if (onTractsReady) onTractsReady(gj.features as GeoJSON.Feature[]);
+
+      // City boundary source — starts empty; filled via prop changes.
+      map.addSource("city", {
+        type: "geojson",
+        data: { type: "FeatureCollection", features: [] },
+      });
 
       map.addLayer({
         id: "tracts-fill",
@@ -112,6 +129,26 @@ export default function AtlasMap({ layer, highlightSouth = true, zoomTarget = "c
         },
       });
 
+      // City boundary visual layers — drawn above tract fills.
+      map.addLayer({
+        id: "city-fill",
+        type: "fill",
+        source: "city",
+        paint: { "fill-color": "#22d3ee", "fill-opacity": 0.06 },
+      });
+      map.addLayer({
+        id: "city-outline-glow",
+        type: "line",
+        source: "city",
+        paint: { "line-color": "#22d3ee", "line-width": 6, "line-opacity": 0.25, "line-blur": 4 },
+      });
+      map.addLayer({
+        id: "city-outline",
+        type: "line",
+        source: "city",
+        paint: { "line-color": "#22d3ee", "line-width": 2.2, "line-opacity": 0.95 },
+      });
+
       map.on("mousemove", "tracts-fill", (e: MapMouseEvent & { features?: maplibregl.MapGeoJSONFeature[] }) => {
         const f = e.features?.[0];
         if (!f) return;
@@ -144,13 +181,39 @@ export default function AtlasMap({ layer, highlightSouth = true, zoomTarget = "c
     }
   }, [layer]);
 
-  // React to zoom target
+  // React to zoom target — only when no explicit bbox is active.
   useEffect(() => {
     const map = mapRef.current;
-    if (!map) return;
+    if (!map || fitBbox) return;
     const t = TARGETS[zoomTarget];
     map.flyTo({ center: t.center, zoom: t.zoom, duration: 1400, essential: true });
-  }, [zoomTarget]);
+  }, [zoomTarget, fitBbox]);
+
+  // React to city boundary changes
+  useEffect(() => {
+    const map = mapRef.current;
+    if (!map || !loadedRef.current) return;
+    const src = map.getSource("city") as maplibregl.GeoJSONSource | undefined;
+    if (!src) return;
+    if (cityBoundary) {
+      src.setData({ type: "FeatureCollection", features: [cityBoundary] });
+    } else {
+      src.setData({ type: "FeatureCollection", features: [] });
+    }
+  }, [cityBoundary]);
+
+  // React to bbox fit requests
+  useEffect(() => {
+    const map = mapRef.current;
+    if (!map || !fitBbox) return;
+    map.fitBounds(
+      [
+        [fitBbox[0], fitBbox[1]],
+        [fitBbox[2], fitBbox[3]],
+      ],
+      { padding: 60, duration: 1600, maxZoom: 12.5 }
+    );
+  }, [fitBbox]);
 
   return (
     <div className="relative h-full w-full">
